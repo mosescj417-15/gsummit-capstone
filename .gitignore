@@ -1,1 +1,4 @@
 venv
+cache
+data/raw
+data/Motor_Vehicle_Collisions_-_Crashes.csv
