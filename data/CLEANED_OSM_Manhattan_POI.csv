@@ -1,6 +1,6 @@
-@id,@type,@lat,@lon,name,tourism,wikipedia,addr:housenumber,addr:street,addr:city,addr:state,addr:postcode
+id,type,lat,lon,name,tourism,wikipedia,housenumber,street,city,state,postcode
 158801311,node,40.7251022,-73.9795833,Alphabet City,yes,,,,,,
-158809984,node,40.7228800,-73.9987505,SoHo,attraction,"en:SoHo, Manhattan",,,,,
+158809984,node,40.72288,-73.9987505,SoHo,attraction,"en:SoHo, Manhattan",,,,,
 158862484,node,40.7486231,-73.9713889,Tudor City,yes,,,,,,
 320948228,node,40.7057505,-74.0029056,South Street Seaport,attraction,en:South Street Seaport,,,,,
 357618558,node,40.7322674,-73.9972548,"New York Studio School of Drawing, Painting and Sculpture",yes,"en:New York Studio School of Drawing, Painting and Sculpture",,,,,
@@ -9,18 +9,18 @@
 368042980,node,40.7214798,-73.9971028,Storefront for Art and Architecture,gallery,en:Storefront for Art and Architecture,97,Kenmare Street,,,10012
 368043598,node,40.7338007,-74.0021484,Stonewall Inn,attraction,en:Stonewall Inn,53,Christopher Street,New York,NY,10014
 368043670,node,40.7470923,-74.0064354,Paula Cooper Gallery,gallery,,525,West 21st Street,New York,NY,10011
-368052081,node,40.7033870,-74.0113540,Fraunces Tavern Museum,museum,,54,Pearl Street,New York,NY,10004
-368061337,node,40.7040270,-74.0137470,National Museum of the American Indian,museum,,1,Bowling Green,New York,NY,10004
+368052081,node,40.703387,-74.011354,Fraunces Tavern Museum,museum,,54,Pearl Street,New York,NY,10004
+368061337,node,40.704027,-74.013747,National Museum of the American Indian,museum,,1,Bowling Green,New York,NY,10004
 368061366,node,40.7593341,-73.9841239,Times Square Museum & Visitor Center,information,,,,,NY,
 368061418,node,40.7823754,-73.9811723,Hotel Belleclaire,hotel,,2175,Broadway,New York,NY,10024
-368061423,node,40.7819444,-73.9825000,Hotel Churchill,hotel,,,,,NY,
-368061605,node,40.7379780,-73.9938312,Yeshiva University Museum,museum,en:Yeshiva University Museum,,,,NY,
-368061657,node,40.7250000,-73.9977778,Museum of African Art,museum,,,,,NY,
+368061423,node,40.7819444,-73.9825,Hotel Churchill,hotel,,,,,NY,
+368061605,node,40.737978,-73.9938312,Yeshiva University Museum,museum,en:Yeshiva University Museum,,,,NY,
+368061657,node,40.725,-73.9977778,Museum of African Art,museum,,,,,NY,
 368061660,node,40.7187837,-73.9900266,Lower East Side Tenement Museum,museum,en:Lower East Side Tenement Museum,103,Orchard Street,New York,NY,
 368062558,node,40.7707317,-73.9804233,West Side YMCA,hostel,,,,,NY,10023
 373069793,node,40.7055641,-74.0134462,Charging Bull,artwork,en:Charging Bull,,,,,
 422438959,node,40.7701407,-73.9723395,Sir Walter Scott,artwork,en:Statue of Walter Scott (New York City),,,,,
-422438963,node,40.7701930,-73.9725659,Robert Burns,artwork,en:Robert Burns (Steell),,,,,
+422438963,node,40.770193,-73.9725659,Robert Burns,artwork,en:Robert Burns (Steell),,,,,
 422438965,node,40.7699059,-73.9727725,Christopher Columbus,artwork,en:Statue of Christopher Columbus (Central Park),,,,,
 432760466,node,40.7942639,-73.9519498,Three Dancing Maidens â Untermyer Fountain,artwork,en:Three Dancing Maidens,,,,,
 561042174,node,40.7104974,-74.0138892,The Sphere,artwork,en:The Sphere,,,,,
@@ -32,38 +32,38 @@
 600524075,node,40.7931582,-73.9527596,Burnett Memorial Fountain,artwork,en:Burnett Memorial Fountain,,,,,
 600524231,node,40.7952752,-73.9521167,,viewpoint,,,,,,
 600524342,node,40.7965284,-73.9528662,,viewpoint,,,,,,
-607275263,node,40.8041820,-73.9514750,L-Hostels,hostel,,,,,,
+607275263,node,40.804182,-73.951475,L-Hostels,hostel,,,,,,
 746176809,node,40.7936648,-73.9710998,,hostel,,,,,,
 746730288,node,40.8498716,-73.9446423,GWB View,viewpoint,,,,,,
 748726562,node,40.8509205,-73.9268503,HBP 187 View,viewpoint,,,,,,
 748726564,node,40.8494463,-73.9285932,,viewpoint,,,,,,
 748726568,node,40.8373579,-73.9354673,,viewpoint,,,,,,
-748726681,node,40.8569690,-73.9217898,,viewpoint,,,,,,
+748726681,node,40.856969,-73.9217898,,viewpoint,,,,,,
 765351907,node,40.8463207,-73.9296031,,viewpoint,,,,,,
 765365662,node,40.8462228,-73.9295373,,viewpoint,,,,,,
-793892336,node,40.7044082,-74.0145980,Netherland Monument,artwork,,,,,,
+793892336,node,40.7044082,-74.014598,Netherland Monument,artwork,,,,,,
 822939198,node,40.7814188,-73.9799422,Amsterdam Inn,hotel,,,,,,
-889117109,node,40.7149558,-74.0156940,Conrad,hotel,,102,North End Avenue,New York,,10282
-889473084,node,40.7155750,-74.0088570,The Frederick Hotel,hotel,,,,,,
+889117109,node,40.7149558,-74.015694,Conrad,hotel,,102,North End Avenue,New York,,10282
+889473084,node,40.715575,-74.008857,The Frederick Hotel,hotel,,,,,,
 990032612,node,40.7443441,-73.9867075,Latham,hotel,,4,East 28th Street,New York,NY,
-999526140,node,40.7690103,-73.9829120,Mandarin Oriental,hotel,"en:Mandarin Oriental, New York",80,Columbus Circle,New York,NY,10023
-1061531752,node,40.7966540,-73.9708276,Hotel 99,hotel,,244,West 99th Street,New York,NY,10025
-1103801857,node,40.7278340,-73.9907398,"The Standard, East Village",hotel,,25,Cooper Square,New York,,10003
+999526140,node,40.7690103,-73.982912,Mandarin Oriental,hotel,"en:Mandarin Oriental, New York",80,Columbus Circle,New York,NY,10023
+1061531752,node,40.796654,-73.9708276,Hotel 99,hotel,,244,West 99th Street,New York,NY,10025
+1103801857,node,40.727834,-73.9907398,"The Standard, East Village",hotel,,25,Cooper Square,New York,,10003
 1203709404,node,40.8609689,-73.9183446,Sherman Creek,picnic_site,,,,,,
 1209512095,node,40.8656888,-73.9276819,,artwork,,,,,,
 1209670190,node,40.8657494,-73.9320915,,viewpoint,,,,,,
 1209670522,node,40.8662504,-73.9312198,,viewpoint,,,,,,
 1209670689,node,40.8662433,-73.9311863,,viewpoint,,,,,,
-1209670731,node,40.8659637,-73.9321320,,viewpoint,,,,,,
+1209670731,node,40.8659637,-73.932132,,viewpoint,,,,,,
 1209977122,node,40.8626092,-73.9332844,,viewpoint,,,,,,
 1210424407,node,40.8597959,-73.9338417,,information,,,,,,
 1215606715,node,40.8615335,-73.9334253,,viewpoint,,,,,,
 1240900810,node,40.7679978,-73.9727565,Tortoise,attraction,,,,,,
 1240900824,node,40.7683715,-73.9716059,Seal,attraction,,,,,,
 1240900847,node,40.7681959,-73.9713336,Puffin,attraction,,,,,,
-1240900912,node,40.7678190,-73.9717588,California Sea Lion,attraction,,,,,,
-1240900960,node,40.7683299,-73.9714570,Gentoo Penguin,attraction,,,,,,
-1240900963,node,40.7684111,-73.9719130,Grizzly Bear,attraction,,,,,,
+1240900912,node,40.767819,-73.9717588,California Sea Lion,attraction,,,,,,
+1240900960,node,40.7683299,-73.971457,Gentoo Penguin,attraction,,,,,,
+1240900963,node,40.7684111,-73.971913,Grizzly Bear,attraction,,,,,,
 1240901027,node,40.7681796,-73.9723113,Snow Monkey,attraction,,,,,,
 1240901089,node,40.7682913,-73.9727846,Red Panda,attraction,,,,,,
 1240901124,node,40.7686428,-73.9726493,Snow Leopard,attraction,,,,,,
@@ -78,7 +78,7 @@
 1549441335,node,40.8673822,-73.9228859,Dyckman Farmhouse Museum,museum,,4881,Broadway,New York,NY,10034
 1606670273,node,40.7021499,-74.0158334,Eagle,artwork,,,,,,
 1642095638,node,40.7497873,-73.9679798,United Nations Visitors Centre,information,,,,,,
-1693299134,node,40.7063710,-74.0091960,Museum of American Finance,museum,en:Museum of American Finance,,,,,
+1693299134,node,40.706371,-74.009196,Museum of American Finance,museum,en:Museum of American Finance,,,,,
 1707825821,node,40.7537504,-73.9945935,TRYP,hotel,,,,,,
 1737296888,node,40.7205455,-74.0162222,,viewpoint,,,,,,
 1809517485,node,40.7932576,-73.9722071,Night Hotel,hotel,,215,West 94th Street,New York,NY,10025
@@ -87,30 +87,30 @@
 1810737613,node,40.7919555,-73.9734339,,information,,,,,,
 1821015967,node,40.7870324,-73.9778334,,information,,,,,,
 1821015973,node,40.7905852,-73.9745404,,information,,,,,,
-1821451551,node,40.7590853,-73.9954390,YOTEL,hotel,,570,10th Avenue,New York,NY,10036
+1821451551,node,40.7590853,-73.995439,YOTEL,hotel,,570,10th Avenue,New York,NY,10036
 1825848811,node,40.7944638,-73.9715707,LinkNYC,information,,,,,,
-1825848822,node,40.7948930,-73.9718649,,information,,,,,,
+1825848822,node,40.794893,-73.9718649,,information,,,,,,
 1825848823,node,40.7951736,-73.9710415,,information,,,,,,
-1825848827,node,40.7957790,-73.9707450,,information,,,,,,
+1825848827,node,40.795779,-73.970745,,information,,,,,,
 1825848831,node,40.7973979,-73.9700151,,information,,,,,,
 1825848833,node,40.7986635,-73.9691112,,information,,,,,,
 1834885412,node,40.7996299,-73.9679647,,information,,,,,,
-1873813874,node,40.7645150,-73.9958863,Ink 48 Hotel,hotel,,653,11th Avenue,New York,NY,10036
+1873813874,node,40.764515,-73.9958863,Ink 48 Hotel,hotel,,653,11th Avenue,New York,NY,10036
 2041819940,node,40.8204618,-73.9596787,,viewpoint,,,,,,
 2047267696,node,40.7807355,-73.9810912,Hotel Beacon,hotel,en:Hotel Beacon,2130,Broadway,New York,NY,10023
-2091641954,node,40.7967400,-73.9625840,Central Park Inn,hostel,,19,West 103rd Street,New York,NY,10025
+2091641954,node,40.79674,-73.962584,Central Park Inn,hostel,,19,West 103rd Street,New York,NY,10025
 2165157812,node,40.7559859,-73.9725033,W Hotels,hotel,,541,Lexington Avenue,New York,,10022
 2186522365,node,40.7132396,-74.0114845,Jasperâs Split Star,artwork,,,,,,
-2194406569,node,40.7722222,-73.9778380,Green Visitor Center & Gift Shop,information,,,,,,
+2194406569,node,40.7722222,-73.977838,Green Visitor Center & Gift Shop,information,,,,,,
 2270245977,node,40.8471692,-73.9420363,3000 A.D. Diffusion Piece,artwork,,,,,,
 2279017961,node,40.8023279,-73.9675784,Link NYC,information,,,,,,
 2307164617,node,40.7451377,-73.9900206,Senton Hotel,hotel,,39,West 27th Street,New York,,10001
-2307164624,node,40.7444690,-73.9891087,Broadway Plaza Hotel,hotel,,1155,Broadway,New York,,10001
-2317577533,node,40.7421430,-73.9847160,Hotel Giraffe,hotel,,365,Park Avenue South,New York,,10016
+2307164624,node,40.744469,-73.9891087,Broadway Plaza Hotel,hotel,,1155,Broadway,New York,,10001
+2317577533,node,40.742143,-73.984716,Hotel Giraffe,hotel,,365,Park Avenue South,New York,,10016
 2325990473,node,40.7443742,-73.9968175,Hotel Chelsea,hotel,en:Hotel Chelsea,222,West 23rd Street,New York,,10011
 2339527552,node,40.8011976,-73.9389456,Growth,artwork,,,,,,
-2350274315,node,40.8651110,-73.9321426,,viewpoint,,,,,,
-2376384666,node,40.7700440,-73.9953548,,information,,,,,,
+2350274315,node,40.865111,-73.9321426,,viewpoint,,,,,,
+2376384666,node,40.770044,-73.9953548,,information,,,,,,
 2377128188,node,40.7446533,-73.9993815,The GEM Hotel Chelsea,hotel,,300,West 22nd Street,New York,NY,10011
 2435110791,node,40.7587593,-73.9851462,George M. Cohan,artwork,en:Statue of George M. Cohan,,,,,
 2443892148,node,40.7864094,-73.9783047,,information,,,,,,
@@ -124,9 +124,9 @@
 2547223676,node,40.7240871,-74.0021462,The Broken Kilometer (DIA),gallery,,393,West Broadway,New York,,10012
 2547241713,node,40.7222983,-73.9984441,Nino Mier Gallery,gallery,,62,Crosby Street,New York,,10012
 2547247028,node,40.7195332,-73.9947277,Sohotel,hotel,,341,Broome Street,,,10013
-2554956143,node,40.7219487,-73.9904340,Powers Lowenfels Gallery,gallery,,53,Stanton Street,,,10002
+2554956143,node,40.7219487,-73.990434,Powers Lowenfels Gallery,gallery,,53,Stanton Street,,,10002
 2555099371,node,40.7192831,-73.9968082,NobleDen,hotel,,196,Grand Street,,,10013
-2555126629,node,40.7207190,-73.9892808,Krause Gallery,gallery,,149,Allen Street,New York,NY,10002
+2555126629,node,40.720719,-73.9892808,Krause Gallery,gallery,,149,Allen Street,New York,NY,10002
 2555126668,node,40.7231911,-73.9902082,The Gatsby Hotel,hotel,,135,East Houston Street,,,10002
 2560788275,node,40.8734158,-73.9299788,,picnic_site,,,,,,
 2560788281,node,40.8738604,-73.9298484,,picnic_site,,,,,,
@@ -135,14 +135,14 @@
 2565702271,node,40.7226366,-74.0098159,Art Projects International,gallery,,434,Greenwich Street,New York,NY,10013
 2567557185,node,40.7185164,-73.9904291,Magenta Plains,gallery,,94,Allen Street,,,10002
 2572411292,node,40.7238201,-74.0052592,SoHo 54 Hotel,hotel,,54,Watts Street,,,10013
-2583212034,node,40.8009770,-73.9618499,Grimandi Art Gallery,gallery,,988,Columbus Avenue,New York,NY,10025
-2592264900,node,40.7405330,-74.0018066,,information,,,,,,
+2583212034,node,40.800977,-73.9618499,Grimandi Art Gallery,gallery,,988,Columbus Avenue,New York,NY,10025
+2592264900,node,40.740533,-74.0018066,,information,,,,,,
 2610440255,node,40.7621727,-73.9829659,The Manhattan at Times Square Hotel,hotel,,,,New York,,
 2629371810,node,40.7602216,-73.9581709,The Bentley Hotel,hotel,,500,East 62nd Street,,,
 2629371837,node,40.7573984,-73.9698932,Courtyard,hotel,,866,Third Avenue,New York,NY,10022
 2639531695,node,40.7590569,-73.9849891,Francis P. Duffy,artwork,en:Statue of Francis P. Duffy,,,,,
 2639531871,node,40.7597371,-73.9845837,Renaissance New York Times Square Hotel,hotel,,,,,,
-2704048088,node,40.7392696,-73.9867750,Fotografiska,museum,en:Fotografiska New York,281,Park Avenue South,New york,Ny,10010
+2704048088,node,40.7392696,-73.986775,Fotografiska,museum,en:Fotografiska New York,281,Park Avenue South,New york,Ny,10010
 2704104151,node,40.7401959,-73.9826682,Carlton Arms Hotel,hotel,,160,East 25th Street,,,10010
 2704105139,node,40.7394627,-73.9822461,The Marcel,hotel,,201,East 24th Street,,,10010
 2706918023,node,40.7427837,-73.9830954,Parksouth Hotel,hotel,,124,East 28th Street,,,10016
@@ -158,40 +158,40 @@
 2717355355,node,40.7627592,-73.9835908,The Msocial,hotel,,226,West 52nd Street,,,10019
 2723953331,node,40.7742485,-73.9629901,CafÃ© Carlyle,yes,,35,East 76th Street,,,10021
 2724154223,node,40.7861156,-73.9438404,House ZAZA,guest_house,,330,East 100th Street,,,10029
-2727025835,node,40.7810330,-73.9645720,Alexander Hamilton,artwork,,,,,,
+2727025835,node,40.781033,-73.964572,Alexander Hamilton,artwork,,,,,,
 2727025839,node,40.7699607,-73.9710098,Balto,artwork,en:Statue of Balto,,,,,
 2727025888,node,40.7737621,-73.9764403,7th Regiment Memorial,artwork,,,,,,
-2758752391,node,40.7887880,-73.9752734,Hotel Belnord,hotel,,209,West 87th Street,New York,NY,10024
+2758752391,node,40.788788,-73.9752734,Hotel Belnord,hotel,,209,West 87th Street,New York,NY,10024
 2759308679,node,40.7935439,-73.9722622,The Hotel Newton,hotel,,2528,Broadway,New York,NY,10025
 2768171711,node,40.8237942,-73.9465643,La casa de los Tenenbaums,attraction,,339,Convent Avenue,,,10031
 2768275469,node,40.8321455,-73.9448716,Children's Cultural Center of Native America,museum,,550,West 155th Street,New York,NY,10032
 2777135780,node,40.7573258,-73.9982956,Best Western Convention Center,hotel,,522,West 38th Street,,,
-2785336067,node,40.7596520,-74.0038925,City Sightseeing New York,sightseeing,,455,12th Avenue,New York,NY,10018
+2785336067,node,40.759652,-74.0038925,City Sightseeing New York,sightseeing,,455,12th Avenue,New York,NY,10018
 2807977112,node,40.7089149,-74.0103932,Red Cube,artwork,,,,,,
-2808241058,node,40.7057500,-74.0176910,Skyscraper Museum,museum,en:Skyscraper Museum,39,Battery Place,New York,NY,10280
+2808241058,node,40.70575,-74.017691,Skyscraper Museum,museum,en:Skyscraper Museum,39,Battery Place,New York,NY,10280
 2824641182,node,40.7098246,-74.0138782,World Center Hotel,hotel,,144,Washington Street,New York,NY,10006
-2824972485,node,40.7056440,-74.0155054,Sonder at Battery Park,hotel,,2,Washington Street,New York,NY,10004
+2824972485,node,40.705644,-74.0155054,Sonder at Battery Park,hotel,,2,Washington Street,New York,NY,10004
 2825051771,node,40.7050392,-74.0078925,Hyatt Centric,hotel,,75,Wall Street,New York,NY,10005
 2825051790,node,40.7051879,-74.0061997,Eurostars Wall Street,hotel,,129,Front Street,New York,,10005
-2825052305,node,40.7059800,-74.0050486,Fairfield Inn New York Manhattan/Financial District,hotel,,161,Front Street,New York,NY,10038
+2825052305,node,40.70598,-74.0050486,Fairfield Inn New York Manhattan/Financial District,hotel,,161,Front Street,New York,NY,10038
 2825125240,node,40.7080083,-74.0014177,"33 Hotel, New York City, Seaport",hotel,,33,Peck Slip,New York,NY,10038
-2825233330,node,40.7137440,-74.0050720,Hall des LumiÃ¨res,museum,,49,Chambers Street,New York,NY,10007
-2826494992,node,40.7136360,-73.9936267,Hotel91,hotel,,91,East Broadway,New York,NY,10002
+2825233330,node,40.713744,-74.005072,Hall des LumiÃ¨res,museum,,49,Chambers Street,New York,NY,10007
+2826494992,node,40.713636,-73.9936267,Hotel91,hotel,,91,East Broadway,New York,NY,10002
 2826801779,node,40.7184451,-73.9826995,Hashimoto Contemporary,gallery,,210,Rivington Street,New York,NY,10002
 2895921312,node,40.7051091,-74.0038404,,information,,,,,,
-2898706753,node,40.7066280,-74.0036760,South Street Seaport Museum,museum,,12,Fulton Street,,,10038
+2898706753,node,40.706628,-74.003676,South Street Seaport Museum,museum,,12,Fulton Street,,,10038
 2945458607,node,40.7528315,-73.9810928,Andaz,hotel,,485,5th Avenue,New York,NY,10017
-3008612563,node,40.7455870,-73.9936036,Hilton New York Fashion District,hotel,,150,West 26th Street,New York,NY,10001
+3008612563,node,40.745587,-73.9936036,Hilton New York Fashion District,hotel,,150,West 26th Street,New York,NY,10001
 3053660724,node,40.7794692,-73.9732913,Alexander von Humboldt,artwork,,,,,,
 3053660725,node,40.7886205,-73.9559997,Albert Bertel Thorvaldsen,artwork,,,,,,
-3053660726,node,40.7747533,-73.9741180,Daniel Webster,artwork,en:Statue of Daniel Webster (New York City),,,,,
+3053660726,node,40.7747533,-73.974118,Daniel Webster,artwork,en:Statue of Daniel Webster (New York City),,,,,
 3053660728,node,40.7731728,-73.9717355,Johann Christoph Friedrich Von Schiller,artwork,,,,,,
 3053660730,node,40.7843754,-73.9592113,John Purroy Mitchel,artwork,,,,,,
 3053660731,node,40.7660454,-73.9760662,JosÃ© MartÃ­,artwork,en:Equestrian statue of JosÃ© MartÃ­ (Central Park),,,,,
 3053660732,node,40.7660429,-73.9766301,JosÃ© de San MartÃ­n,artwork,en:Equestrian statue of JosÃ© de San MartÃ­n (Central Park),,,,,
 3053662533,node,40.7789243,-73.9666796,King Jagiello Monument,artwork,en:King Jagiello Monument,,,,,
 3053662534,node,40.7728773,-73.9718893,Ludwig van Beethoven,artwork,en:Ludwig van Beethoven (Baerer),,,,,
-3053662565,node,40.7657085,-73.9757790,SimÃ³n BolÃ­var,artwork,en:Equestrian statue of SimÃ³n BolÃ­var (Central Park),,,,,
+3053662565,node,40.7657085,-73.975779,SimÃ³n BolÃ­var,artwork,en:Equestrian statue of SimÃ³n BolÃ­var (Central Park),,,,,
 3070512789,node,40.7104591,-74.0140533,America's Response Monument,artwork,en:America's Response Monument,,,,,
 3089168986,node,40.7219999,-73.9937383,The Bowery House,hostel,,220,Bowery,,,
 3116191043,node,40.7654216,-73.9793143,Park Hyatt New York,hotel,,153,West 57th Street,New York,NY,10019
@@ -208,22 +208,22 @@
 3341913861,node,40.7774949,-73.9639416,Group of Bears,artwork,,,,,,
 3345157568,node,40.6870431,-74.0173179,,information,,,,,,
 3345175215,node,40.6882503,-74.0189106,,artwork,,,,,,
-3345175216,node,40.6891920,-74.0174300,,artwork,,,,,,
+3345175216,node,40.689192,-74.01743,,artwork,,,,,,
 3351167989,node,40.7019951,-73.9974077,Granite Prospect,viewpoint,,,,,,
 3381640179,node,40.7089672,-74.0109293,Joie de Vivre,artwork,en:Joie de Vivre (di Suvero),,,,,
 3394722237,node,40.7506894,-73.9675854,Non-Violence,artwork,en:Non-Violence (sculpture),,,,,
 3421054404,node,40.7298846,-73.9910185,Alamo,artwork,en:Alamo (sculpture),,,,,
 3507260981,node,40.7460969,-73.9891468,The Paul,hotel,,,,,,
 3572646793,node,40.7676311,-73.9725255,Tropical Zone,attraction,,,,,,
-3576702127,node,40.7537603,-73.9741300,Hotel Boutique,hotel,,,,,,
-3576702128,node,40.7531460,-73.9744245,Club Quarters Hotel,hotel,,128,East 45th Street,New York,,10017
-3579300780,node,40.7351440,-73.9910983,,artwork,,,,,,
+3576702127,node,40.7537603,-73.97413,Hotel Boutique,hotel,,,,,,
+3576702128,node,40.753146,-73.9744245,Club Quarters Hotel,hotel,,128,East 45th Street,New York,,10017
+3579300780,node,40.735144,-73.9910983,,artwork,,,,,,
 3579300781,node,40.7351992,-73.9911276,,artwork,,,,,,
-3579300782,node,40.7353050,-73.9911543,,artwork,,,,,,
+3579300782,node,40.735305,-73.9911543,,artwork,,,,,,
 3597257542,node,40.7534287,-73.9838795,Le Carrousel,attraction,en:Bryant Park#Carousel,,,,,
 3623620317,node,40.7466544,-73.9941473,The Museum at FIT,museum,,,,,,
 3643531404,node,40.8511613,-73.9452407,,viewpoint,,,,,,
-3675401488,node,40.7151821,-74.0167760,,viewpoint,,,,,,
+3675401488,node,40.7151821,-74.016776,,viewpoint,,,,,,
 3676888125,node,40.7331057,-73.9863256,Union Square Inn,hotel,,209,East 14th Street,New York,NY,10003
 3683156293,node,40.7226408,-73.9929154,Sunshine Hotel,hotel,,245,Bowery,New York,NY,10002
 3738928741,node,40.7075375,-74.0078274,,artwork,,,,,,
@@ -233,15 +233,15 @@
 3762647251,node,40.7034823,-74.0105202,Coenties Ship,artwork,,,,,,
 3762705762,node,40.7168073,-74.0154568,,viewpoint,,,,,,
 3772310632,node,40.7500941,-73.9691197,,artwork,,,,,,
-3784197524,node,40.7077270,-74.0068037,Two,artwork,,,,,,
+3784197524,node,40.707727,-74.0068037,Two,artwork,,,,,,
 3799397613,node,40.7386731,-73.9945722,Chelsa Inn Hotel,hotel,,46,West 17th Street,,,10011
 3829129593,node,40.7505535,-73.9694314,Millennium Hilton One UN Plaza,hotel,en:Millennium Hilton New York One UN Plaza,1,United Nations Plaza,New York,,10017
 3830610284,node,40.7323594,-74.0052999,Friends Building,attraction,,90,Bedford Street,New York,,10014
 3846182257,node,40.8067133,-73.9617763,Alexander Hamilton,artwork,en:Statue of Alexander Hamilton (Columbia University),,,,,
-3876344857,node,40.7435189,-73.9938480,The Townhouse Inn of Chelsea,hotel,,131,West 23rd Street,New York,,10011
-3888093170,node,40.7659280,-73.9732450,Thomas Moore,artwork,,,,,,
+3876344857,node,40.7435189,-73.993848,The Townhouse Inn of Chelsea,hotel,,131,West 23rd Street,New York,,10011
+3888093170,node,40.765928,-73.973245,Thomas Moore,artwork,,,,,,
 3891884870,node,40.7727282,-73.9722858,Victor Herbert,artwork,en:Bust of Victor Herbert,,,,,
-3892214691,node,40.7744790,-73.9677251,Hans Christian Andersen,artwork,,,,,,
+3892214691,node,40.774479,-73.9677251,Hans Christian Andersen,artwork,,,,,,
 3892214703,node,40.7731439,-73.9684393,The Pilgrim,artwork,,,,,,
 3902065229,node,40.7174701,-73.9949761,World Hotel,hotel,,101,Bowery,,,
 3907629319,node,40.8086544,-73.9615238,Curl,artwork,,,,,,
@@ -251,14 +251,14 @@
 4049375105,node,40.7331117,-73.9871616,LinkNYC,information,,141,3rd Avenue,New York,NY,10003
 4061847835,node,40.7432132,-73.9908672,Wyndham Garden Manhattan Chelsea West,hotel,,37,West 24th Street,New York,NY,10010
 4080363530,node,40.6927237,-74.0159547,The Trust for Governors Island,museum,,,,,,
-4097207404,node,40.7112377,-74.0109180,Entrance to Oculus,information,,,,,,
+4097207404,node,40.7112377,-74.010918,Entrance to Oculus,information,,,,,,
 4097207406,node,40.7116135,-74.0124871,Memorial Entrance,information,,,,,,
 4097207413,node,40.7131316,-74.0135198,Observatory Entrance,information,,,,,,
-4097207416,node,40.7129490,-74.0130438,One World Observatory,viewpoint,,,,,,
+4097207416,node,40.712949,-74.0130438,One World Observatory,viewpoint,,,,,,
 4121316394,node,40.7127003,-74.0029361,5 in 1,artwork,en:5 in 1,,,,,
 4140516089,node,40.7063949,-74.0074419,Mint House,hotel,,70,Pine Street,,,
 4157970366,node,40.7818628,-73.9818912,The Wallace,hotel,,242,West 76th Street,New York,NY,10023
-4184001252,node,40.7564416,-73.9884360,CitySights NY,sightseeing,,234,West 42nd Street,New York,NY,10036
+4184001252,node,40.7564416,-73.988436,CitySights NY,sightseeing,,234,West 42nd Street,New York,NY,10036
 4213565912,node,40.8047139,-73.9485671,Efuru Guest House,hotel,,,,,,
 4224363289,node,40.7440374,-73.9873576,Museum of Sex,museum,en:Museum of Sex,233,5th Avenue,New York,NY,10016
 4230323498,node,40.7628768,-73.9780253,Listen,artwork,,,,,,
@@ -267,24 +267,24 @@
 4243439484,node,40.7584738,-73.9832127,Sanctuary Hotel,hotel,,132,West 47th Street,,,10036
 4252536496,node,40.7435852,-73.9877866,National Museum of Mathematics,museum,,225,5th Avenue,New York,NY,10010
 4252963690,node,40.7438908,-73.9838903,Royalton Park Avenue,hotel,,420,Park Avenue South,,,10016
-4254512932,node,40.7724831,-73.9674350,Samuel F. B. Morse,artwork,en:Samuel Finley Breese Morse (sculpture),,,,,
+4254512932,node,40.7724831,-73.967435,Samuel F. B. Morse,artwork,en:Samuel Finley Breese Morse (sculpture),,,,,
 4257985392,node,40.7600158,-73.9829482,Radio City Apartment,hotel,,142,West 49th Street,New York,,10019
 4270910090,node,40.7991902,-73.9753221,West side highway access,viewpoint,,,,,,
 4290878204,node,40.7804752,-73.9687205,Romeo and Juliet,artwork,en:Romeo and Juliet (Hebald),,,,,
 4290878205,node,40.7804476,-73.9686451,The Tempest,artwork,en:The Tempest (Hebald),,,,,
-4294989329,node,40.7802422,-73.9461230,Courtyard,hotel,,410,East 92nd Street,New York,NY,10128
+4294989329,node,40.7802422,-73.946123,Courtyard,hotel,,410,East 92nd Street,New York,NY,10128
 4304722228,node,40.7765196,-73.9719286,,viewpoint,,,,,,
 4305819700,node,40.7394145,-74.0081779,High Line,information,,,,,,
-4314829890,node,40.7242410,-73.9921517,Liz Christy Garden,attraction,en:Liz Christy Garden,,,,,
+4314829890,node,40.724241,-73.9921517,Liz Christy Garden,attraction,en:Liz Christy Garden,,,,,
 4316033908,node,40.7360205,-73.9870276,The Inn at Irving Place,hotel,,56,Irving Place,New York,NY,10003
 4319632990,node,40.7343016,-73.9945529,Salmagundi Club,gallery,en:Salmagundi Club,,,,,
-4319650089,node,40.7292800,-73.9924535,Colonnade row,attraction,en:Colonnade Row,,,,,
+4319650089,node,40.72928,-73.9924535,Colonnade row,attraction,en:Colonnade Row,,,,,
 4320917144,node,40.7643419,-73.9826989,Residence Inn New York Manhattan / Central Park,hotel,,1717,Broadway,New York,NY,10019
 4324579690,node,40.7273461,-73.9850116,Couv Led Zepp 5e album,attraction,,,,,,
-4332192139,node,40.7191050,-73.9975230,Italian American Museum,museum,,151,Mulberry Street,New York,NY,
+4332192139,node,40.719105,-73.997523,Italian American Museum,museum,,151,Mulberry Street,New York,NY,
 4351547190,node,40.7156257,-73.9984718,Chinatown,attraction,,,,,,
 4388613907,node,40.7629651,-73.9821345,Hope,artwork,,,,,,
-4389122972,node,40.7489761,-74.0045880,Gladstone Gallery,gallery,,515,West 24th Street,New York,NY,10011
+4389122972,node,40.7489761,-74.004588,Gladstone Gallery,gallery,,515,West 24th Street,New York,NY,10011
 4402057801,node,40.7036281,-74.0145339,John Ericsson,artwork,,,,,,
 4402057817,node,40.7030984,-74.0163913,The Immigrants,artwork,,,,,,
 4402339491,node,40.7440882,-73.9960078,Chelsea Savoy Hotel,hotel,,204,West 23rd Street,,,
@@ -307,10 +307,10 @@
 4491242890,node,40.8648684,-73.9319228,The Met Cloisters,museum,en:The Cloisters,99,Margaret Corbin Drive,,,10040
 4496779320,node,40.7187802,-74.0004094,JG Sohotel,hotel,,120,Lafayette Street,,,10013
 4546351678,node,40.7669673,-73.9845544,,artwork,,,,,,
-4555718200,node,40.7511584,-73.9710050,,artwork,,,,,,
+4555718200,node,40.7511584,-73.971005,,artwork,,,,,,
 4589677957,node,40.8618968,-73.9329314,,viewpoint,,,,,,
 4589677958,node,40.8586025,-73.9373797,Inspiration Point,viewpoint,en:Inspiration Point (Hudson River Greenway),,,,,
-4592135690,node,40.8241190,-73.9511893,Lotus Accomodation,guest_house,,,,,,
+4592135690,node,40.824119,-73.9511893,Lotus Accomodation,guest_house,,,,,,
 4596542825,node,40.7432235,-73.9990189,Chelsea international hostel,hostel,,251,West 20th Street,,,10011
 4602446190,node,40.7656693,-73.9834058,Jazz on Columbus Circle Hostel,hostel,,940,8th Avenue,New York,NY,10019
 4605597194,node,40.7230882,-73.9933858,ICP International Center of Photography Museum,museum,,,,,,10012
@@ -322,18 +322,18 @@
 4706140689,node,40.7220357,-73.9920403,Voltz Clarke Gallery,gallery,,,,,,
 4730458721,node,40.7253755,-74.0042453,,information,,,,,,
 4757184676,node,40.7068167,-74.0107995,Fearless Girl,artwork,en:Fearless Girl,,,,,
-4764733060,node,40.7209311,-73.9849740,Rachel Uffner,gallery,,170,Suffolk Street,New York,NY,10002
+4764733060,node,40.7209311,-73.984974,Rachel Uffner,gallery,,170,Suffolk Street,New York,NY,10002
 4771881065,node,40.7208065,-73.9852723,Morgan Presents,gallery,,155,Suffolk Street,New York,NY,10002
 4778356621,node,40.7813974,-73.9733215,Hayden Planetarium,museum,en:Rose Center for Earth and Space,200,Central Park West,New York,NY,10024
-4792176919,node,40.7139692,-73.9944350,,artwork,,,,,,
+4792176919,node,40.7139692,-73.994435,,artwork,,,,,,
 4796479832,node,40.7180866,-74.0155591,The Real World,artwork,,,,,,
-4798493527,node,40.7700521,-73.9657210,Michael Altman Fine Art,gallery,,38,East 70th Street,New York,NY,10021
+4798493527,node,40.7700521,-73.965721,Michael Altman Fine Art,gallery,,38,East 70th Street,New York,NY,10021
 4799157925,node,40.7077295,-73.9995351,,viewpoint,,,,,,
 4803945992,node,40.8142968,-73.9468071,La Maison d'Art Private Gallery,guest_house,,,,,,10027
 4809889324,node,40.7175806,-74.0032249,Shrine,gallery,,368,Broadway,,,10013
 4822806224,node,40.7098195,-74.0099251,Barthman's Sidewalk Clock,attraction,,,Maiden Lane,,,
 4822806225,node,40.7184994,-74.0048345,Dream house,attraction,,,,,,
-4822806226,node,40.7331990,-73.9946773,La de forest house,attraction,,,,,,
+4822806226,node,40.733199,-73.9946773,La de forest house,attraction,,,,,,
 4822836222,node,40.7856582,-73.9439308,Garbage museum,museum,,,,,,
 4822836421,node,40.7233245,-73.9883186,Maison sur les toits,attraction,,,,,,
 4862416321,node,40.7545277,-73.9945517,Luggage keeper,information,,357,,,,
@@ -344,9 +344,9 @@
 4968906701,node,40.7080481,-74.0098585,,information,,,,,,
 4968906702,node,40.7073974,-74.0086954,,information,,,,,,
 4968906705,node,40.7065664,-74.0068844,WalkNYC,information,,,,,,
-4968906707,node,40.7062010,-74.0057738,WalkNYC,information,,,,,,
+4968906707,node,40.706201,-74.0057738,WalkNYC,information,,,,,,
 4969051308,node,40.7921529,-73.9512309,,artwork,,,,,,
-4969057547,node,40.7923808,-73.9510660,,artwork,,,,,,
+4969057547,node,40.7923808,-73.951066,,artwork,,,,,,
 4971119409,node,40.7978432,-73.9394211,,artwork,,,,,,
 4972026327,node,40.7163748,-74.0070508,Marine and Maritime Art,artwork,,,,,,
 4990556756,node,40.6867757,-74.0248374,,viewpoint,,,,,,
@@ -366,69 +366,69 @@
 5058255017,node,40.7153021,-74.0021174,,information,,,,,,
 5058255300,node,40.7135942,-74.0065577,,information,,,,,,
 5067046492,node,40.7231733,-74.0022944,Dretore Gallery,gallery,,484,Broome Street,New York,NY,10013
-5098756521,node,40.7206143,-73.9953170,Nolitan Hotel,hotel,,30,Kenmare Street,,,10012
+5098756521,node,40.7206143,-73.995317,Nolitan Hotel,hotel,,30,Kenmare Street,,,10012
 5122652629,node,40.7412798,-73.9873848,New York EDITION,hotel,,,,,,
 5124295521,node,40.7491347,-73.9838247,U Hotel Fifth Avenue,hotel,,373,5th Avenue,,,
 5136640699,node,40.7354231,-73.9900756,Old Union Square,artwork,,,Union Square East,,,
-5166579821,node,40.7412100,-74.0067195,Ground Zero Museum Workshop,museum,,,,,,10014
+5166579821,node,40.74121,-74.0067195,Ground Zero Museum Workshop,museum,,,,,,10014
 5187017438,node,40.8065824,-73.9497363,Apollo Hotel,hotel,,2027,Adam Clayton Powell Jr. Boulevard,New York,NY,10027
 5190610589,node,40.7483271,-73.9856549,NY Skyride,attraction,,350,5th Avenue,New York,NY,10118
-5208733071,node,40.7030770,-74.0084183,,viewpoint,,,,,,
+5208733071,node,40.703077,-74.0084183,,viewpoint,,,,,,
 5213820829,node,40.7591163,-73.9814519,McGraw-Hill Sun Triangle,artwork,,,,,,
-5213998223,node,40.7405860,-74.0081171,Free Public Stargazing,viewpoint,,,,,,
+5213998223,node,40.740586,-74.0081171,Free Public Stargazing,viewpoint,,,,,,
 5214014521,node,40.7725562,-73.9835751,Free Public Stargazing,attraction,,,,,,
 5215246721,node,40.7174626,-74.0056679,Textile building,attraction,,,,,,
 5228777783,node,40.7528306,-73.9858447,Residence Inn Manhattan/Times Square,hotel,,1033,Avenue of the Americas,New York,NY,10018
 5243566395,node,40.7258697,-73.9987948,Bust of Sylvette,artwork,,,,,,
-5258640021,node,40.7549459,-73.9911130,The Ride,attraction,,,,,,
+5258640021,node,40.7549459,-73.991113,The Ride,attraction,,,,,,
 5265708147,node,40.7448844,-73.9999695,Colonial House,hotel,,318,West 22nd Street,,,
 5265714964,node,40.7179792,-74.0049073,The Print Room,gallery,,89,Franklin Street,,,
 5265730260,node,40.7404273,-73.9845484,,artwork,,,,,,
-5272797221,node,40.7500360,-73.9958068,SLA 307,artwork,,,,,,
+5272797221,node,40.750036,-73.9958068,SLA 307,artwork,,,,,,
 5281947323,node,40.7453075,-73.9815115,The Marmara,hotel,,112,East 32nd Street,,,
 5281963249,node,40.7432835,-73.9900361,Heritage Hotel,hotel,,18,West 25th Street,,,
 5290920621,node,40.7975494,-73.9503785,Ergie,apartment,,21,Central Park North,,,
 5296021049,node,40.8306967,-73.9416361,St Nicholas Hotel,hotel,,889,Saint Nicholas Avenue,,,
-5296084264,node,40.8304543,-73.9411710,Sugar Hill Children's Museum of Art and Story Telling,museum,,898,Saint Nicholas Avenue,,,10032
-5341573917,node,40.7604320,-73.9897411,The French Quarters Guest Apartments,hotel,,346,West 46th Street,,,10036
+5296084264,node,40.8304543,-73.941171,Sugar Hill Children's Museum of Art and Story Telling,museum,,898,Saint Nicholas Avenue,,,10032
+5341573917,node,40.760432,-73.9897411,The French Quarters Guest Apartments,hotel,,346,West 46th Street,,,10036
 5347662822,node,40.8348393,-73.9397021,Sylvan Terrace,viewpoint,en:Sylvan Place,,,,,
 5347726122,node,40.7859179,-73.9849146,,viewpoint,,,,,,
 5349369721,node,40.7730729,-73.9725019,Skate Circle,viewpoint,,,,,,
 5356822882,node,40.7753172,-73.9632598,The Mark,hotel,,25,East 77th Street,New York,NY,10075
 5415635153,node,40.7233254,-73.9931761,Westwood Gallery,gallery,,261,Bowery,New York,NY,10012
-5415641574,node,40.7211470,-73.9888546,Orchard Street Hotel,hotel,,163,Orchard Street,,,10002
-5420936939,node,40.8084179,-73.9476160,The Studio Museum In Harlem,museum,,144,West 125th Street,,,10027
+5415641574,node,40.721147,-73.9888546,Orchard Street Hotel,hotel,,163,Orchard Street,,,10002
+5420936939,node,40.8084179,-73.947616,The Studio Museum In Harlem,museum,,144,West 125th Street,,,10027
 5474022221,node,40.7602133,-73.9881913,Hotel Riu Plaza New York Times Square,hotel,,305,West 46th Street,New York,NY,10036
-5486607698,node,40.7497246,-73.9613920,,viewpoint,,,,,,
-5509996164,node,40.7284684,-73.9988200,The Renee and Chaim Gross Foundation,museum,,526,Laguardia Place,New York,NY,10012
+5486607698,node,40.7497246,-73.961392,,viewpoint,,,,,,
+5509996164,node,40.7284684,-73.99882,The Renee and Chaim Gross Foundation,museum,,526,Laguardia Place,New York,NY,10012
 5520364822,node,40.7104676,-74.0179145,The Upper Room,artwork,,,,,,
-5520375420,node,40.7087736,-74.0183690,Sitting Stance,artwork,,,,,,
-5537914954,node,40.7411298,-73.9921280,Bouley at Home,yes,,31,West 21st Street,New York,NY,10010
-5554351995,node,40.7361870,-74.0010862,Tiles for America,artwork,,,,,,
-5604242522,node,40.7608080,-73.9876064,The Gray Line City Sightseeing Visitor Centre,information,,,,,,
-5640186350,node,40.7173630,-74.0028150,Mmuseumm,museum,en:Mmuseumm,4,Cortlandt Alley,,,10013
+5520375420,node,40.7087736,-74.018369,Sitting Stance,artwork,,,,,,
+5537914954,node,40.7411298,-73.992128,Bouley at Home,yes,,31,West 21st Street,New York,NY,10010
+5554351995,node,40.736187,-74.0010862,Tiles for America,artwork,,,,,,
+5604242522,node,40.760808,-73.9876064,The Gray Line City Sightseeing Visitor Centre,information,,,,,,
+5640186350,node,40.717363,-74.002815,Mmuseumm,museum,en:Mmuseumm,4,Cortlandt Alley,,,10013
 5654226941,node,40.7589481,-73.9771802,ATLAS,artwork,,,,,,
 5683351246,node,40.7395776,-73.9831267,American Dream Bed & Breakfast,hostel,,168,East 24th Street,,,10010
 5695142890,node,40.7949144,-73.9715855,Broadway Mall Gallery,gallery,,,,,,
 5696677693,node,40.8304584,-73.9418599,Saint Nicholas Inn,guest_house,,,,,,
 5709017933,node,40.8719113,-73.9188055,Asian Arts,gallery,,579,West 215th Street,,,
-5747425246,node,40.7287300,-73.9985805,Center for Architecture,museum,,546,LaGuardia Place,,,
+5747425246,node,40.72873,-73.9985805,Center for Architecture,museum,,546,LaGuardia Place,,,
 5749566253,node,40.7249122,-73.9986434,Mercer Hotel,hotel,,147,Mercer Street,New York,NY,10012
 5754828380,node,40.7676341,-73.9895164,Link NYC,information,,,,,,
 5754828790,node,40.7682653,-73.9890617,Link NYC,information,,,,,,
 5758246021,node,40.7468751,-73.9921509,Hotel Hayden,hotel,,,,,,
 5763751554,node,40.7611131,-73.9739449,Anton Kern Gallery,attraction,,,,,,
-5789576235,node,40.7002730,-73.9994769,,viewpoint,,,,,,
+5789576235,node,40.700273,-73.9994769,,viewpoint,,,,,,
 5789577452,node,40.6994832,-73.9999673,,viewpoint,,,,,,
 5796751154,node,40.7535849,-73.9848031,Nikola Tesla Corner,information,,,6th Avenue,,,10018
-5798643423,node,40.8258130,-73.9485289,,hotel,,515,West 145th Street,New York,NY,10031
+5798643423,node,40.825813,-73.9485289,,hotel,,515,West 145th Street,New York,NY,10031
 5801872753,node,40.7074576,-74.0064548,Four Points by Sheraton,hotel,,6,Platt Street,,,
 5804901025,node,40.7159879,-74.0073387,Duane Street Hotel,hotel,,182,Duane Street,,,
 5813555226,node,40.8172422,-73.9586445,Miriam and Ira D. Wallach Art Gallery,gallery,,615,West 129th Street,New York,NY,10027
 5844051585,node,40.7590344,-73.9793952,Top of the Rock,viewpoint,,30,Rockefeller Plaza,New York,NY,
 5849724991,node,40.7650644,-73.9838591,Spyscape,attraction,,,,,,
 5897336985,node,40.7538804,-73.9874097,Golda Meir,artwork,en:Bust of Golda Meir,,,,,
-5911756385,node,40.8061378,-73.9473900,Greenâs house,apartment,,,,,,
+5911756385,node,40.8061378,-73.94739,Greenâs house,apartment,,,,,,
 5919381986,node,40.7144127,-73.9981498,Bloody Angle,attraction,,,,,,
 5919906699,node,40.7269555,-73.9926816,Eric Firestone Gallery,gallery,,40,Great Jones Street,,,10012
 5927576885,node,40.7319686,-73.9986093,Hangman's Elm,attraction,,,,,,
@@ -443,41 +443,41 @@
 5967511486,node,40.7035295,-73.9952975,,viewpoint,,,,,,
 5976417987,node,40.6931365,-74.0196818,,viewpoint,,,,,,
 5981269523,node,40.8564265,-73.9298867,Sidewalk Flowers,artwork,,,,,,
-6013503382,node,40.7466304,-73.9845950,Avalon Hotel,hotel,,,,,,
+6013503382,node,40.7466304,-73.984595,Avalon Hotel,hotel,,,,,,
 6030762121,node,40.7208594,-74.0042677,Sheraton,hotel,,,,,,
 6035120505,node,40.7396591,-74.0028554,Museum of Illusions,museum,,77,8th Avenue,,,
 6052834698,node,40.7591424,-73.9796681,NBC Studios,attraction,,,,,,
 6052834699,node,40.7257692,-74.0054309,Color Factory,attraction,,251,Spring Street,New York,NY,10013
-6100997485,node,40.7173755,-73.9992920,Explore Chinatown Information Kiosk,attraction,,,,,,
-6126960408,node,40.7491463,-73.9687940,Single Form,artwork,,,,,,
+6100997485,node,40.7173755,-73.999292,Explore Chinatown Information Kiosk,attraction,,,,,,
+6126960408,node,40.7491463,-73.968794,Single Form,artwork,,,,,,
 6149249429,node,40.7213374,-73.9857428,Vladimir Lenin,artwork,,178,Norfolk Street,New York,NY,10002-1013
 6150552527,node,40.7643867,-73.9631097,The Gardens Sonesta ES Suites,hotel,,215,East 64th Street,New York,NY,10065
 6150564513,node,40.7561485,-73.9708905,The Fifty Sonesta Select,hotel,,155,East 50th Street,New York,NY,10022
 6150575536,node,40.7484427,-73.9780562,The Shelburne Sonesta,hotel,,303,Lexington Avenue,New York,NY,10016
 6163555085,node,40.7133544,-74.0068703,Site of the Beach Pneumatic Subway,attraction,,1,Murray Street,,,
-6206843185,node,40.7733290,-73.9656246,Archibaldâs Townhouse,attraction,,,,,,
+6206843185,node,40.773329,-73.9656246,Archibaldâs Townhouse,attraction,,,,,,
 6222196494,node,40.7257629,-73.9937321,ZÃ¼rcher Studio,gallery,,33,Bleecker Street,,,10012
 6223478867,node,40.8090212,-73.9479293,Higher Ground,artwork,,,,,,
 6225327081,node,40.7258135,-73.9795215,Theresa Byrnes,gallery,,616,East 9th Street,,,
 6231307187,node,40.7117446,-73.9961249,SLEEPCENTER,gallery,,9,Monroe Street,New York,NY,10002
 6231307189,node,40.7117466,-73.9956636,Essex Flowers Gallery,gallery,,19,Monroe Street,New York,NY,10002
-6231514599,node,40.7134020,-73.9912954,FIERMAN,gallery,,127,Henry Street,New York,NY,10002
+6231514599,node,40.713402,-73.9912954,FIERMAN,gallery,,127,Henry Street,New York,NY,10002
 6233607285,node,40.7196295,-73.9887194,Con Artist Collective,gallery,,119,Ludlow Street,New York,NY,10002
 6233954066,node,40.7196517,-73.9892959,Perrotin New York,gallery,,130,Orchard Street,New York,NY,10002
 6236928048,node,40.7194926,-73.9899366,Sago Hotel,hotel,,120,Allen Street,New York,NY,10002
-6236928057,node,40.7200826,-73.9902320,bitforms gallery,gallery,,131,Allen Street,New York,NY,10002
+6236928057,node,40.7200826,-73.990232,bitforms gallery,gallery,,131,Allen Street,New York,NY,10002
 6244980517,node,40.8126196,-73.9621121,General Daniel Butterfield,artwork,,,,,,
-6245004725,node,40.8090110,-73.9622465,Reclining Woman,artwork,,,,,,
+6245004725,node,40.809011,-73.9622465,Reclining Woman,artwork,,,,,,
 6245012132,node,40.8074792,-73.9604879,"Three-Way Piece, No. 1: Points",artwork,,,,,,
 6246450385,node,40.6888438,-74.0446421,,viewpoint,,,,,,
 6256784609,node,40.7191881,-73.9911739,James Fuentes LLC,gallery,,55,Delancey Street,,,
 6259917258,node,40.8074652,-73.9635685,Thomas Jefferson,artwork,en:Statue of Thomas Jefferson (Columbia University),,,,,
 6261902489,node,40.7190232,-74.0036388,Alexander and Bonin,gallery,,47,Walker Street,,,
 6261904041,node,40.7191189,-74.0016688,,information,,,,,,
-6262714386,node,40.7565163,-73.9843410,hotel mela,hotel,,,,,,
+6262714386,node,40.7565163,-73.984341,hotel mela,hotel,,,,,,
 6271960188,node,40.7542354,-73.9880814,The Garment Worker,artwork,,,,,,
 6281938397,node,40.7139131,-73.9899544,Reena Spauldings Fine Art,gallery,,165,East Broadway,,,
-6285350420,node,40.7483530,-74.0052494,HG Contemporary,gallery,,527,West 23rd Street,New York,NY,10011
+6285350420,node,40.748353,-74.0052494,HG Contemporary,gallery,,527,West 23rd Street,New York,NY,10011
 6288548793,node,40.7190209,-74.0016678,Soho Garden Hotel,hotel,,276,Canal Street,,,
 6306418442,node,40.7432746,-73.9728127,Spot,artwork,,,,,,
 6309444106,node,40.7082719,-74.0136192,Courtyard New York Downtown Manhattan/World Trade Center Area,hotel,,100,Greenwich Street,New York,NY,10006
@@ -492,8 +492,8 @@
 6417061185,node,40.7201441,-73.9889614,Empirical Nonsense,gallery,,87,Rivington Street,,,
 6436744368,node,40.7546734,-73.9853284,The Guardians: Superhero,artwork,,,,,,
 6450762257,node,40.7485889,-73.9767878,Novo,apartment,,,,,,
-6456605729,node,40.7717920,-73.9825535,Dante Alighieri,artwork,en:Dante Park,,,,,
-6469210527,node,40.7720828,-73.9824620,Time Sculpture,artwork,,,,,,
+6456605729,node,40.771792,-73.9825535,Dante Alighieri,artwork,en:Dante Park,,,,,
+6469210527,node,40.7720828,-73.982462,Time Sculpture,artwork,,,,,,
 6478419609,node,40.7224564,-73.9841125,Karma Gallery,gallery,,188,East 2nd Street,,,
 6478990685,node,40.7629019,-73.9825076,,information,,,,,,
 6479506185,node,40.7097904,-74.0138914,Club Quarters Hotel at World Trade Center,hotel,,140,Washington Street,New York,NY,10006
@@ -503,30 +503,30 @@
 6572307052,node,40.7709814,-73.9953215,Private Passage,artwork,,,,,,
 6572519247,node,40.7397282,-74.0028849,Life Underground,artwork,en:Life Underground,,,,,
 6595542372,node,40.7249615,-73.9830825,Sixth Street Haunted House,gallery,,516,East 6th Street,,,
-6596032786,node,40.7458070,-74.0070327,David Zwirner,gallery,en:David Zwirner Gallery,525,West 19th Street,New York,NY,10011
+6596032786,node,40.745807,-74.0070327,David Zwirner,gallery,en:David Zwirner Gallery,525,West 19th Street,New York,NY,10011
 6611254406,node,40.7559916,-73.9812639,Club Quarter HÃ´tel,hotel,,,,,,
 6615272826,node,40.7571139,-73.9812965,The Hotel @ Times Square,hotel,,59,West 46th Street,,,10036
 6621617753,node,40.7351784,-73.9937187,,picnic_site,,,,,,
 6622078088,node,40.8086259,-73.9443965,Taste Harlem Tour,attraction,,,,,,
 6702620776,node,40.7524506,-73.9829743,Park Terrace Hotel,hotel,,,,,,
-6724492682,node,40.7265986,-73.9925450,La MaMa Galleria,gallery,,47,Great Jones Street,New York,NY,10012
+6724492682,node,40.7265986,-73.992545,La MaMa Galleria,gallery,,47,Great Jones Street,New York,NY,10012
 6732642780,node,40.7292292,-74.0063931,,artwork,,,,,,
 6732642781,node,40.7289629,-74.0064357,,artwork,,,,,,
 6746784455,node,40.7871002,-73.9699793,International Student Center,hostel,,,,,,
-6772798085,node,40.7710885,-73.9825700,David Rubenstein Atrium,information,,1887,Broadway,New York,NY,10023
+6772798085,node,40.7710885,-73.98257,David Rubenstein Atrium,information,,1887,Broadway,New York,NY,10023
 6799248315,node,40.8010754,-73.9387708,,artwork,,,,,,
 6799248318,node,40.8035266,-73.9361148,,information,,,,,,
-6804416830,node,40.8089260,-73.9620013,Scholars' Lion,artwork,,,,,,
-6821701104,node,40.7504131,-73.9662400,Let Us Beat Swords Into Ploughshares,artwork,,,,,,
+6804416830,node,40.808926,-73.9620013,Scholars' Lion,artwork,,,,,,
+6821701104,node,40.7504131,-73.96624,Let Us Beat Swords Into Ploughshares,artwork,,,,,,
 6821846246,node,40.8036855,-73.9580124,Lafayette and Washington,artwork,,,,,,
 6852303846,node,40.7506105,-73.9775762,The AKC Museum of the Dog,museum,,,,,,
-6910684112,node,40.7188203,-73.9921770,Derek Eller Gallery,gallery,,,,,,
-6912871515,node,40.8017808,-73.9703000,,artwork,en:Shinran#Statue,,,,,
+6910684112,node,40.7188203,-73.992177,Derek Eller Gallery,gallery,,,,,,
+6912871515,node,40.8017808,-73.9703,,artwork,en:Shinran#Statue,,,,,
 6920147490,node,40.7059512,-74.0012319,,viewpoint,,,,,,
 6920873880,node,40.7772279,-73.9633224,,artwork,,,,,,
 6937215658,node,40.7717951,-73.9676741,,artwork,,,,,,
 6938593585,node,40.7216444,-73.9883116,Jump into the Light VR Arcade,attraction,,,,,,
-6939916259,node,40.7166860,-73.9953975,Manhattan Bowery Lodge,hostel,,,,,,
+6939916259,node,40.716686,-73.9953975,Manhattan Bowery Lodge,hostel,,,,,,
 6946750323,node,40.7157859,-73.9999353,Sen Yat-sen,artwork,,,,,,
 6949759085,node,40.7232522,-74.0007008,King of Green Street,attraction,,72,Greene Street,,,
 6949759185,node,40.7211776,-74.0024475,Queen of Green Street,attraction,,28,Greene Street,,,
@@ -537,19 +537,19 @@
 7004367803,node,40.8059316,-73.9650795,LinkNYC,information,,,,,,
 7004416667,node,40.8080468,-73.9642091,,information,,,,,,
 7004437714,node,40.8073257,-73.9646342,,information,,,,,,
-7004437717,node,40.8067750,-73.9651350,,information,,,,,,
-7004462866,node,40.8075200,-73.9644811,,information,,,,,,
+7004437717,node,40.806775,-73.965135,,information,,,,,,
+7004462866,node,40.80752,-73.9644811,,information,,,,,,
 7022675225,node,40.7961438,-73.9709366,Link NYC,information,,,,,,
 7022675227,node,40.8024609,-73.9681639,Link NYC,information,,,,,,
 7022675228,node,40.7990521,-73.9688155,Link NYC,information,,,,,,
-7041713696,node,40.7648187,-73.9668270,Society of Illustrators,museum,,128,East 63rd Street,New York,NY,10065
-7041755317,node,40.7763620,-73.9559485,,information,,,,,,
+7041713696,node,40.7648187,-73.966827,Society of Illustrators,museum,,128,East 63rd Street,New York,NY,10065
+7041755317,node,40.776362,-73.9559485,,information,,,,,,
 7058463063,node,40.7046735,-74.0139984,Exploring Lower Manhattan,information,,,,,,
 7065533343,node,40.7946026,-73.9698264,LinkNYC,information,,,,,,
 7078649959,node,40.7284273,-73.9851727,East Village Hotel,hotel,,147,1st Avenue,New York,NY,10003
 7079510487,node,40.7656726,-73.9700902,,hostel,,692,Madison Avenue,,,
-7079516085,node,40.7656800,-73.9701137,,hotel,,692,Madison Avenue,,,
-7093539285,node,40.7491670,-73.9893438,Zerospace,artwork,,,,,,
+7079516085,node,40.76568,-73.9701137,,hotel,,692,Madison Avenue,,,
+7093539285,node,40.749167,-73.9893438,Zerospace,artwork,,,,,,
 7096788484,node,40.7508783,-73.9675707,Sphere Within Sphere,artwork,en:Sphere Within Sphere,,,,,
 7097820975,node,40.7086413,-74.0095235,Federal Reserve Bank of New York,information,,,,,,
 7098491803,node,40.7290786,-73.9867283,Art+Ray,gallery,,305,East 9th Street,New York,NY,10003
@@ -558,7 +558,7 @@
 7123476619,node,40.7745247,-73.9637532,Link NYC,information,,,,,,
 7125229785,node,40.7163942,-73.9988982,78-80 Mulberry Street,apartment,,,,,,
 7125399101,node,40.8019452,-73.9570629,Link NYC,information,,,,,,
-7134303419,node,40.7795370,-73.9599613,Link NYC,information,,,,,,
+7134303419,node,40.779537,-73.9599613,Link NYC,information,,,,,,
 7134303420,node,40.7681038,-73.9683955,Link NYC,information,,,,,,
 7134303439,node,40.7704866,-73.9665929,Link NYC,information,,,,,,
 7136857066,node,40.7319635,-73.9850377,LinkNYC,information,,,,,,
@@ -570,18 +570,18 @@
 7137345546,node,40.7323009,-73.9738214,,information,,,,,,
 7152625885,node,40.7238654,-73.9979055,Museum of Ice Cream,museum,,558,Broadway,,,
 7181779686,node,40.7424478,-74.0091644,Pier 55,attraction,,55,Hudson River Greenway,New York,NY,
-7192316158,node,40.7283124,-73.9902240,Penn Station Eagle,artwork,,,,,,
-7192316159,node,40.7501750,-73.9915562,Penn Station Eagle,artwork,,,,,,
+7192316158,node,40.7283124,-73.990224,Penn Station Eagle,artwork,,,,,,
+7192316159,node,40.750175,-73.9915562,Penn Station Eagle,artwork,,,,,,
 7192316160,node,40.7494716,-73.9920706,Penn Station Eagle,artwork,,,,,,
 7202313185,node,40.7202849,-73.9968262,Audrey Hepburn,artwork,,,,,,
 7207157866,node,40.7475882,-73.9771687,Oakwood Furnished Apartments,apartment,,,,,,
-7208978577,node,40.7052004,-74.0179920,,artwork,,,,,,
+7208978577,node,40.7052004,-74.017992,,artwork,,,,,,
 7208978997,node,40.7053192,-74.0180747,,artwork,,,,,,
 7214177977,node,40.7687861,-73.9817311,,artwork,,,,,,
 7245730436,node,40.8631512,-73.9331465,,viewpoint,,,,,,
 7245784643,node,40.8644911,-73.9327956,,viewpoint,,,,,,
 7246038804,node,40.8607217,-73.9320779,,viewpoint,,,,,,
-7246038807,node,40.8613369,-73.9320430,Columnade,artwork,,,,,,
+7246038807,node,40.8613369,-73.932043,Columnade,artwork,,,,,,
 7254138685,node,40.7592053,-73.9848962,TKTS Viewpoint,viewpoint,,,,,,
 7298030172,node,40.7731831,-73.9836819,Reclining Figure,artwork,en:Reclining Figure (Lincoln Center),,,,,
 7310660014,node,40.7847007,-73.9587533,,picnic_site,,,,,,
@@ -590,24 +590,24 @@
 7357111132,node,40.7729407,-73.9825034,Lincoln Center,information,,,,,,
 7375304594,node,40.7709555,-73.9838559,,artwork,,,,,,
 7375304602,node,40.7710073,-73.9837784,,artwork,,,,,,
-7375304611,node,40.7709561,-73.9837670,,artwork,,,,,,
+7375304611,node,40.7709561,-73.983767,,artwork,,,,,,
 7375974760,node,40.7713399,-73.9855947,Peter the Fisherman,artwork,,,,,,
 7377084852,node,40.7692289,-73.9738116,,information,,,,,,
-7415479526,node,40.7468137,-73.9823360,Hilton Garden Inn Midtown Park Avenue,hotel,,45,East 33rd Street,New York,NY,10016
+7415479526,node,40.7468137,-73.982336,Hilton Garden Inn Midtown Park Avenue,hotel,,45,East 33rd Street,New York,NY,10016
 7424474944,node,40.7422368,-73.9778923,,information,,,2nd Avenue,New York,,10016
 7424474957,node,40.7421246,-73.9776717,,information,,,,,,10016
 7424474958,node,40.7416812,-73.9779758,,information,,,,,,10016
 7447541790,node,40.7898169,-73.9520721,,artwork,,,,,,
 7447580897,node,40.7588807,-73.9854028,Walk NYC,information,,,,,,
 7447580941,node,40.7713396,-73.9835065,Lincoln Center,information,,,,,,
-7447580942,node,40.7711410,-73.9838482,Moses,artwork,,,,,,
+7447580942,node,40.771141,-73.9838482,Moses,artwork,,,,,,
 7474716561,node,40.7712914,-73.9834071,Walk NYC,information,,,,,,
 7522410085,node,40.7187368,-74.0004289,Lorca-El NiÃ±o de las Pinturas,artwork,,,,,,
 7527664914,node,40.7645382,-73.9988094,Hudson River Park,information,,,,,,
 7555084381,node,40.7719384,-73.9824398,,information,,,,,,
 7610006696,node,40.7841722,-73.9473274,,information,,,,,,
 7615599475,node,40.7727305,-73.9632895,Eleanor Roosevelt High Residence,attraction,,55,East 74th Street,,,
-7618290787,node,40.7713660,-73.9902725,Anya & Andrew Shiva Gallery,gallery,,860,11th Avenue,New York,NY,10019
+7618290787,node,40.771366,-73.9902725,Anya & Andrew Shiva Gallery,gallery,,860,11th Avenue,New York,NY,10019
 7618591463,node,40.7841741,-73.9671975,,information,,,,,,
 7618591476,node,40.7833072,-73.9676649,Seneca Village Landscape Geology,information,,,,,,
 7618614932,node,40.7814867,-73.9651584,,information,,,,,,
@@ -615,7 +615,7 @@
 7620039837,node,40.8001364,-73.9449612,Link NYC,information,,,,,,
 7620321361,node,40.8004112,-73.9427836,La Luz Que Sale De La Obscuridad,artwork,,,,,,
 7658594642,node,40.7978152,-73.9402755,Link NYC,information,,,,,,
-7658594647,node,40.7981537,-73.9400370,Link NYC,information,,,,,,
+7658594647,node,40.7981537,-73.940037,Link NYC,information,,,,,,
 7658594656,node,40.7986338,-73.9419148,,information,,,,,,
 7661292933,node,40.7713068,-73.9919455,Swinging Jenny,artwork,,,,,,
 7712478123,node,40.7153431,-74.0049558,Manhattan Sentinels,artwork,,,,,,
@@ -631,18 +631,18 @@
 7826843767,node,40.7530505,-73.9816418,Fortitude,artwork,en:New York Public Library Main Branch#Fifth_Avenue_elevation,,,,,
 7826843768,node,40.7528969,-73.9817494,Patience,artwork,en:New York Public Library Main Branch#Fifth_Avenue_elevation,,,,,
 7868765654,node,40.7795881,-73.9539993,The Franklin,hotel,,164,East 87th Street,,,10128
-7924346767,node,40.7927300,-73.9355845,Tomorrow's Wind,artwork,,,,,,
+7924346767,node,40.79273,-73.9355845,Tomorrow's Wind,artwork,,,,,,
 7951278063,node,40.7145859,-74.0039325,,information,,,,,,
 7964096060,node,40.7564165,-73.9557778,Cornell Tech Campus Directory,information,,,,,,
-7964143156,node,40.7553960,-73.9560488,,information,,,,,,
+7964143156,node,40.755396,-73.9560488,,information,,,,,,
 7964143158,node,40.7550574,-73.9564733,,picnic_site,,,,,,
 7964143159,node,40.7553874,-73.9558041,Motherboard Meditation,artwork,,,,,,
-7964143165,node,40.7553492,-73.9567750,,information,,,,,,
-7964143171,node,40.7552011,-73.9564760,,information,,,,,,
+7964143165,node,40.7553492,-73.956775,,information,,,,,,
+7964143171,node,40.7552011,-73.956476,,information,,,,,,
 7964237921,node,40.7555656,-73.9548336,,information,,,,,,
 7964262536,node,40.7548594,-73.9572581,,information,,,,,,
 7964276898,node,40.7548314,-73.9555759,,information,,,,,,
-7964276903,node,40.7549919,-73.9560770,,information,,,,,,
+7964276903,node,40.7549919,-73.956077,,information,,,,,,
 7964279033,node,40.7555624,-73.9556319,,information,,,,,,
 7964279034,node,40.7556658,-73.9549882,,information,,,,,,
 7964311486,node,40.7556875,-73.9542387,,information,,,,,,
@@ -662,18 +662,18 @@
 8270992264,node,40.8099499,-73.9430899,National Jazz Museum in Harlem,museum,,58,West 129th Street,New York,NY,10027
 8272069047,node,40.7511239,-73.9657829,Roots and Ties for Peace,artwork,,,,,,
 8272069048,node,40.7503431,-73.9662893,Treasure Tripod Dedicated to the 21st Century,artwork,,,,,,
-8272069178,node,40.7517740,-73.9665045,Mother and Child,artwork,,,,,,
+8272069178,node,40.751774,-73.9665045,Mother and Child,artwork,,,,,,
 8272069179,node,40.7519738,-73.9668876,Der Aufsteigende,artwork,,,,,,
 8272069180,node,40.7521004,-73.9668182,The Sleeping Elephant,artwork,,,,,,
 8272069200,node,40.7514321,-73.9661929,Arrival,artwork,,,,,,
 8276468580,node,40.7054955,-74.0066097,,artwork,,,,,,
-8289799736,node,40.7504850,-73.9949891,,artwork,,,,,,
+8289799736,node,40.750485,-73.9949891,,artwork,,,,,,
 8289799737,node,40.7514512,-73.9942836,,artwork,,,,,,
 8307408828,node,40.8393577,-73.9406753,Malcolm X & Dr. Betty Shabazz Memorial and Educational Center,museum,en:Malcolm X and Dr. Betty Shabazz Memorial and Educational Center,3940,Broadway,New York,NY,10032
 8307463761,node,40.7372526,-74.0054836,,artwork,,,,,,
 8369875704,node,40.7485116,-73.9881391,,picnic_site,,,,,,
 8379857649,node,40.8070368,-73.9605637,Bellerophon Taming Pegasus,artwork,en:Bellerophon Taming Pegasus,,,,,
-8455829696,node,40.7455200,-73.9822577,Triad,artwork,,,,,,
+8455829696,node,40.74552,-73.9822577,Triad,artwork,,,,,,
 8455829698,node,40.7450154,-73.9827061,Link NYC,information,,,,,,
 8475941428,node,40.7635965,-73.9849975,LinkNYC,information,,,,,,
 8482986313,node,40.7420227,-73.9806308,Link NYC,information,,,,,,
@@ -684,37 +684,37 @@
 8530354081,node,40.7250442,-73.9869802,Link NYC,information,,,,,,
 8530354082,node,40.7262691,-73.9859761,Link NYC,information,,,,,,
 8530354094,node,40.7240435,-73.9845711,,artwork,,,,,,
-8551281294,node,40.7615889,-73.9683960,Link NYC,information,,,,,,
+8551281294,node,40.7615889,-73.968396,Link NYC,information,,,,,,
 8551281299,node,40.7617188,-73.9687421,Link NYC,information,,,,,,
 8551468881,node,40.7551042,-73.9732511,Link NYC,information,,,,,,
 8551468899,node,40.7577798,-73.9716811,Link NYC,information,,,,,,
 8551468909,node,40.7569073,-73.9715541,Link NYC,information,,,,,,
-8562244620,node,40.7562050,-73.9555038,Graduate Roosevelt Island,hotel,,22,North Loop Road,,,
+8562244620,node,40.756205,-73.9555038,Graduate Roosevelt Island,hotel,,22,North Loop Road,,,
 8567053363,node,40.7498341,-73.9955133,Link NYC,information,,,,,,
 8567053365,node,40.7494955,-73.9952618,LinkNYC,information,,,,,,
 8567053366,node,40.7499163,-73.9949554,LinkNYC,information,,,,,,
 8567053367,node,40.7491203,-73.9955476,Link NYC,information,,,,,,
 8567053368,node,40.7497424,-73.9950996,LinkNYC,information,,,,,,
 8614943052,node,40.7478584,-73.9964486,LinkNYC,information,,,,,,
-8614943076,node,40.7484740,-73.9960052,Link NYC,information,,,,,,
-8614943077,node,40.7461557,-73.9943230,LinkNYC,information,,,,,,
-8614943088,node,40.7491613,-73.9918020,LinkNYC,information,,,,,,
+8614943076,node,40.748474,-73.9960052,Link NYC,information,,,,,,
+8614943077,node,40.7461557,-73.994323,LinkNYC,information,,,,,,
+8614943088,node,40.7491613,-73.991802,LinkNYC,information,,,,,,
 8622609142,node,40.7198375,-73.9989137,The SoLita SoHo Hotel,hotel,,159,Grand Street,,,10013
 8634037758,node,40.7694168,-73.9817831,The Duo,artwork,,,,,,
 8653246931,node,40.7644073,-73.9473441,,information,,,,,,
-8677437035,node,40.7702525,-73.9842230,,information,,,,,,
+8677437035,node,40.7702525,-73.984223,,information,,,,,,
 8694261205,node,40.7170446,-73.9968271,Martos Gallery,gallery,,,,,,
 8729437330,node,40.7549607,-73.9850044,The Guardians: Hero,artwork,,,,,,
 8735036548,node,40.7790315,-73.9669537,,viewpoint,,,,,,
 8786773172,node,40.7380001,-74.0103752,,information,,,,,,
 8786773188,node,40.7336737,-74.0106409,,artwork,,,,,,
 8789178526,node,40.7250131,-74.0094876,,artwork,,,,,,
-8808753151,node,40.7183480,-74.0021400,Walker Hotel Tribeca,hotel,,77,Walker Street,,,10013
+8808753151,node,40.718348,-74.00214,Walker Hotel Tribeca,hotel,,77,Walker Street,,,10013
 8811266514,node,40.7434092,-73.9995517,,artwork,,,,,,
 8860297468,node,40.7425714,-74.0108254,Northwest Overlook,viewpoint,,,,,,
 8860297469,node,40.7418434,-74.0113521,Southwest Overlook,viewpoint,,,,,,
 8860297470,node,40.7416246,-74.0102566,Southeast Overlook,viewpoint,,,,,,
-8872982370,node,40.7541527,-73.9865860,Link NYC,information,,,,,,
+8872982370,node,40.7541527,-73.986586,Link NYC,information,,,,,,
 8873729191,node,40.7725104,-73.9725158,Eagles and Prey,artwork,en:Eagles and Prey,,,,,
 8873736445,node,40.7740994,-73.9738182,The Falconer,artwork,,,,,,
 8881529528,node,40.7768328,-73.9671918,Still Hunt,artwork,,,,,,
@@ -741,7 +741,7 @@
 9115784335,node,40.7141297,-73.9996937,,information,,,,,,
 9118024861,node,40.7143286,-73.9892771,âTogoâ,artwork,,,,,,
 9118807105,node,40.7188402,-74.0032329,David Lewis Gallery,gallery,,57,Walker Street,New York,NY,10013
-9128276521,node,40.7179120,-73.9853522,The Delancey,yes,,168,Delancey Street,New York,NY,10002
+9128276521,node,40.717912,-73.9853522,The Delancey,yes,,168,Delancey Street,New York,NY,10002
 9136326361,node,40.7217683,-74.0030317,Leslie-Lohman Museum of Art,museum,en:Leslie-Lohman Museum of Art,26,Wooster Street,New York,NY,10013
 9148457111,node,40.7141949,-74.0065206,,information,,,,,,
 9156161418,node,40.7234177,-73.9949266,Bust and monument to Archbishop John J. Hughes,artwork,,,,,,
@@ -750,31 +750,31 @@
 9251352879,node,40.7386622,-73.9994501,,information,,,,,,
 9251587005,node,40.7255612,-74.0037455,New York Subway Stations,artwork,,,,,,
 9289852586,node,40.6859447,-74.0194739,Coast Guard Children,information,,,,,,
-9289852587,node,40.6850946,-74.0211780,The Coast Guard Life,information,,,,,,
-9306710933,node,40.7195280,-73.9824793,,artwork,,,,,,
-9325661454,node,40.7568780,-73.9932298,tba,hotel,,340,West 40th Street,,,
+9289852587,node,40.6850946,-74.021178,The Coast Guard Life,information,,,,,,
+9306710933,node,40.719528,-73.9824793,,artwork,,,,,,
+9325661454,node,40.756878,-73.9932298,tba,hotel,,340,West 40th Street,,,
 9344068496,node,40.7395504,-73.9829625,Link NYC,information,,,,,,
 9344068500,node,40.7380769,-73.9810813,,information,,,,,,
 9344068504,node,40.7388171,-73.9828375,,information,,,,,,
-9346533768,node,40.7158320,-73.9912912,Miguel Abreu Gallery,gallery,,36,Orchard Street,New York,NY,10002
+9346533768,node,40.715832,-73.9912912,Miguel Abreu Gallery,gallery,,36,Orchard Street,New York,NY,10002
 9353672578,node,40.8609122,-73.9330018,,information,,,,,,
 9359041942,node,40.7285328,-74.0049847,Walk NYC,information,,,,,,
-9359064138,node,40.7284840,-74.0050784,Game Inside the Game,artwork,,,,,,
+9359064138,node,40.728484,-74.0050784,Game Inside the Game,artwork,,,,,,
 9368527039,node,40.7123393,-74.0063514,Nathan Hale,artwork,,,,,,
 9369042328,node,40.7125934,-74.0047829,,information,,,,,,
 9371729394,node,40.7047228,-74.0151806,,information,,,,,,
 9371812448,node,40.7045074,-74.0145637,,information,,,,,,
 9377509611,node,40.7129566,-74.0036137,Civic Fame,artwork,,,,,,
-9377535428,node,40.7152666,-74.0027980,Abraham De Peyster,artwork,,,,,,
+9377535428,node,40.7152666,-74.002798,Abraham De Peyster,artwork,,,,,,
 9421123767,node,40.7520679,-74.0010071,Dinosaur,artwork,,,,,,
 9421657542,node,40.7580298,-74.0005919,,information,,,,,,
 9421812820,node,40.8426272,-73.9325044,,viewpoint,,,,,,
 9422000301,node,40.7553202,-74.0005323,Big Apple,artwork,,,,,,
 9423683453,node,40.7563773,-74.0036443,,information,,,,,,
 9423683677,node,40.7544707,-74.0024161,Equinox,hotel,,32,Hudson Yards,New York,NY,10001
-9423683707,node,40.7556323,-74.0055910,Hudson Yards Vista Point,viewpoint,,,,,,
+9423683707,node,40.7556323,-74.005591,Hudson Yards Vista Point,viewpoint,,,,,,
 9438186923,node,40.8590322,-73.9362771,Welcome to the Cabrini Woods Nature Sanctuary!,information,,,,,,
-9441044688,node,40.7702276,-73.9843910,St. Ignatius,artwork,,,,,,
+9441044688,node,40.7702276,-73.984391,St. Ignatius,artwork,,,,,,
 9441125177,node,40.7716402,-73.9842797,Lincoln Center,information,,,,,,
 9441329670,node,40.7417175,-74.0104696,,artwork,,,,,,
 9441745379,node,40.7793373,-73.9819922,,information,,,,,,
@@ -790,7 +790,7 @@
 9597861482,node,40.7322936,-74.0105992,Point Thank You,information,,,,,,
 9597861487,node,40.7322777,-74.0107283,,information,,,,,,
 9597861488,node,40.7326515,-74.0106621,,information,,,,,,
-9597861491,node,40.7327970,-74.0108200,Pier 45,information,,,,,,
+9597861491,node,40.732797,-74.01082,Pier 45,information,,,,,,
 9597882562,node,40.7314648,-74.0109762,,information,,,,,,
 9597900370,node,40.7305814,-74.0110431,,information,,,,,,
 9630409566,node,40.7267758,-73.9905701,The 4th Street Photo Gallery,gallery,,,,,,
@@ -799,7 +799,7 @@
 9652327519,node,40.7054827,-74.0075737,The Wall Street Hotel,hotel,,88,Wall Street,New York,NY,10005
 9661358847,node,40.7250551,-73.9925494,The Hole,gallery,,,,,,
 9670095717,node,40.7632374,-73.9795216,,artwork,,,,,,
-9678306286,node,40.7063790,-74.0044523,,information,,,,,,
+9678306286,node,40.706379,-74.0044523,,information,,,,,,
 9678339723,node,40.7014779,-74.0127472,,information,,,,,,
 9678339724,node,40.7025911,-74.0143795,John Wolfe Ambrose,artwork,,,,,,
 9678571409,node,40.7131348,-74.0075137,,information,,,,,,
@@ -808,7 +808,7 @@
 9765434817,node,40.7539509,-74.0006727,Edge,viewpoint,,,,,,
 9807347121,node,40.7399127,-73.9800915,Holographic Studios,gallery,,,,,,
 9813503241,node,40.7639334,-73.9744891,Joan Miro's Moonbird,artwork,,,,,,
-9863930396,node,40.7548848,-73.9720540,Einstein on a Bicycle,artwork,,,,,,
+9863930396,node,40.7548848,-73.972054,Einstein on a Bicycle,artwork,,,,,,
 9868958116,node,40.7552716,-73.9717679,The Braves of 9/11,artwork,,,,,,
 9872651423,node,40.7188556,-73.9914924,Woodward Gallery,gallery,,132A,Eldridge Street,,,10002
 9877458067,node,40.7394271,-73.9850148,The Friends Experience,attraction,,130,East 23rd Street,,,10010
@@ -819,23 +819,23 @@
 9898068953,node,40.7150451,-74.0026025,,artwork,,,,,,
 9898068954,node,40.7150992,-74.0024541,,artwork,,,,,,
 9898068967,node,40.7148367,-74.0028885,,artwork,,,,,,
-9898100734,node,40.7151684,-74.0028810,,artwork,,,,,,
+9898100734,node,40.7151684,-74.002881,,artwork,,,,,,
 9898104917,node,40.7152026,-74.0025908,,artwork,,,,,,
 9898104918,node,40.7149157,-74.0027458,,artwork,,,,,,
 9898105017,node,40.7151477,-74.0029392,,artwork,,,,,,
 9898105117,node,40.7150071,-74.0029012,,artwork,,,,,,
-9898112617,node,40.7142980,-74.0032102,,artwork,,,,,,
+9898112617,node,40.714298,-74.0032102,,artwork,,,,,,
 9902646003,node,40.8578458,-73.9213888,,picnic_site,,,,,,
-9909882063,node,40.7137411,-74.0032980,Center street/Civic Center,information,,,,,,
-9909918518,node,40.7143670,-74.0027018,,information,,,,,,
+9909882063,node,40.7137411,-74.003298,Center street/Civic Center,information,,,,,,
+9909918518,node,40.714367,-74.0027018,,information,,,,,,
 9909923621,node,40.7150427,-74.0024077,Thomas Paine Park,information,,,,,,
 9909932812,node,40.7162866,-74.0013908,,information,,,,,,
 9910020118,node,40.7199192,-73.9986219,,information,,,,,,
 9923066116,node,40.7565827,-73.9944985,Truss Hotel Times Square,hotel,,515,9th Avenue,New York,NY,10018
 9925028917,node,40.7118744,-74.0056106,,information,,,,,,
 9925038274,node,40.7117687,-74.0057652,,information,,,,,,
-9925074790,node,40.7108840,-74.0037408,,information,,,,,,
-9925097517,node,40.7129740,-74.0006016,,information,,,,,,
+9925074790,node,40.710884,-74.0037408,,information,,,,,,
+9925097517,node,40.712974,-74.0006016,,information,,,,,,
 9925099338,node,40.7136945,-73.9977248,Chatham Square & East Broadway,information,,,,,,
 9925426416,node,40.7187535,-73.9955206,,information,,,,,,
 9934094719,node,40.7208764,-73.9850036,Spencer Brownstone Gallery,gallery,,170-A,Suffolk Street,New York,NY,10002
@@ -852,13 +852,13 @@
 10064063749,node,40.7464281,-74.0054994,Nohra Haime Gallery,gallery,,500A,West 21st Street,New York,NY,10011
 10074104774,node,40.7805768,-73.9776667,,artwork,,,,,,
 10090538376,node,40.7202528,-74.0027872,Guild Gallery,gallery,,,,,,
-10091137831,node,40.7726384,-73.9403310,The Girl Puzzle Monument,artwork,,,,,,
+10091137831,node,40.7726384,-73.940331,The Girl Puzzle Monument,artwork,,,,,,
 10091137836,node,40.7720172,-73.9413909,,picnic_site,,,,,,
 10096581085,node,40.7570853,-73.9599853,Porcellino,artwork,,,,,,
 10104489972,node,40.8497519,-73.9465149,The Light Still Shines,information,,,,,,
 10104489973,node,40.8497319,-73.9465049,The Story of a Lighthouse,information,,,,,,
 10115105166,node,40.7208659,-73.9935566,Pop International Galleries,gallery,,,,,,
-10136386568,node,40.7286490,-73.9981626,Fiorello H. LaGuardia,artwork,,,,,,
+10136386568,node,40.728649,-73.9981626,Fiorello H. LaGuardia,artwork,,,,,,
 10136611575,node,40.7181275,-73.9933266,,information,,,,,,
 10157521400,node,40.7235253,-74.0035486,,artwork,,,,,,
 10160790442,node,40.7812194,-73.9877179,,picnic_site,,,,,,
@@ -870,22 +870,22 @@
 10172955743,node,40.7816493,-73.9731563,Rose Center for Earth and Space,museum,,,,,,
 10174524382,node,40.7360034,-73.9907301,Union Square Drinking Fountain,artwork,en:Union Square Drinking Fountain,,,,,
 10177409696,node,40.8303033,-73.9498955,Invisible Man: A Memorial to Ralph Ellison,artwork,,,,,,
-10177726888,node,40.7411170,-73.9888342,,information,,,,,,
+10177726888,node,40.741117,-73.9888342,,information,,,,,,
 10181690926,node,40.7425859,-73.9866318,,information,,,,,,
 10183983858,node,40.7680696,-73.9818965,Christopher Columbus,artwork,,,,,,
 10187602694,node,40.7695677,-73.9818322,,information,,,,,,
 10202468617,node,40.7528374,-73.9785218,Summit One Vanderbilt,viewpoint,,,,,,
 10224032617,node,40.7578636,-73.9857652,,information,,,,,,
-10228962376,node,40.7581600,-73.9855455,,information,,,,,,
+10228962376,node,40.75816,-73.9855455,,information,,,,,,
 10258552787,node,40.7500878,-73.9877797,,information,,,,,,
 10261389189,node,40.7497357,-73.9880744,,information,,,,,,
-10261412880,node,40.7484660,-73.9882388,,information,,,,,,
+10261412880,node,40.748466,-73.9882388,,information,,,,,,
 10261412881,node,40.7485562,-73.9882237,,information,,,,,,
-10262508164,node,40.7043652,-74.0031470,,viewpoint,,,,,,
+10262508164,node,40.7043652,-74.003147,,viewpoint,,,,,,
 10262508165,node,40.7044783,-74.0029939,,viewpoint,,,,,,
 10263178434,node,40.7488037,-73.9886537,,information,,,,,,
-10263178492,node,40.7483770,-73.9886725,,information,,,,,,
-10263178516,node,40.7481460,-73.9881176,,information,,,,,,
+10263178492,node,40.748377,-73.9886725,,information,,,,,,
+10263178516,node,40.748146,-73.9881176,,information,,,,,,
 10268795583,node,40.7523228,-73.9875833,,information,,,,,,
 10268795648,node,40.7530657,-73.9873901,,information,,,,,,
 10272213030,node,40.8593513,-73.9351259,"Red-bellied Woodpecker, Yellow-rumped Warbler, Red-tailed Hawk",information,,,,,,
@@ -893,48 +893,48 @@
 10272213032,node,40.8588595,-73.9357156,Flight Patterns,information,,,,,,
 10272213033,node,40.8586604,-73.9358853,"American Robin, Baltimore Oriole, Blue Jay",information,,,,,,
 10272213034,node,40.8584425,-73.9360377,A Feast in the Forest,information,,,,,,
-10272213035,node,40.8581420,-73.9362063,Flying High (and Low),information,,,,,,
-10272213036,node,40.8578910,-73.9363397,"Gray Catbird, Northern Flicker, Northern Cardinal",information,,,,,,
-10272213037,node,40.8576304,-73.9364820,Running Wild,information,,,,,,
+10272213035,node,40.858142,-73.9362063,Flying High (and Low),information,,,,,,
+10272213036,node,40.857891,-73.9363397,"Gray Catbird, Northern Flicker, Northern Cardinal",information,,,,,,
+10272213037,node,40.8576304,-73.936482,Running Wild,information,,,,,,
 10272213038,node,40.8573302,-73.9367063,Welcome to the Cabrini Woods Nature Sanctuary,information,,,,,,
 10285341230,node,40.7103923,-74.0127769,,information,,,,,,
 10286844704,node,40.7194437,-73.9933697,SFA Gallery,gallery,,,,,,
 10288472875,node,40.7108385,-74.0136995,,information,,,,,,
 10288472986,node,40.7116812,-74.0133124,,information,,,,,,
 10288472987,node,40.7115473,-74.0133205,,information,,,,,,
-10288473292,node,40.7120119,-74.0122380,,information,,,,,,
-10288473293,node,40.7125820,-74.0134331,,information,,,,,,
+10288473292,node,40.7120119,-74.012238,,information,,,,,,
+10288473293,node,40.712582,-74.0134331,,information,,,,,,
 10290130093,node,40.7175309,-74.0118079,Icarus,artwork,,,,,,
 10290135856,node,40.7113114,-74.0088844,,information,,,,,,
-10290401175,node,40.7094850,-74.0116186,Rose III,artwork,,,,,,
+10290401175,node,40.709485,-74.0116186,Rose III,artwork,,,,,,
 10292280006,node,40.7050274,-74.0172006,,information,,,,,,
-10292285850,node,40.7056070,-74.0168290,,information,,,,,,
+10292285850,node,40.705607,-74.016829,,information,,,,,,
 10301699012,node,40.7108228,-74.0104736,,information,,,,,,
 10301699115,node,40.7076911,-74.0121369,John Watts,artwork,en:Statue of John Watts,,,,,
-10301699162,node,40.7072627,-74.0107840,,information,,,,,,
+10301699162,node,40.7072627,-74.010784,,information,,,,,,
 10311596942,node,40.7674628,-73.9938856,Clinton War Memorial (Doughboy),artwork,,,,,,
 10311937089,node,40.7071439,-74.0040222,,information,,,,,,
 10311946131,node,40.7063196,-74.0033177,,information,,,,,,
 10311946334,node,40.7077019,-74.0041216,,information,,,,,,
 10316226226,node,40.7047949,-74.0141396,,information,,,,,,
-10422361409,node,40.7622461,-73.9895930,Fountain Gallery,gallery,,,,,,
+10422361409,node,40.7622461,-73.989593,Fountain Gallery,gallery,,,,,,
 10435219308,node,40.7039002,-74.0090982,,information,,,,,,
 10454787967,node,40.7040816,-74.0087447,,information,,,,,,
-10457330702,node,40.7032900,-74.0081632,,information,,,,,,
+10457330702,node,40.70329,-74.0081632,,information,,,,,,
 10556962079,node,40.7044621,-74.0080156,,artwork,,,,,,
 10556966506,node,40.7050148,-74.0072988,,information,,,,,,
 10617036757,node,40.7192188,-73.9898318,,information,,,,,,
 10634248715,node,40.7570087,-73.9661688,Accord,artwork,,,,,,
 10687122870,node,40.7178874,-74.0030582,,information,,,,,,
 10695291115,node,40.7263278,-74.0006603,Georges BergÃ¨s Gallery,gallery,,462,West Broadway,,,
-10695291116,node,40.7262000,-74.0007365,DTR Modern Galleries,gallery,,456,West Broadway,,,
+10695291116,node,40.7262,-74.0007365,DTR Modern Galleries,gallery,,456,West Broadway,,,
 10699464134,node,40.7645205,-73.9691102,Loews Regency,hotel,,540,Park Avenue,New York,,
 10713285741,node,40.8038666,-73.9629607,Homeless Jesus,artwork,,,,,,
 10717839795,node,40.7332901,-73.9984234,Moshava Art,gallery,,,,,,
-10732788098,node,40.6930890,-74.0189540,,viewpoint,,,,,,
+10732788098,node,40.693089,-74.018954,,viewpoint,,,,,,
 10784508205,node,40.7227411,-74.0003875,Allouche Gallery,gallery,,,,,,10012
-10824918055,node,40.7617842,-73.9787510,,artwork,,,,,,
-10824918095,node,40.7628325,-73.9786430,,artwork,,,,,,
+10824918055,node,40.7617842,-73.978751,,artwork,,,,,,
+10824918095,node,40.7628325,-73.978643,,artwork,,,,,,
 10824940711,node,40.7622318,-73.9784254,,artwork,,,,,,
 10830960867,node,40.7256775,-74.0005096,Louis K.Meisel Gallery,gallery,,141,Prince Street,New York,NY,10012
 10859974139,node,40.7501321,-74.0044964,Mitchell-Innes & Nash Art Gallery,gallery,,534,West 26th Street,New York,NY,10001
@@ -944,48 +944,48 @@
 10859974143,node,40.7499804,-74.0042111,Caelum Gallery,gallery,,526,West 26th Street,New York,NY,10001
 10859974144,node,40.7498115,-74.0037006,Fergus McCaffrey Gallery,gallery,,514,West 26th Street,New York,NY,10001
 10859974145,node,40.7497696,-74.0035852,Greene Naftali Gallery,gallery,,508,West 26th Street,New York,NY,10001
-10859974146,node,40.7498665,-74.0050040,Marlborough Gallery,gallery,en:Marlborough Fine Art,545,West 25th Street,New York,NY,10001
+10859974146,node,40.7498665,-74.005004,Marlborough Gallery,gallery,en:Marlborough Fine Art,545,West 25th Street,New York,NY,10001
 10859974147,node,40.7499342,-74.0051872,Cheim & Read,gallery,,547,West 25th Street,New York,NY,10001
 10859974148,node,40.7500313,-74.0054024,Gallery Henoch,gallery,,555,West 25th Street,New York,NY,10001
-10859974149,node,40.7497780,-74.0055421,The FLAG Art Foundation,gallery,,545,West 25th Street,New York,NY,10001
+10859974149,node,40.749778,-74.0055421,The FLAG Art Foundation,gallery,,545,West 25th Street,New York,NY,10001
 10859974150,node,40.7495009,-74.0047674,532 Gallery Thomas Jaeckel,gallery,,,,,,
 10859974151,node,40.7494518,-74.0048244,Dobrinka Salzman Gallery,gallery,,532,West 25th Street,New York,NY,10001
 10859974152,node,40.7492373,-74.0042332,Petzel Gallery,gallery,,520,West 25th Street,New York,NY,10001
 10859974153,node,40.7485353,-74.0038445,Lehmann Maupin,gallery,,501,West 24th Street,New York,NY,10011
 10859974154,node,40.7486434,-74.0040119,Silverlens Galleries,gallery,,505,West 24th Street,New York,NY,10011
 10859974155,node,40.7487557,-74.0043141,Marianne Boesky Gallery,gallery,en:Marianne Boesky Gallery,509,West 24th Street,New York,NY,10011
-10859974156,node,40.7486851,-74.0041340,Marianne Boesky Gallery,gallery,en:Marianne Boesky Gallery,507,West 24th Street,New York,NY,10011
+10859974156,node,40.7486851,-74.004134,Marianne Boesky Gallery,gallery,en:Marianne Boesky Gallery,507,West 24th Street,New York,NY,10011
 10859974157,node,40.7491116,-74.0050793,Luhring Augustine Gallery,gallery,en:Luhring Augustine Gallery,531,West 24th Street,New York,NY,10011
-10859974158,node,40.7491620,-74.0052774,Print Center New York,gallery,,535,West 24th Street,New York,NY,10011
+10859974158,node,40.749162,-74.0052774,Print Center New York,gallery,,535,West 24th Street,New York,NY,10011
 10859974159,node,40.7492448,-74.0054902,Gagosian,gallery,en:Gagosian Gallery,541,West 24th Street,New York,NY,10011
 10859974160,node,40.7492207,-74.0061341,C24 Gallery,gallery,,560,West 24th Street,New York,NY,10011
 10859974161,node,40.7490119,-74.0055599,Fredericks & Freiser,gallery,,536,West 24th Street,New York,NY,10011
 10859974162,node,40.7489832,-74.0054342,Philippe Labaune Gallery,gallery,,534,West 24th Street,New York,NY,10001
 10859974163,node,40.7489431,-74.0053524,Anna Zorina Gallery,gallery,,532,West 24th Street,New York,NY,10011
 10859974164,node,40.7489086,-74.0052508,Cavalier Gallery,gallery,,530,West 24th Street,New York,NY,10011
-10859974165,node,40.7487870,-74.0049963,Hunter Dunbar Projects,gallery,,524,West 24th Street,New York,NY,10011
+10859974165,node,40.748787,-74.0049963,Hunter Dunbar Projects,gallery,,524,West 24th Street,New York,NY,10011
 10859974166,node,40.7487261,-74.0048372,Unix Gallery,gallery,,520,West 24th Street,New York,NY,10011
 10859974167,node,40.7487583,-74.0048993,Susan Inglett Gallery,gallery,,522,West 24th Street,New York,NY,10011
 10859974168,node,40.7485502,-74.0044742,Lisson Gallery,gallery,en:Lisson Gallery,508,West 24th Street,New York,NY,10011
 10859974169,node,40.7485172,-74.0043407,Lisson Gallery,gallery,,504,West 24th Street,New York,NY,10011
 10859974170,node,40.7484842,-74.0055651,Asya Geisberg Gallery,gallery,,537b,West 23rd Street,New York,NY,10011
 10859974171,node,40.7485387,-74.0056655,Margaret Thatcher Projects,gallery,,539,West 23rd Street,New York,NY,10011
-10859974172,node,40.7488232,-74.0063960,Crossing Art,gallery,,559,West 23rd Street,New York,NY,10011
+10859974172,node,40.7488232,-74.006396,Crossing Art,gallery,,559,West 23rd Street,New York,NY,10011
 10859974173,node,40.7478552,-74.0049853,Fremin Gallery,gallery,,520,West 23rd Street,New York,NY,10011
-10860703819,node,40.7519300,-74.0022364,Malin Gallery,gallery,,515,West 29th Street,New York,NY,10001
+10860703819,node,40.75193,-74.0022364,Malin Gallery,gallery,,515,West 29th Street,New York,NY,10001
 10860703820,node,40.7521088,-74.0026522,Microscope Gallery,gallery,en:Microscope Gallery,525,West 29th Street,New York,NY,10001
 10860703821,node,40.7516496,-74.0041354,Viridian Artists,gallery,,548,West 28th Street,New York,NY,10001
 10860703822,node,40.7516054,-74.0041652,Carter Burden Gallery,gallery,,548,West 28th Street,New York,NY,10001
 10860703823,node,40.7512794,-74.0045116,Blue Mountain Gallery,gallery,,547,West 27th Street,New York,NY,10001
 10860703824,node,40.7512504,-74.0044236,Montserrat Contemporary Art,gallery,,547,West 27th Street,New York,NY,10001
 10860703825,node,40.7513197,-74.0044835,Bowery Gallery,gallery,,547,West 27th Street,New York,NY,10001
-10860703826,node,40.7513549,-74.0044520,Prince Street Gallery,gallery,,547,West 27th Street,New York,NY,10001
+10860703826,node,40.7513549,-74.004452,Prince Street Gallery,gallery,,547,West 27th Street,New York,NY,10001
 10860703827,node,40.7512854,-74.0043977,The Painting Center,gallery,,547,West 27th Street,New York,NY,10001
 10860703828,node,40.7507088,-74.0031538,Ross + Kramer Gallery,gallery,,515,West 27th Street,New York,NY,10001
-10860703829,node,40.7505970,-74.0029311,Kasmin Gallery,gallery,en:Kasmin Gallery,509,West 27th Street,New York,NY,10001
+10860703829,node,40.750597,-74.0029311,Kasmin Gallery,gallery,en:Kasmin Gallery,509,West 27th Street,New York,NY,10001
 10860703830,node,40.7505056,-74.0027621,De Buck Gallery,gallery,,507,West 27th Street,New York,NY,10001
 10860703832,node,40.7505158,-74.0027353,The Global Fine Art Contemporary Art Gallery,gallery,,507,West 27th Street,New York,NY,10001
-10860703833,node,40.7504060,-74.0024698,Kasmin Gallery,gallery,en:Kasmin Gallery,297,10th Avenue,New York,NY,10001
+10860703833,node,40.750406,-74.0024698,Kasmin Gallery,gallery,en:Kasmin Gallery,297,10th Avenue,New York,NY,10001
 10860703834,node,40.7501683,-74.0026414,Galerie Templon,gallery,,293,10th Avenue,New York,NY,10001
 10860703835,node,40.7505666,-74.0034944,Nancy Hoffman Gallery,gallery,,520,West 27th Street,New York,NY,10001
 10861418204,node,40.7474277,-74.0053206,Miles McEnery Gallery,gallery,,511,West 22nd Street,New York,NY,10011
@@ -999,7 +999,7 @@
 10861434359,node,40.7499417,-74.0042354,BravinLee Gallery,gallery,,526,West 26th Street,New York,NY,10001
 10861434360,node,40.7499777,-74.0041101,Morgan Lehman Gallery,gallery,en:Morgan Lehman Gallery,526,West 26th Street,New York,NY,10001
 10861434361,node,40.7497344,-74.0036085,Hesse Flatow Gallery,gallery,,508,West 26th Street,New York,NY,10001
-10861434362,node,40.7499410,-74.0041149,Deborah Bell Photographs,gallery,,526,West 26th Street,New York,NY,10001
+10861434362,node,40.749941,-74.0041149,Deborah Bell Photographs,gallery,,526,West 26th Street,New York,NY,10001
 10861434363,node,40.7497859,-74.0036422,Alexander Gray Associates Gallery,gallery,,510,West 26th Street,New York,NY,10001
 10861434364,node,40.7497076,-74.0036348,Daniel Cooney Fine Art Gallery,gallery,,508,West 26th Street,New York,NY,10001
 10861507195,node,40.7496717,-74.0036627,David Richard Gallery,gallery,,508,West 26th Street,New York,NY,10001
@@ -1010,19 +1010,19 @@
 10861543606,node,40.7476043,-74.0057558,Miles McEnery Gallery,gallery,,525,West 22nd Street,New York,NY,10011
 10861543607,node,40.7467488,-74.0062465,Miles McEnery Gallery,gallery,,520,West 21st Street,New York,NY,10011
 10861543608,node,40.7475857,-74.0057016,Yancey Richardson Gallery,gallery,en:Yancey Richardson Gallery,525,West 22nd Street,New York,NY,10011
-10861543609,node,40.7477676,-74.0061490,DC Moore Gallery,gallery,,535,West 22nd Street,New York,NY,10011
+10861543609,node,40.7477676,-74.006149,DC Moore Gallery,gallery,,535,West 22nd Street,New York,NY,10011
 10861543610,node,40.7478387,-74.0063018,Dia Chelsea,gallery,en:Dia Art Foundation,537,West 22nd Street,New York,NY,10011
 10861543611,node,40.7477523,-74.0066657,Hauser & Wirth,gallery,en:Hauser & Wirth,542,West 22nd Street,New York,NY,10011
-10861543612,node,40.7476570,-74.0064084,Harper's Chelsea,gallery,,534,West 22nd Street,New York,NY,10011
+10861543612,node,40.747657,-74.0064084,Harper's Chelsea,gallery,,534,West 22nd Street,New York,NY,10011
 10861543613,node,40.7474851,-74.0060323,Sikkema Jenkins & Co.,gallery,,530,West 22nd Street,New York,NY,10011
 10861543614,node,40.7474526,-74.0059397,Matthew Marks Gallery,gallery,en:Matthew Marks Gallery,526,West 22nd Street,New York,NY,10011
 10861543615,node,40.7473449,-74.0056957,Matthew Marks Gallery,gallery,en:Matthew Marks Gallery,522,West 22nd Street,New York,NY,10011
 10861543616,node,40.7472321,-74.0054315,Harper's Chelsea,gallery,,512,West 22nd Street,New York,NY,10011
 10873196734,node,40.7467918,-74.0057122,Nara Roesler Gallery,gallery,,511,West 21st Street,New York,NY,10011
 10873196735,node,40.7470553,-74.0063448,Tina Kim Gallery,gallery,en:Tina Kim Gallery,525,West 21st Street,New York,NY,10011
-10873196736,node,40.7469617,-74.0061110,Kravets Wehby Gallery,gallery,,521,West 21st Street,New York,NY,10011
+10873196736,node,40.7469617,-74.006111,Kravets Wehby Gallery,gallery,,521,West 21st Street,New York,NY,10011
 10873196737,node,40.7470364,-74.0062914,Tanya Bonakdar Gallery,gallery,en:Tanya Bonakdar Gallery,521,West 21st Street,New York,NY,10011
-10873196738,node,40.7468670,-74.0076175,Hales Gallery,gallery,en:Hales Gallery,547,West 20th Street,New York,NY,10011
+10873196738,node,40.746867,-74.0076175,Hales Gallery,gallery,en:Hales Gallery,547,West 20th Street,New York,NY,10011
 10873196739,node,40.7470049,-74.0068341,Paula Cooper Gallery,gallery,en:Paula Cooper Gallery,534,West 21st Street,New York,NY,10011
 10873196740,node,40.7469471,-74.0066777,Gladstone Gallery,gallery,,530,West 21st Street,New York,NY,10011
 10873196741,node,40.7468093,-74.0063973,Gagosian,gallery,en:Gagosian Gallery,522,West 21st Street,New York,NY,10011
@@ -1030,7 +1030,7 @@
 10873196743,node,40.7462423,-74.0054891,Washburn Gallery,gallery,,177,10th Avenue,New York,NY,10011
 10873196744,node,40.7460607,-74.0057581,Praxis Gallery,gallery,,501,West 20th Street,New York,NY,10011
 10873196745,node,40.7462478,-74.0062412,Jack Shainman Gallery,gallery,en:Jack Shainman Gallery,513,West 20th Street,New York,NY,10011
-10873196746,node,40.7462709,-74.0062960,Sean Horton Gallery,gallery,,515,West 20th Street,New York,NY,10011
+10873196746,node,40.7462709,-74.006296,Sean Horton Gallery,gallery,,515,West 20th Street,New York,NY,10011
 10873196747,node,40.7465171,-74.0068656,Ricco/Maresca Gallery,gallery,,529,West 20th Street,New York,NY,10011
 10873196748,node,40.7465678,-74.0068303,Kathryn Markel Fine Arts,gallery,,529,West 20th Street,New York,NY,10011
 10873196749,node,40.7465429,-74.0068474,ACA Galleries,gallery,,529,West 20th Street,New York,NY,10011
@@ -1039,25 +1039,25 @@
 10873196752,node,40.7462706,-74.0069444,Kurimanzutto Gallery,gallery,en:Kurimanzutto,520,West 20th Street,New York,NY,10011
 10873196753,node,40.7462173,-74.0067977,David Kordansky Gallery,gallery,,520,West 20th Street,New York,NY,10011
 10873303785,node,40.7439372,-74.0061805,Ulrik Gallery,gallery,,453,West 17th Street,New York,NY,10011
-10873303786,node,40.7455180,-74.0069617,Slag Gallery,gallery,,522,West 19th Street,New York,NY,10011
+10873303786,node,40.745518,-74.0069617,Slag Gallery,gallery,,522,West 19th Street,New York,NY,10011
 10873303787,node,40.7461924,-74.0077206,Michael Rosenfield Art,gallery,,100,11th Avenue,New York,NY,10011
 10873303788,node,40.7380759,-73.9989918,Pratt Manhattan Gallery,gallery,,,,,,
 10873303789,node,40.7385275,-73.9932713,The 8th Floor Gallery,gallery,en:The 8th Floor,17,West 17th Street,New York,NY,10011
-10873303790,node,40.7425280,-73.9991606,Ethan Cohen Gallery,gallery,,251,West 19th Street,New York,NY,10011
+10873303790,node,40.742528,-73.9991606,Ethan Cohen Gallery,gallery,,251,West 19th Street,New York,NY,10011
 10916743205,node,40.7556434,-73.9903003,AC Hotel,hotel,,260,West 40th Street,New York,NY,10018
 10935482819,node,40.6908213,-74.0452851,Immigrant Processing in New York,information,,,,,,
-10940739405,node,40.6894208,-74.0462320,,information,,,,,,
+10940739405,node,40.6894208,-74.046232,,information,,,,,,
 10966458044,node,40.6897099,-74.0436242,Fort Wood,information,,,,,,
-10966458045,node,40.6897940,-74.0436922,,information,,,,,,
+10966458045,node,40.689794,-74.0436922,,information,,,,,,
 10966458048,node,40.6897667,-74.0438937,The Five Founders of the Statue of Liberty,artwork,,,,,,
 10966464530,node,40.6889903,-74.0453923,The Pedestal,information,,,,,,
 10966464531,node,40.6890375,-74.0455183,Why is the Statue Green?,information,,,,,,
-10966464532,node,40.6890400,-74.0455032,,information,,,,,,
+10966464532,node,40.68904,-74.0455032,,information,,,,,,
 10966464533,node,40.6886284,-74.0445627,Building the Statue of Liberty,information,,,,,,
 10966464534,node,40.6887018,-74.0439194,Liberty's Symbols,information,,,,,,
 10992263596,node,40.7226991,-74.0014366,Eden Gallery,gallery,,,,,,
 10992750817,node,40.7551104,-73.9622342,,artwork,,,,,,
-10997745431,node,40.7504690,-73.9663836,Title Reaching for the Skies,artwork,,,,,,
+10997745431,node,40.750469,-73.9663836,Title Reaching for the Skies,artwork,,,,,,
 10997745515,node,40.7510385,-73.9665525,Peace Monument,artwork,,,,,,
 10997745555,node,40.7501364,-73.9664336,Kusikawsay,artwork,,,,,,
 10997745556,node,40.7513078,-73.9660084,Consciousness,artwork,,,,,,
@@ -1066,32 +1066,32 @@
 10997745701,node,40.7518967,-73.9669962,GÃ¶beklitepe Limestone Stele,artwork,,,,,,
 10998208761,node,40.7518186,-73.9676533,Hope,artwork,,,,,,
 11000991180,node,40.7498779,-73.9689151,,information,,,,,,
-11002617555,node,40.7494600,-73.9681197,,artwork,,,,,,
+11002617555,node,40.74946,-73.9681197,,artwork,,,,,,
 11013387580,node,40.7030393,-74.0145373,,information,,,,,,
-11030790954,node,40.7010584,-74.0119760,Casa Cipriani New York,hotel,,10,South Street,New York,NY,10004
-11030790959,node,40.7037883,-74.0063490,Shadow Garden,artwork,,,,,,
+11030790954,node,40.7010584,-74.011976,Casa Cipriani New York,hotel,,10,South Street,New York,NY,10004
+11030790959,node,40.7037883,-74.006349,Shadow Garden,artwork,,,,,,
 11033251571,node,40.7094484,-74.0018875,,information,,,,,,
 11040194101,node,40.7118119,-74.0032174,,artwork,,,,,,
 11040253929,node,40.7033084,-74.0099834,,information,,,,,,
-11040280573,node,40.7032200,-74.0101362,,information,,,,,,
+11040280573,node,40.70322,-74.0101362,,information,,,,,,
 11040280578,node,40.7037385,-74.0106934,,information,,,,,,
-11041048663,node,40.7024970,-74.0125357,,information,,,,,,
+11041048663,node,40.702497,-74.0125357,,information,,,,,,
 11048744570,node,40.7445244,-73.9991916,,information,,,,,,
-11048744574,node,40.7441838,-73.9994400,,information,,,,,,
+11048744574,node,40.7441838,-73.99944,,information,,,,,,
 11048911149,node,40.7191907,-73.9942282,Moxy,hotel,,145,Bowery,,,
-11051593217,node,40.7056830,-74.0132453,,information,,,,,,
+11051593217,node,40.705683,-74.0132453,,information,,,,,,
 11051827263,node,40.7052683,-74.0100552,,information,,,,,,
 11051851546,node,40.7066988,-74.0108212,,information,,,,,,
 11051851609,node,40.7068254,-74.0100995,,information,,,,,,
 11051851640,node,40.7064225,-74.0096724,,information,,,,,,
 11053136320,node,40.7070387,-74.0103335,General George Washington in Prayer at Valley Forge,artwork,,,,,,
-11066047179,node,40.7219434,-74.0026550,Jeffrey Deitch,gallery,,76,Grand Street,New York,NY,10013
+11066047179,node,40.7219434,-74.002655,Jeffrey Deitch,gallery,,76,Grand Street,New York,NY,10013
 11078880602,node,40.7403478,-73.9792639,,information,,,,,,
 11078880603,node,40.7401644,-73.9791009,,information,,,,,,
 11079239447,node,40.7147386,-74.0100483,Cloud Gallery,gallery,,,,,,
 11079626705,node,40.7502469,-74.0035315,National Academy of Design,museum,,519,West 26th Street,New York,NY,10001
 11079651705,node,40.7303986,-73.9957606,Grey Art Gallery,gallery,,100,Washington Square East,New York,NY,10003
-11113367836,node,40.7482890,-73.9886674,June 4th Memorial Exhibit,museum,,894,6th Avenue,New York,NY,10001
+11113367836,node,40.748289,-73.9886674,June 4th Memorial Exhibit,museum,,894,6th Avenue,New York,NY,10001
 11114693772,node,40.8617459,-73.9336862,,viewpoint,,,,,,
 11120953706,node,40.7439568,-74.0068719,,viewpoint,,,,,,
 11136560122,node,40.7536994,-74.0018914,,information,,,,,,
@@ -1103,45 +1103,45 @@
 11136560272,node,40.7545134,-74.0012988,,information,,,,,,
 11137261452,node,40.7543835,-74.0027783,,information,,,,,,
 11142777927,node,40.7548687,-73.9955326,Ascension,artwork,,,,,,
-11142778023,node,40.7566530,-73.9955436,,information,,,,,,
+11142778023,node,40.756653,-73.9955436,,information,,,,,,
 11153346487,node,40.7538142,-73.9999271,,information,,,,,,
-11153606214,node,40.6982530,-73.9994032,Walk-in Kaleidoscope,artwork,,,,,,
+11153606214,node,40.698253,-73.9994032,Walk-in Kaleidoscope,artwork,,,,,,
 11154466921,node,40.6981391,-73.9990999,Turning Stone,artwork,,,,,,
 11157772487,node,40.7217017,-73.9876904,Hotel Indigo,hotel,,,,,,
 11157790185,node,40.7856332,-73.9555693,Buck House,gallery,,,,,,
-11196495052,node,40.7209094,-73.9877870,Richard Taittinger Gallery,gallery,,,,,,
+11196495052,node,40.7209094,-73.987787,Richard Taittinger Gallery,gallery,,,,,,
 11216057984,node,40.7731304,-73.9843595,,artwork,,,,,,
-11226171700,node,40.7556680,-73.9936089,Arlo,hotel,,351,West 38th Street,New York,NY,10018
+11226171700,node,40.755668,-73.9936089,Arlo,hotel,,351,West 38th Street,New York,NY,10018
 11235947340,node,40.7289478,-73.9907277,Peter Cooper Statue,artwork,,,,,,
 11236725839,node,40.7801482,-73.9769354,,information,,,,,,
-11278764184,node,40.7396560,-74.0114630,,picnic_site,,,,,,
+11278764184,node,40.739656,-74.011463,,picnic_site,,,,,,
 11289156254,node,40.7476065,-74.0062822,Pace African & Oceanic Art,gallery,,536,West 22nd Street,,NY,10011
 11301575823,node,40.7123356,-74.0122271,,information,,,,,,
 11301575824,node,40.7123508,-74.0123102,,information,,,,,,
-11301575825,node,40.7123701,-74.0123980,,information,,,,,,
+11301575825,node,40.7123701,-74.012398,,information,,,,,,
 11308530451,node,40.7118774,-74.0109331,,information,,,,,,
 11308790007,node,40.7189854,-74.0066226,,information,,,,,,
 11314008723,node,40.7534668,-74.0027905,,gallery,,,,,,
-11314008724,node,40.7534850,-74.0028441,,gallery,,,,,,
+11314008724,node,40.753485,-74.0028441,,gallery,,,,,,
 11315107355,node,40.7043819,-74.0062067,,information,,,,,,
 11316404995,node,40.7053221,-74.0070289,,information,,,,,,
 11322971509,node,40.7235849,-74.0080607,,information,,,,,,
-11322971512,node,40.7234360,-74.0080888,,information,,,,,,
+11322971512,node,40.723436,-74.0080888,,information,,,,,,
 11322971522,node,40.7241311,-74.0079617,,information,,,,,,
-11329804755,node,40.7173575,-74.0080360,Gerben Fine Art,gallery,,,,,,
+11329804755,node,40.7173575,-74.008036,Gerben Fine Art,gallery,,,,,,
 11340692126,node,40.7494529,-74.0046681,Agora Gallery,gallery,,530,West 25th Street,New York,NY,10001
 11349528485,node,40.7115409,-74.0047597,,artwork,,,,,,
-11349528486,node,40.7115330,-74.0046072,,information,,,,,,
+11349528486,node,40.711533,-74.0046072,,information,,,,,,
 11359524457,node,40.7640434,-73.9736202,Pomona,artwork,,,,,,
 11362819869,node,40.6869987,-74.0253606,Moving Chains,artwork,,,,,,
 11365151721,node,40.7081215,-74.0079395,,information,,,,,,
-11367912807,node,40.7062157,-74.0062150,,information,,,,,,
+11367912807,node,40.7062157,-74.006215,,information,,,,,,
 11372507963,node,40.7100769,-74.0075514,,information,,,,,,
-11382526142,node,40.7025492,-74.0138580,,information,,,,,,
+11382526142,node,40.7025492,-74.013858,,information,,,,,,
 11395357076,node,40.7459854,-73.9791457,The Right Light,artwork,,,,,,
-11398317038,node,40.7135750,-73.9989607,,information,,,,,,
+11398317038,node,40.713575,-73.9989607,,information,,,,,,
 11398600420,node,40.7137067,-73.9986139,,information,,,,,,
-11411546936,node,40.7116845,-74.0085210,,information,,,,,,
+11411546936,node,40.7116845,-74.008521,,information,,,,,,
 11411546945,node,40.7126043,-74.0095211,,information,,,,,,
 11411576753,node,40.7125848,-74.0089827,,artwork,,,,,,
 11411576836,node,40.7128226,-74.0087958,,artwork,,,,,,
@@ -1149,13 +1149,13 @@
 11415663297,node,40.7083166,-74.0142933,,information,,,,,,
 11418077432,node,40.7094984,-74.0179732,Rector Gate,artwork,,,,,,
 11421922652,node,40.7079152,-74.0180374,,information,,,,,,
-11423788211,node,40.7114764,-74.0150710,,information,,,,,,
+11423788211,node,40.7114764,-74.015071,,information,,,,,,
 11424681382,node,40.7116351,-74.0160838,,information,,,,,,
 11429301173,node,40.7141127,-74.0175284,Pylons,artwork,,,,,,
 11429301174,node,40.7138727,-74.0175725,,artwork,,,,,,
 11429768067,node,40.7138905,-74.0143907,,information,,,,,,
 11432613338,node,40.7157756,-74.0155714,,information,,,,,,
-11439633398,node,40.7154145,-74.0138160,,information,,,,,,
+11439633398,node,40.7154145,-74.013816,,information,,,,,,
 11453206397,node,40.7180934,-74.0152855,,information,,,,,,
 11453206416,node,40.7181883,-74.0150614,,information,,,,,,
 11458527732,node,40.7175412,-74.0132922,,information,,,,,,
@@ -1173,29 +1173,29 @@
 11503416370,node,40.7103576,-74.0008677,,information,,,,,,
 11503466085,node,40.7154908,-74.0026598,,information,,,,,,
 11504448357,node,40.7121114,-73.9972659,,information,,,,,,
-11509114969,node,40.7095660,-74.0097951,Residence Inn,hotel,,170,Broadway,New York,NY,10038
-11509789237,node,40.7516291,-73.9767310,,information,,,,,,
-11509789248,node,40.7508340,-73.9768119,,information,,,,,,
-11510245595,node,40.7517330,-73.9978257,,artwork,,,,,,
+11509114969,node,40.709566,-74.0097951,Residence Inn,hotel,,170,Broadway,New York,NY,10038
+11509789237,node,40.7516291,-73.976731,,information,,,,,,
+11509789248,node,40.750834,-73.9768119,,information,,,,,,
+11510245595,node,40.751733,-73.9978257,,artwork,,,,,,
 11512156164,node,40.7506387,-73.9669507,Celebrating Jean Sibelius,artwork,,,,,,
 11512945743,node,40.7505009,-73.9911376,,information,,,,,,
 11513000340,node,40.7511854,-73.9912767,,information,,,,,,
-11513000451,node,40.7519645,-73.9931130,,information,,,,,,
+11513000451,node,40.7519645,-73.993113,,information,,,,,,
 11513000525,node,40.7502356,-73.9950559,,information,,,,,,
 11513122958,node,40.7521708,-73.9931747,,information,,,,,,
 11514574148,node,40.7168736,-73.9975701,,information,,,,,,
 11514574158,node,40.7166524,-73.9976361,,information,,,,,,
-11514574160,node,40.7166790,-73.9977089,,information,,,,,,
+11514574160,node,40.716679,-73.9977089,,information,,,,,,
 11514578313,node,40.7171564,-73.9990461,,information,,,,,,
-11514578354,node,40.7173260,-73.9988110,,information,,,,,,
+11514578354,node,40.717326,-73.998811,,information,,,,,,
 11514578384,node,40.7180843,-74.0002337,,information,,,,,,
 11514578416,node,40.7181949,-74.0000221,,information,,,,,,
 11515031359,node,40.7278066,-74.0052261,,information,,,,,,
 11515450682,node,40.7156401,-73.9913906,Harkawik,gallery,,,,,,
 11515468919,node,40.7139859,-74.0088348,,information,,,,,,
-11517489755,node,40.8076050,-73.9635762,J. Pulitzer,artwork,,,,,,
+11517489755,node,40.807605,-73.9635762,J. Pulitzer,artwork,,,,,,
 11518199308,node,40.7116415,-73.9925161,,information,,,,,,
-11528829825,node,40.7675123,-73.9549300,Beloosesky Gallery,gallery,,415,East 72nd Street,,,
+11528829825,node,40.7675123,-73.95493,Beloosesky Gallery,gallery,,415,East 72nd Street,,,
 11600726673,node,40.7163035,-74.0020378,,information,,,,,,
 11600726727,node,40.7172492,-74.0017438,,information,,,,,,
 11636160894,node,40.6900867,-74.0465578,,information,,,,,,
@@ -1203,10 +1203,10 @@
 11636206727,node,40.6907803,-74.0452444,,information,,,,,,
 11636206728,node,40.6907087,-74.0451724,,information,,,,,,
 11636206729,node,40.6903766,-74.0459527,,information,,,,,,
-11636206885,node,40.6898150,-74.0437117,,information,,,,,,
-11636206982,node,40.6891883,-74.0440480,,information,,,,,,
-11636206983,node,40.6889782,-74.0442010,,information,,,,,,
-11636206984,node,40.6889068,-74.0443440,,information,,,,,,
+11636206885,node,40.689815,-74.0437117,,information,,,,,,
+11636206982,node,40.6891883,-74.044048,,information,,,,,,
+11636206983,node,40.6889782,-74.044201,,information,,,,,,
+11636206984,node,40.6889068,-74.044344,,information,,,,,,
 11636206985,node,40.6888928,-74.0445765,,information,,,,,,
 11649887398,node,40.7190494,-73.9913811,Shoot the Lobster,gallery,,,,,,
 11655450101,node,40.7123073,-73.9921691,,information,,,,,,
@@ -1226,58 +1226,58 @@
 11725939547,node,40.7994833,-73.9695448,,artwork,,,,,,
 11725939548,node,40.7990454,-73.9683008,,artwork,,,,,,
 11725939549,node,40.7989849,-73.9683312,,artwork,,,,,,
-11725939550,node,40.7986070,-73.9672605,,artwork,,,,,,
+11725939550,node,40.798607,-73.9672605,,artwork,,,,,,
 11725939551,node,40.7985505,-73.9673076,,artwork,,,,,,
 11725939552,node,40.7987459,-73.9675954,,artwork,,,,,,
-11725939553,node,40.7986880,-73.9676232,,artwork,,,,,,
+11725939553,node,40.798688,-73.9676232,,artwork,,,,,,
 11725939554,node,40.7988202,-73.9679325,,artwork,,,,,,
 11725939555,node,40.7988723,-73.9679079,,artwork,,,,,,
-11730545938,node,40.7985491,-73.9669790,,artwork,,,,,,
+11730545938,node,40.7985491,-73.966979,,artwork,,,,,,
 11732283054,node,40.7796765,-73.9914155,,viewpoint,,,,,,
 11732284899,node,40.8189806,-73.9621164,,viewpoint,,,,,,
-11732284900,node,40.8192526,-73.9622720,,viewpoint,,,,,,
+11732284900,node,40.8192526,-73.962272,,viewpoint,,,,,,
 11748989360,node,40.7522281,-73.9892637,Moxy,hotel,,487,7th Avenue,New York,NY,10018
-11759305919,node,40.8346962,-73.9372410,,viewpoint,,,,,,
+11759305919,node,40.8346962,-73.937241,,viewpoint,,,,,,
 11760991013,node,40.7247539,-73.9916906,Howl! Happening,gallery,,,,,,
 11761668239,node,40.7500059,-73.9710785,Ford Foundation,yes,en:Ford Foundation,,,,,
 11762206278,node,40.8033088,-73.9626208,Pulpit,artwork,,,,,,
 11772837090,node,40.8327913,-73.9395192,,information,,,,,,
 11774091841,node,40.7479954,-74.0046646,Curtain Call,artwork,,,,,,
-11774443533,node,40.8028702,-73.9626980,Seven Generations,artwork,,,,,,
+11774443533,node,40.8028702,-73.962698,Seven Generations,artwork,,,,,,
 11810089111,node,40.8017383,-73.9682178,Straus Monument,artwork,,,,,,
 11811210717,node,40.8029742,-73.9636087,,information,,,,,,
-11817671917,node,40.8000603,-73.9683240,,information,,,,,,
-11817671918,node,40.8004918,-73.9681980,,information,,,,,,
+11817671917,node,40.8000603,-73.968324,,information,,,,,,
+11817671918,node,40.8004918,-73.968198,,information,,,,,,
 11817671924,node,40.8037393,-73.9673832,,information,,,,,,
 11829500888,node,40.7986425,-73.9668867,,information,,,,,,
 11830115942,node,40.8006961,-73.9682637,,information,,,,,,
 11834404605,node,40.7985389,-73.9692766,,information,,,,,,
 11845462821,node,40.8044022,-73.9663152,,information,,,,,,
 11845462823,node,40.8048429,-73.9659949,,information,,,,,,
-11845462825,node,40.8052860,-73.9656637,,information,,,,,,
-11845597459,node,40.8050560,-73.9666287,,information,,,,,,
+11845462825,node,40.805286,-73.9656637,,information,,,,,,
+11845597459,node,40.805056,-73.9666287,,information,,,,,,
 11846454660,node,40.7980207,-73.9695617,LinkNYC,information,,2659,BROADWAY,,,10025
 11848337071,node,40.8049852,-73.9658986,,information,,,,,,
 11850467068,node,40.7536218,-73.9861665,Courtyard New York Manhattan/Times Square,hotel,,114,West 40th Street,New York,NY,
 11862536064,node,40.7459314,-74.0050167,The High Line Hotel,hotel,,180,10th Avenue,,,
 11865484189,node,40.8055186,-73.9660512,,information,,,,,,
 11866583656,node,40.7568402,-73.9815488,Throwback,artwork,,,,,,
-11868048946,node,40.7619210,-73.9721006,Pace Gallery,gallery,,,,,,
-11868048947,node,40.7622261,-73.9726390,,artwork,,,,,,
+11868048946,node,40.761921,-73.9721006,Pace Gallery,gallery,,,,,,
+11868048947,node,40.7622261,-73.972639,,artwork,,,,,,
 11871312680,node,40.8029485,-73.9673646,,information,,,,,,
 11871312685,node,40.8035862,-73.9669037,,information,,,,,,
 11871312691,node,40.8027238,-73.9674656,,information,,,,,,
 11873128708,node,40.8010819,-73.9677091,,information,,,,,,
 11873128710,node,40.8005671,-73.9677842,,information,,,,,,
 11873128714,node,40.8003146,-73.9678236,,information,,,,,,
-11875111082,node,40.7984581,-73.9673010,,information,,,,,,
+11875111082,node,40.7984581,-73.967301,,information,,,,,,
 11875111089,node,40.7991007,-73.9668343,,information,,,,,,
 11875283069,node,40.8737119,-73.9270389,Osage Orange Tree,information,,,,,,
 11875285069,node,40.8742423,-73.9256491,Straus Mansion Site,information,,,,,,
 11880610524,node,40.7980292,-73.9676142,,information,,,,,,
-11880610525,node,40.7978312,-73.9677590,,information,,,,,,
-11880610534,node,40.7976980,-73.9678536,,information,,,,,,
-11880610539,node,40.7974000,-73.9680708,,information,,,,,,
+11880610525,node,40.7978312,-73.967759,,information,,,,,,
+11880610534,node,40.797698,-73.9678536,,information,,,,,,
+11880610539,node,40.7974,-73.9680708,,information,,,,,,
 11880610541,node,40.7971806,-73.9682297,,information,,,,,,
 11882778355,node,40.8010658,-73.9649453,,information,,,,,,
 11884748995,node,40.7972846,-73.9696526,,information,,,,,,
@@ -1295,19 +1295,19 @@
 11905306931,node,40.7994831,-73.9631759,,information,,,,,,
 11905374655,node,40.8198153,-73.9603819,,artwork,,,,,,
 11905449151,node,40.8198029,-73.9602149,,information,,,,,,
-11909072660,node,40.8004052,-73.9618950,,information,,,,,,
+11909072660,node,40.8004052,-73.961895,,information,,,,,,
 11909072664,node,40.8006168,-73.9617309,,information,,,,,,
 11909072667,node,40.8007449,-73.9619143,,information,,,,,,
 11910527210,node,40.8282249,-73.9535762,Our Gates,artwork,,,,,,
-11910527211,node,40.8280910,-73.9540350,Portrait of t.,artwork,,,,,,
+11910527211,node,40.828091,-73.954035,Portrait of t.,artwork,,,,,,
 11910848595,node,40.8010171,-73.9614397,,information,,,,,,
 11910848599,node,40.8012668,-73.9612543,,information,,,,,,
-11916869939,node,40.8014791,-73.9611010,,information,,,,,,
+11916869939,node,40.8014791,-73.961101,,information,,,,,,
 11918683347,node,40.8038256,-73.9628191,Bison,artwork,,,,,,
 11923790108,node,40.8046703,-73.9665795,,information,,,,,,
 11923790111,node,40.8044737,-73.9667237,,information,,,,,,
 11932140069,node,40.8007308,-73.9716728,,information,,,,,,
-11938905833,node,40.8030013,-73.9678950,,information,,,,,,
+11938905833,node,40.8030013,-73.967895,,information,,,,,,
 11941480269,node,40.7965758,-73.9706192,LinkNYC,information,,2617,BROADWAY,,,10025
 11942577669,node,40.7765421,-73.9790421,,information,,,,,,
 11943371333,node,40.7772458,-73.9786283,,information,,,,,,
@@ -1317,12 +1317,12 @@
 11949178224,node,40.7844265,-73.9797821,,information,,,,,,
 11949178225,node,40.7841452,-73.9799931,,information,,,,,,
 11949178226,node,40.7846007,-73.9797685,,information,,,,,,
-11949549125,node,40.7887030,-73.9764098,,information,,,,,,
+11949549125,node,40.788703,-73.9764098,,information,,,,,,
 11949550411,node,40.7872582,-73.9776499,,information,,,,,,
 11949550423,node,40.7882197,-73.9768209,,information,,,,,,
 11949721909,node,40.7940514,-73.9725684,,information,,,,,,
 11949721914,node,40.7934384,-73.9730599,,information,,,,,,
-11949721915,node,40.7933358,-73.9729780,,information,,,,,,
+11949721915,node,40.7933358,-73.972978,,information,,,,,,
 11949721937,node,40.7922646,-73.9737617,,information,,,,,,
 11953023726,node,40.8045706,-73.9614498,,information,,,,,,
 11954871154,node,40.7959879,-73.9705981,,information,,,,,,
@@ -1330,9 +1330,9 @@
 11957908726,node,40.7967586,-73.9686671,,information,,,,,,
 11961946664,node,40.7938295,-73.9720402,,information,,,,,,
 11961968340,node,40.7894043,-73.9753968,,information,,,,,,
-11961968354,node,40.7902390,-73.9747935,,information,,,,,,
+11961968354,node,40.790239,-73.9747935,,information,,,,,,
 11962391055,node,40.7909482,-73.9742766,,information,,,,,,
-11963277163,node,40.7836550,-73.9797488,,information,,,,,,
+11963277163,node,40.783655,-73.9797488,,information,,,,,,
 11963277164,node,40.7837848,-73.9795747,,information,,,,,,
 11963277165,node,40.7839265,-73.9797025,,information,,,,,,
 11963313775,node,40.7845666,-73.9792302,,information,,,,,,
@@ -1342,8 +1342,8 @@
 11963313794,node,40.7862227,-73.9779964,,information,,,,,,
 11963619865,node,40.7922232,-73.9733486,,information,,,,,,
 11963641871,node,40.7924648,-73.9731741,,information,,,,,,
-11963641874,node,40.7927657,-73.9729490,,information,,,,,,
-11963641879,node,40.7931818,-73.9726420,,information,,,,,,
+11963641874,node,40.7927657,-73.972949,,information,,,,,,
+11963641879,node,40.7931818,-73.972642,,information,,,,,,
 11968537917,node,40.8181288,-73.9618501,,information,,,,,,
 11969362708,node,40.7356045,-73.9922799,chashama,gallery,,7,East 14th Street,,,
 11971474982,node,40.8023797,-73.9567545,,information,,,,,,
@@ -1352,25 +1352,25 @@
 11979323596,node,40.8115952,-73.9548791,,information,,,,,,
 11979323611,node,40.8113239,-73.9543327,Harlem Hybrid,artwork,,,,,,
 11980041884,node,40.8094419,-73.9518466,,information,,,,,,
-11980101140,node,40.8095334,-73.9532740,General Winfield Scott Hancock,artwork,,,,,,
-11980276290,node,40.8090940,-73.9480281,,information,,,,,,
+11980101140,node,40.8095334,-73.953274,General Winfield Scott Hancock,artwork,,,,,,
+11980276290,node,40.809094,-73.9480281,,information,,,,,,
 11982036804,node,40.8119625,-73.9459324,,information,,,,,,
 11982153143,node,40.8153506,-73.9581507,,information,,,,,,
 11982188298,node,40.8131185,-73.9562055,,information,,,,,,
 11983504571,node,40.7534844,-73.9780145,,attraction,,,,,,
-11983505969,node,40.7649910,-74.0007221,,attraction,,,,,,
-11984283669,node,40.7414510,-74.0021522,Dr. Gertrude B. Kelly,information,,,,,,
+11983505969,node,40.764991,-74.0007221,,attraction,,,,,,
+11984283669,node,40.741451,-74.0021522,Dr. Gertrude B. Kelly,information,,,,,,
 11984283670,node,40.7418622,-74.0018928,Dr. Gertrude B. Kelly,information,,,,,,
-11984289921,node,40.7991370,-73.9756829,,information,,,,,,
-11989650235,node,40.7959790,-73.9688360,,information,,,,,,
+11984289921,node,40.799137,-73.9756829,,information,,,,,,
+11989650235,node,40.795979,-73.968836,,information,,,,,,
 11989650241,node,40.7964001,-73.9685214,,information,,,,,,
 11992382384,node,40.7439171,-73.9996542,,information,,,,,,
 11992803746,node,40.7546668,-73.9839377,,information,,,,,,
 11992944903,node,40.7549704,-73.9838749,,information,,,,,,
 12015891748,node,40.8009028,-73.9586929,,information,,,,,,
-12021903149,node,40.7182903,-74.0026230,PPOW,gallery,,"392, 2 Fl",Broadway,,,
-12022076619,node,40.7183647,-74.0025940,PPOW,gallery,,392,Broadway,,,
-12022095654,node,40.7176390,-74.0031760,Sargent's Daughters,gallery,,370,Broadway,,,10013
+12021903149,node,40.7182903,-74.002623,PPOW,gallery,,"392, 2 Fl",Broadway,,,
+12022076619,node,40.7183647,-74.002594,PPOW,gallery,,392,Broadway,,,
+12022095654,node,40.717639,-74.003176,Sargent's Daughters,gallery,,370,Broadway,,,10013
 12022102856,node,40.7219332,-73.9903883,JJ Murphy Gallery,gallery,,53,Stanton Street,,,
 12022143172,node,40.7156153,-74.0065097,Bureau,gallery,,112,Duane Street,,,
 12022143321,node,40.7253876,-73.9909058,Karma,gallery,,22,East 2nd Street,,,
@@ -1382,14 +1382,14 @@
 12041185775,node,40.7773666,-73.9784266,LinkNYC,information,,49,WEST 72 STREET,,,10023
 12042647141,node,40.7800437,-73.9813972,,information,,,,,,
 12042647149,node,40.7803267,-73.9813142,,information,,,,,,
-12042647153,node,40.7807960,-73.9811840,,information,,,,,,
-12042647158,node,40.7809505,-73.9809670,,information,,,,,,
+12042647153,node,40.780796,-73.981184,,information,,,,,,
+12042647158,node,40.7809505,-73.980967,,information,,,,,,
 12047551069,node,40.7257429,-73.9985087,Susan Sheehan Gallery,gallery,,146,Greene Street,New York City,,10012
-12056545169,node,40.7738117,-73.9819290,,information,,,,,,
+12056545169,node,40.7738117,-73.981929,,information,,,,,,
 12056545171,node,40.7747269,-73.9820067,,information,,,,,,
 12056654984,node,40.7754284,-73.9818819,,information,,,,,,
 12056784635,node,40.7815098,-73.9809519,,information,,,,,,
-12056784640,node,40.7818530,-73.9808424,,information,,,,,,
+12056784640,node,40.781853,-73.9808424,,information,,,,,,
 12056784645,node,40.7825241,-73.9805799,,information,,,,,,
 12056784654,node,40.7831982,-73.9802489,,information,,,,,,
 12058128711,node,40.7833672,-73.9801214,,information,,,,,,
@@ -1398,20 +1398,20 @@
 12069574475,node,40.7869011,-73.9774896,,information,,,,,,
 12070257589,node,40.7880222,-73.9765311,,information,,,,,,
 12070257590,node,40.7880902,-73.9762098,,information,,,,,,
-12077150281,node,40.7865313,-73.9725140,,information,,,,,,
+12077150281,node,40.7865313,-73.972514,,information,,,,,,
 12081972252,node,40.7830415,-73.9743292,,information,,,,,,
-12088942774,node,40.7250380,-73.9883259,All Street Gallery,gallery,,,,,,
+12088942774,node,40.725038,-73.9883259,All Street Gallery,gallery,,,,,,
 12106911201,node,40.7651754,-73.9829959,Moderne Hotel,hotel,,,,,,
 12116978401,node,40.7469096,-73.9702418,Field of light,attraction,,,,,,10016
-12116978501,node,40.7467784,-73.9702970,Freedom plaza,attraction,,,,,,
-12117376826,node,40.7415970,-74.0092914,,information,,,,,,
+12116978501,node,40.7467784,-73.970297,Freedom plaza,attraction,,,,,,
+12117376826,node,40.741597,-74.0092914,,information,,,,,,
 12117376834,node,40.7420352,-74.0093697,,information,,,,,,
 12117376848,node,40.7420341,-74.0093558,Life among the Piles,information,,,,,,
 12117376851,node,40.7409088,-74.0094775,,information,,,,,,
 12117376865,node,40.7409402,-74.0096106,,information,,,,,,
 12139294435,node,40.8004772,-73.9660385,,information,,,,,,
 12150623970,node,40.7728676,-73.9551746,Metropolitan Graphic Art Gallery,gallery,,1504,2nd Avenue,,,
-12150721461,node,40.7682870,-73.9547785,Ronald McDonald House New York,guest_house,,405,East 73rd Street,,,
+12150721461,node,40.768287,-73.9547785,Ronald McDonald House New York,guest_house,,405,East 73rd Street,,,
 12152851882,node,40.7987432,-73.9561948,,viewpoint,,,,,,
 12154499210,node,40.7788883,-73.9778531,,information,,,,,,
 12179232021,node,40.7954753,-73.9561006,,viewpoint,,,,,,
@@ -1421,14 +1421,14 @@
 12179232026,node,40.7949149,-73.9570239,,viewpoint,,,,,,
 12179232027,node,40.7953337,-73.9564915,,viewpoint,,,,,,
 12179640428,node,40.7946715,-73.9700625,,information,,,,,,
-12181429831,node,40.7194141,-74.0014470,Banksy Museum,museum,,277,Canal Street,New York City,NY,10013
+12181429831,node,40.7194141,-74.001447,Banksy Museum,museum,,277,Canal Street,New York City,NY,10013
 12185228414,node,40.7920408,-73.9719782,,information,,,,,,
 12185228421,node,40.7927154,-73.9714868,,information,,,,,,
 12185293363,node,40.7933298,-73.9710409,,information,,,,,,
-12185293367,node,40.7939475,-73.9705910,,information,,,,,,
+12185293367,node,40.7939475,-73.970591,,information,,,,,,
 12188861256,node,40.7793629,-73.9689323,,information,,,,,,
 12188861257,node,40.7792698,-73.9688404,Henry Luce Nature Observatory,museum,,,,,,
-12193120402,node,40.7107590,-74.0104530,MÄRCER LABS,museum,,21,Dey Street,,,10007
+12193120402,node,40.710759,-74.010453,MÄRCER LABS,museum,,21,Dey Street,,,10007
 12194019768,node,40.7929128,-73.9734917,,information,,,,,,
 12194019769,node,40.7927042,-73.9734549,,information,,,,,,
 12195829072,node,40.7908134,-73.9748248,,information,,,,,,
@@ -1443,34 +1443,34 @@
 12273325701,node,40.7598705,-73.9728518,Hotel Elysee by Library Hotel Collection,hotel,,60,East 54th Street,,,10022
 12273452602,node,40.7657133,-73.9692479,Lowell Hotel,hotel,,,,,,
 12277060199,node,40.7167192,-74.0134268,,information,,,,,,
-12300169234,node,40.7096287,-74.0086990,The Artezen,hotel,,24,John Street,New York,NY,10038
+12300169234,node,40.7096287,-74.008699,The Artezen,hotel,,24,John Street,New York,NY,10038
 12319626494,node,40.7597471,-73.9881115,LinkNYC,information,,,,,,
 12326900425,node,40.7212842,-73.9926996,Off Soho Suites Hotel,hotel,,11,Rivington Street,New York,NY,10002
-12397045541,node,40.8100360,-73.9514153,,information,,,,,,
+12397045541,node,40.810036,-73.9514153,,information,,,,,,
 12397045566,node,40.8110211,-73.9506943,,information,,,,,,
-12397045568,node,40.8106930,-73.9506617,,information,,,,,,
-12423311568,node,40.8090549,-73.9521290,,information,,,,,,
+12397045568,node,40.810693,-73.9506617,,information,,,,,,
+12423311568,node,40.8090549,-73.952129,,information,,,,,,
 12477113527,node,40.7217498,-73.9986288,Ashley Longshore Studio Gallery,gallery,,,,,,
 12477212288,node,40.7214151,-73.9987389,Space Gallery,gallery,,428,Broome Street,,,10013
 12479654312,node,40.7178117,-74.0030315,MetaMorfosi,gallery,,378,Broadway,,,10013
-12495990801,node,40.7589100,-73.9833914,,hotel,,,,,,
-12547919179,node,40.7465226,-73.9644380,U Thant Island,information,,,,,,
+12495990801,node,40.75891,-73.9833914,,hotel,,,,,,
+12547919179,node,40.7465226,-73.964438,U Thant Island,information,,,,,,
 12549884714,node,40.7202681,-73.9851754,ABRI MARS,gallery,,53a,Stanton Street,New York,NY,10002
 12570555185,node,40.7657632,-73.9768318,Gallery El Dorado,gallery,,108,Central Park South,,,10019
 12631340863,node,40.7592047,-73.9764723,Eden Gallery,gallery,,,,,,
 5670178,way,40.7314412,-73.9956646,Washington Mews,yes,en:Washington Mews,,,,,
-5672001,way,40.7336111,-74.0005180,Gay Street,attraction,en:Gay Street (Manhattan),,,,,
-5672912,way,40.7301640,-74.0061566,Saint Lukes Place,yes,,,,,,
+5672001,way,40.7336111,-74.000518,Gay Street,attraction,en:Gay Street (Manhattan),,,,,
+5672912,way,40.730164,-74.0061566,Saint Lukes Place,yes,,,,,,
 22727025,way,40.7537508,-73.9835384,Bryant Park,attraction,en:Bryant Park,,,New York,NY,10018
 32965412,way,40.6892395,-74.0445353,Statue of Liberty,attraction,en:Statue of Liberty,,,,,10004
 32965687,way,40.6904931,-74.0464955,Liberty Island Information Center,information,,1,Liberty Island,New York,NY,10004
-34633854,way,40.7484420,-73.9856589,Empire State Building,attraction,en:Empire State Building,350,5th Avenue,New York,NY,10118
+34633854,way,40.748442,-73.9856589,Empire State Building,attraction,en:Empire State Building,350,5th Avenue,New York,NY,10118
 39243913,way,40.7986699,-73.9562876,Blockhouse No. 1,attraction,en:Blockhouse No. 1,,,,,
 42500770,way,40.7516216,-73.9753388,Chrysler Building,yes,en:Chrysler Building,,,,,
 42500778,way,40.7497454,-73.9732003,Daily News Building,yes,en:Daily News Building,,,,,
 47091894,way,40.7952855,-73.9521501,Fort Clinton,attraction,en:Fort Clinton (Central Park),,,,,
 48869328,way,40.7496007,-73.9675511,United Nations Headquarters,attraction,en:Headquarters of the United Nations,405,FDR Drive,New York,NY,10017
-50603780,way,40.7647343,-74.0008290,USS Intrepid,attraction,en:USS Intrepid (CV-11),1,Intrepid Plaza,New York,NY,10019
+50603780,way,40.7647343,-74.000829,USS Intrepid,attraction,en:USS Intrepid (CV-11),1,Intrepid Plaza,New York,NY,10019
 66755319,way,40.7586424,-73.9784188,The Rink at Rockefeller Center,yes,,,,New York,,
 70605978,way,40.7082662,-74.0141115,Holiday Inn Manhattan,hotel,,99,Washington Street,New York,NY,10006
 75363809,way,40.7124541,-74.0083342,Woolworth Building,attraction,en:Woolworth Building,,,,,
@@ -1489,7 +1489,7 @@
 158404390,way,40.7412668,-73.9873592,Met Life Tower,yes,en:Metropolitan Life Insurance Company Tower,1,Madison Avenue,New York,,10010
 161605042,way,40.7119833,-74.0167253,New York City Police Memorial,attraction,,,,,,
 162755457,way,40.7608075,-73.9773637,Baccarat Hotel & Residences,hotel,,20,West 53rd Street,New York,,10019
-162755458,way,40.7605910,-73.9775846,Paley Center for Media,museum,en:Paley Center for Media,25,West 52nd Street,New York,NY,10019
+162755458,way,40.760591,-73.9775846,Paley Center for Media,museum,en:Paley Center for Media,25,West 52nd Street,New York,NY,10019
 162764018,way,40.7579869,-73.9749183,Lotte New York Palace,hotel,en:Lotte New York Palace Hotel,455,Madison Avenue,,,10022
 162776008,way,40.7603702,-73.9824692,McGraw-Hill Waterfall Tunnel,attraction,,,,,,
 163474780,way,40.7585993,-73.9862598,New York Marriott Marquis,hotel,en:New York Marriott Marquis,1535,Broadway,,,
@@ -1500,7 +1500,7 @@
 207556738,way,40.7182701,-73.9862094,Holiday Inn,hotel,,150,Delancey Street,New York,NY,10002
 218348086,way,40.7599716,-73.9777846,Club Quarters,hotel,,25,West 51st Street,New York,,
 224020620,way,40.8052123,-73.9428366,Picnic Area on Marcus Garvey Pool Deck,picnic_site,,,,,,
-236107988,way,40.7470960,-73.9901498,Eventi,hotel,,851,6th Avenue,New York,NY,10001
+236107988,way,40.747096,-73.9901498,Eventi,hotel,,851,6th Avenue,New York,NY,10001
 238320858,way,40.7639891,-73.9945641,Holiday Inn Express,hotel,,538,West 48th Street,New York,,10036
 241833272,way,40.7276617,-73.9897653,The Ukrainian Museum,museum,en:Ukrainian Museum,222,East 6th Street,,,10003
 247838607,way,40.7276576,-73.9923438,Merchant's House Museum,museum,en:Merchant's House Museum,29,East 4th Street,New York,,10003
@@ -1509,21 +1509,21 @@
 247861602,way,40.7334239,-73.9902241,Hyatt Union Square New York,hotel,,134,4th Avenue,New York,NY,10003
 247865135,way,40.7239398,-74.0030718,Sixty SoHo,hotel,,60,Thompson Street,,,10012
 247866641,way,40.7230033,-73.9974119,Crosby Street Hotel,hotel,,79,Crosby Street,New York,,
-247892575,way,40.7197618,-73.9998770,NoMo SoHo,hotel,,9,Crosby Street,,,10013
+247892575,way,40.7197618,-73.999877,NoMo SoHo,hotel,,9,Crosby Street,,,10013
 247920477,way,40.7231513,-73.9925667,Sperone Westwater,gallery,,257,Bowery,New York,,10002
-247920493,way,40.7223470,-73.9928349,New Museum,museum,en:New Museum,235,Bowery,,,10002
+247920493,way,40.722347,-73.9928349,New Museum,museum,en:New Museum,235,Bowery,,,10002
 248143190,way,40.7438876,-73.9812009,The Hotel @ New York City,hotel,,161,Lexington Avenue,New York,NY,10016
 248143642,way,40.7439704,-73.9869885,The Evelyn,hotel,,7,East 27th Street,New York,NY,10016
-248143652,way,40.7449395,-73.9884860,The Nomad,hotel,en:The NoMad,1170,Broadway,,,10001
+248143652,way,40.7449395,-73.988486,The Nomad,hotel,en:The NoMad,1170,Broadway,,,10001
 248143769,way,40.7440201,-73.9892624,Flatiron Hotel,hotel,,9,West 26th Street,New York,NY,10010
-248144136,way,40.7461780,-73.9914479,Fairfield Inn,hotel,,116,West 28th Street,New York,NY,10001
+248144136,way,40.746178,-73.9914479,Fairfield Inn,hotel,,116,West 28th Street,New York,NY,10001
 248144156,way,40.7440877,-73.9929202,Motto By Hilton,hotel,,112,West 25th Street,New York,,10001
 248166269,way,40.7312347,-73.9971025,Washington Square Arch,attraction,en:Washington Square Arch,,,,,
 248754520,way,40.7326552,-73.9967959,,hotel,,5,West 8th Street,,,10011
 248771367,way,40.7166795,-73.9949442,Hotel MB,hotel,,,,,,
 248771393,way,40.7170425,-73.9951633,Wyndham Garden Chinatown,hotel,,93,Bowery,New York,NY,10002
 249041777,way,40.7527082,-73.9724431,Club Wyndham,hotel,,205,East 45th Street,New York,NY,10017
-249657360,way,40.7365800,-73.9885402,W Hotels,hotel,en:W New York Union Square,201,Park Avenue South,,,10003
+249657360,way,40.73658,-73.9885402,W Hotels,hotel,en:W New York Union Square,201,Park Avenue South,,,10003
 249664327,way,40.7224437,-74.0028908,The Drawing Center,museum,,35,Wooster Street,New York,,10013
 249664383,way,40.7215845,-74.0026147,a83,gallery,,83,Grand Street,New York,,10013
 249664385,way,40.7213431,-74.0038263,,yes,,3-7,Wooster Street,New York,,10013
@@ -1532,31 +1532,31 @@
 249664631,way,40.7253205,-74.0054962,The Dominick,hotel,en:The Dominick,246,Spring Street,New York,NY,10013
 249665040,way,40.7275472,-74.0058087,Courtyard,hotel,,181,Varick Street,New York,NY,10014
 249848265,way,40.7152173,-73.9993659,Hotel Mulberry,hotel,,52,Mulberry Street,,,10013
-250052699,way,40.7208000,-74.0056223,Hilton Garden Inn Tribeca,hotel,,39,6th Avenue,New York,NY,10013
+250052699,way,40.7208,-74.0056223,Hilton Garden Inn Tribeca,hotel,,39,6th Avenue,New York,NY,10013
 250052719,way,40.7193706,-74.0047857,Roxy Hotel,hotel,,2,Avenue of the Americas,New York,NY,10013
 250052723,way,40.7195568,-74.0066188,FDNY Ladder 8,attraction,"en:Firehouse, Hook & Ladder Company 8",14,North Moore Street,New York,,10013
 250266597,way,40.7218279,-73.9871952,The Ludlow Hotel,hotel,,180,Ludlow Street,,,10002
 250266779,way,40.7203209,-73.9880239,The Redford Hotel,hotel,,136,Ludlow Street,,,10002
-250267911,way,40.7147291,-73.9934610,Museum at Eldridge Street,museum,en:Eldridge Street Synagogue,12,Eldridge Street,,,10002
+250267911,way,40.7147291,-73.993461,Museum at Eldridge Street,museum,en:Eldridge Street Synagogue,12,Eldridge Street,,,10002
 250268016,way,40.7147394,-73.9930815,Hotel Richland,hotel,,5,Allen Street,,,10002
 250490286,way,40.7398769,-74.0057329,Hotel Gansevoort,hotel,,18,9th Avenue,New York,,10014
 250490358,way,40.7408527,-74.0081663,The Standard,hotel,,848,Washington Street,New York,,10014
 250490372,way,40.7420065,-74.0085403,Liberty Inn,hotel,,51,10th Avenue,New York,,10014
-250490393,way,40.7405860,-74.0060312,Soho House New York,hotel,,,,,,
+250490393,way,40.740586,-74.0060312,Soho House New York,hotel,,,,,,
 258619232,way,40.7593907,-73.9856571,W Times Square Hotel,hotel,,,,,,
 260180778,way,40.7575691,-73.9840243,Hyatt Centric Times Square,hotel,,135,West 45th Street,New York,NY,10036
 263202827,way,40.7523288,-74.0098033,Fireboat John J. Harvey,attraction,en:John J. Harvey,,,,,
 263202828,way,40.7521022,-74.0092753,Lightship Frying Pan,attraction,en:United States lightship Frying Pan (LV-115),,,,,
-264624844,way,40.7403685,-74.0033650,Chelsea Pines Inn,hotel,,317,14th Street,New York,NY,10011
+264624844,way,40.7403685,-74.003365,Chelsea Pines Inn,hotel,,317,14th Street,New York,NY,10011
 264624845,way,40.7402469,-74.0030915,Hotel 309,hotel,,309,14th Street,New York,NY,10011
-264625640,way,40.7422876,-74.0034360,Dream Downtown,hotel,,355,West 16th Street,New York,,10011
-264625648,way,40.7424358,-74.0038670,Maritime Hotel,hotel,en:Maritime Hotel,363,West 16th Street,New York,NY,10011
-264649355,way,40.7436363,-73.9930940,Hampton Inn,hotel,,108,West 24th Street,New York,NY,10011
-264649395,way,40.7441490,-73.9943165,Hyatt Place,hotel,,140,West 24th Street,New York,NY,10011
+264625640,way,40.7422876,-74.003436,Dream Downtown,hotel,,355,West 16th Street,New York,,10011
+264625648,way,40.7424358,-74.003867,Maritime Hotel,hotel,en:Maritime Hotel,363,West 16th Street,New York,NY,10011
+264649355,way,40.7436363,-73.993094,Hampton Inn,hotel,,108,West 24th Street,New York,NY,10011
+264649395,way,40.744149,-73.9943165,Hyatt Place,hotel,,140,West 24th Street,New York,NY,10011
 264651600,way,40.7455877,-73.9999208,The Leo House,hostel,,332,West 23rd Street,,,10011
-264656535,way,40.7504450,-74.0033964,Selina Chelsea New York City,hotel,,518,West 27th Street,New York,NY,10001
+264656535,way,40.750445,-74.0033964,Selina Chelsea New York City,hotel,,518,West 27th Street,New York,NY,10001
 264656669,way,40.7483793,-74.0067395,The Cortland,apartment,,,,,,
-264674579,way,40.7499506,-73.9956500,Midtown West Hotel,hotel,,303,West 30th Street,,,10001
+264674579,way,40.7499506,-73.99565,Midtown West Hotel,hotel,,303,West 30th Street,,,10001
 264678451,way,40.7483403,-73.9946167,Holiday Inn Express,hotel,,232,West 29th Street,New York,NY,10001
 264685131,way,40.7480429,-73.9901833,Hampton,hotel,,116,West 31st Street,New York,NY,10001
 264685133,way,40.7466508,-73.9914102,Hilton Garden Inn,hotel,,121,West 28th Street,New York,NY,10001
@@ -1566,7 +1566,7 @@
 264685232,way,40.7486988,-73.9916598,Stewart Hotel,hotel,,371,7th Avenue,New York,,10001
 264752132,way,40.7349138,-73.9845535,Hotel 17,hotel,,225,East 17th Street,New York,,10003
 264761245,way,40.7409584,-73.9834068,Lex Hotel NYC,hotel,,67,Lexington Avenue,,,10010
-264768896,way,40.7410300,-73.9896864,Flatiron Building,attraction,en:Flatiron Building,175,5th Avenue,New York,NY,10010
+264768896,way,40.74103,-73.9896864,Flatiron Building,attraction,en:Flatiron Building,175,5th Avenue,New York,NY,10010
 264867495,way,40.7546897,-73.9986507,Courtyard,hotel,,461,West 34th Street,New York,NY,10001
 265042483,way,40.7453017,-73.9855328,Best Western Premier,hotel,,16,East 30th Street,New York,,10016
 265042555,way,40.7456561,-73.9882398,Ace Hotel,hotel,,20,West 29th Street,New York,NY,10001
@@ -1579,7 +1579,7 @@
 265148531,way,40.7643251,-73.9784762,Thompson Central Park New York,hotel,en:Thompson Central Park New York Hotel,119,West 56th Street,New York,NY,10019
 265149283,way,40.7616252,-73.9754184,The Peninsula New York,hotel,en:The Peninsula New York,,5th Avenue,New York,,
 265149284,way,40.7624495,-73.9780933,Warwick Hotel,hotel,en:Warwick New York Hotel,65,West 54th Street,New York,NY,10019
-265150609,way,40.7634549,-73.9805070,The Luxury Collection Hotel Manhattan Midtown,hotel,,151,West 54th Street,New York,NY,10019
+265150609,way,40.7634549,-73.980507,The Luxury Collection Hotel Manhattan Midtown,hotel,,151,West 54th Street,New York,NY,10019
 265151113,way,40.7656371,-73.9830013,Da Vinci Hotel,hotel,,244,West 56th Street,,,10019
 265151157,way,40.7647161,-73.9811912,Park Central Hotel,hotel,en:Park Central Hotel,860,7th Avenue,New York,,10019
 265151169,way,40.7644328,-73.9819451,Dream Midtown,hotel,,210,West 55th Street,,,10019
@@ -1590,24 +1590,24 @@
 265260910,way,40.7466211,-73.9867054,Hotel Wolcott,hotel,en:Hotel Wolcott,4,West 31st Street,New York,NY,10001
 265260913,way,40.7482334,-73.9874643,Hotel Stanford,hotel,,43,West 32nd Street,New York,NY,10001
 265260921,way,40.7472697,-73.9863456,nyma,hotel,,6,West 32nd Street,New York,NY,10001
-265260929,way,40.7469890,-73.9876773,Hyatt Herald Square New York,hotel,,30,West 31st Street,New York,NY,10001
-265260930,way,40.7484560,-73.9877177,"Martinique New York on Broadway, Curio Collection by Hilton",hotel,,49,West 32nd Street,New York,NY,10001
+265260929,way,40.746989,-73.9876773,Hyatt Herald Square New York,hotel,,30,West 31st Street,New York,NY,10001
+265260930,way,40.748456,-73.9877177,"Martinique New York on Broadway, Curio Collection by Hilton",hotel,,49,West 32nd Street,New York,NY,10001
 265261748,way,40.7452724,-73.9816235,The Marmara Park Avenue,hotel,,112,East 32nd Street,,,10016
 265261769,way,40.7445631,-73.9818052,Hotel 31,hotel,,120,East 31st Street,,,10016
-265261806,way,40.7460379,-73.9834290,Hotel 32 32,hotel,,32,East 32nd Street,,,10016
+265261806,way,40.7460379,-73.983429,Hotel 32 32,hotel,,32,East 32nd Street,,,10016
 265261807,way,40.7459991,-73.9833224,HGU,hotel,,34,East 32nd Street,,,10016
 265261826,way,40.7455838,-73.9842028,Hotel AKA,hotel,,131,Madison Avenue,,,
-265272951,way,40.7537382,-73.9937460,Crowne Plaza,hotel,,320,West 36th Street,New York,NY,10018
+265272951,way,40.7537382,-73.993746,Crowne Plaza,hotel,,320,West 36th Street,New York,NY,10018
 265272953,way,40.7534828,-73.9938705,EVEN Hotel New York - Times Square South,hotel,,321,West 35th Street,New York,,10018
-265272965,way,40.7543136,-73.9939260,Staypineapple,hotel,,337,West 36th Street,New York,NY,10018
+265272965,way,40.7543136,-73.993926,Staypineapple,hotel,,337,West 36th Street,New York,NY,10018
 265272968,way,40.7539352,-73.9942049,Fairfield Inn & Suites,hotel,,338,West 36th Street,New York,,10018
 265272997,way,40.7552635,-73.9973507,Quality Inn,hotel,,442,West 36th Street,New York,,10018
-265276939,way,40.7523860,-73.9912010,Henn Na Hotel,hotel,,235,West 35th Street,,,10001
+265276939,way,40.752386,-73.991201,Henn Na Hotel,hotel,,235,West 35th Street,,,10001
 265282680,way,40.7544891,-73.9925622,Courtyard,hotel,,307,West 37th Street,New York,NY,10018
 265296128,way,40.7547109,-73.9910788,Doxie Hotel,hotel,,273,West 38th Street,,,10018
 265296131,way,40.7557156,-73.9915693,Artel Hotel,hotel,,305,West 39th Street,,,10018
 265296137,way,40.7558368,-73.9917876,Element,hotel,,311,West 39th Street,New York,,10018
-265296151,way,40.7555504,-73.9930290,La Quinta Inn & Suites,hotel,,333,West 38th Street,New York,NY,10018
+265296151,way,40.7555504,-73.993029,La Quinta Inn & Suites,hotel,,333,West 38th Street,New York,NY,10018
 265296155,way,40.7565335,-73.9927065,Delta Hotels by Marriott,hotel,,340,West 40th Street,New York,NY,10018
 265296161,way,40.7565937,-73.9928689,Distrikt Hotel,hotel,,342,West 40th Street,New York,NY,10018
 265296163,way,40.7566887,-73.9930744,DoubleTree by Hilton Hotel,hotel,,350,West 40th Street,New York,NY,10018
@@ -1618,17 +1618,17 @@
 265296309,way,40.7553149,-73.9917884,Holiday Inn,hotel,,585,8th Avenue,New York,,10018
 265301854,way,40.7511398,-73.9845815,Fairfield Inn,hotel,,21,West 37th Street,New York,NY,10018
 265301856,way,40.7517806,-73.9840814,Hotel Hendricks,hotel,,25,West 38th Street,New York,NY,10018
-265301877,way,40.7511793,-73.9846870,SpringHill Suites,hotel,,25,West 37th Street,New York,NY,10018
+265301877,way,40.7511793,-73.984687,SpringHill Suites,hotel,,25,West 37th Street,New York,NY,10018
 265301889,way,40.7512734,-73.9848203,"Marriott Vacation Club, New York City",hotel,,33,West 37th Street,New York,,10018
 265301922,way,40.7504368,-73.9839807,The Draper,hotel,,4,West 37th Street,New York,,10018
-265301933,way,40.7497095,-73.9860900,The Gregory Hotel,hotel,,42,West 35th Street,New York,NY,10001
+265301933,way,40.7497095,-73.98609,The Gregory Hotel,hotel,,42,West 35th Street,New York,NY,10001
 265301939,way,40.7501297,-73.9859512,The Kixby,hotel,,45,West 35th Street,New York,NY,10001
 265301987,way,40.7503425,-73.9863514,Hampton Inn,hotel,,59,West 35th Street,New York,NY,10001
 265301995,way,40.7512127,-73.9859034,Embassy Suites by Hilton,hotel,,60,West 37th Street,New York,NY,10018
 265301998,way,40.7504237,-73.9865477,Hilton Garden Inn,hotel,,63,West 35th Street,New York,NY,10001
 265302076,way,40.7532182,-73.9822454,Stephen A. Schwarzman Building,attraction,en:New York Public Library Main Branch,476,5th Avenue,New York,NY,10018
 265302164,way,40.7520397,-73.9846972,Archer Hotel,hotel,,45,West 38th Street,New York,,10018
-265302168,way,40.7552430,-73.9860271,The Knickerbocker Hotel,hotel,en:The Knickerbocker Hotel,6,Times Square,New York,NY,10036
+265302168,way,40.755243,-73.9860271,The Knickerbocker Hotel,hotel,en:The Knickerbocker Hotel,6,Times Square,New York,NY,10036
 265318790,way,40.7645991,-73.9925536,Skyline Hotel,hotel,,725,10th Avenue,New York,,10019
 265320185,way,40.7595565,-73.9906766,Ramada,hotel,,343,West 44th Street,New York,NY,10036
 265320826,way,40.7604706,-73.9881004,Econo Lodge,motel,,302,West 47th Street,New York,NY,10036
@@ -1636,7 +1636,7 @@
 265338414,way,40.7617006,-73.9880156,Belvedere Hotel,hotel,,319,West 48th Street,New York,,10036
 265343855,way,40.7713358,-73.9827172,The Empire Hotel,hotel,en:The Empire Hotel (New York City),44,West 63rd Street,New York,NY,10023
 265345338,way,40.7623052,-73.9712729,Four Seasons Hotel,hotel,en:Four Seasons Hotel New York,57,East 57th Street,New York,NY,10022
-265345371,way,40.7643101,-73.9725300,Sherry Netherlands,hotel,en:The Sherry-Netherland,,,,,
+265345371,way,40.7643101,-73.97253,Sherry Netherlands,hotel,en:The Sherry-Netherland,,,,,
 265345374,way,40.7623189,-73.9738927,Trump Tower,yes,en:Trump Tower,721/725,5th Avenue,New York,NY,10022
 265345851,way,40.7650793,-73.9716642,The Pierre,hotel,en:The Pierre,,,,,
 265347588,way,40.7691057,-73.9737037,The Dairy (Visitor Center and Gift Shop),information,en:The Dairy,,,,,
@@ -1645,32 +1645,32 @@
 265424380,way,40.7509276,-73.9816924,Hyatt Centric 39th & 5th New York,hotel,,16,East 39th Street,New York,NY,10016
 265438048,way,40.7578685,-73.9645712,AKA Sutton Place,hotel,,330,East 56th Street,New York,NY,10022
 265451685,way,40.7533308,-73.9660822,Beekman Tower,hotel,en:Beekman Tower,,,,NY,
-265483493,way,40.7566472,-73.9694410,Hilton Garden Inn,hotel,,206,East 52nd Street,New York,NY,10022
+265483493,way,40.7566472,-73.969441,Hilton Garden Inn,hotel,,206,East 52nd Street,New York,NY,10022
 265483607,way,40.7557181,-73.9691038,The Pod Hotel,hotel,,230,East 51st Street,,,10022
 265512002,way,40.7532196,-73.9710102,Vanderbilt YMCA,hotel,,224,East 47th Street,,,10017
 265512015,way,40.7525569,-73.9682461,Japan Society,yes,en:Japan Society (Manhattan),333,East 47th Street,New York,NY,10017
 265516385,way,40.7513713,-73.9705402,United Nations Apartment Hotel,hotel,,302,East 45th Street,,,10017
 265864902,way,40.7496448,-73.9762852,Seton Hotel,hotel,,144,East 40th Street,New York,,10016
-265864905,way,40.7494052,-73.9765740,POD 39,hotel,en:Allerton 39th Street House,145,East 39th Street,New York,NY,10016
+265864905,way,40.7494052,-73.976574,POD 39,hotel,en:Allerton 39th Street House,145,East 39th Street,New York,NY,10016
 265864912,way,40.7492783,-73.9763151,Murray Hill East Suites,hotel,,149,East 39th Street,,,10016
 265875541,way,40.7508699,-73.9800748,Pestana Park Avenue,hotel,,23,East 39th Street,New York,,10016
-265875558,way,40.7504700,-73.9802536,The William,hotel,,24,East 39th Street,New York,,10016
-265875622,way,40.7516030,-73.9791247,Dylan Hotel,hotel,,52,East 41st Street,New York,,10017
-265875634,way,40.7496026,-73.9800070,The Kitano New York,hotel,,66,Park Avenue,,,10016
-265875639,way,40.7521252,-73.9794050,Library Hotel,hotel,,299,Madison Avenue,New York,NY,10017
-265875646,way,40.7499670,-73.9809459,Madison Towers Hotel,hotel,,22,East 38th Street,New York,,10016
+265875558,way,40.75047,-73.9802536,The William,hotel,,24,East 39th Street,New York,,10016
+265875622,way,40.751603,-73.9791247,Dylan Hotel,hotel,,52,East 41st Street,New York,,10017
+265875634,way,40.7496026,-73.980007,The Kitano New York,hotel,,66,Park Avenue,,,10016
+265875639,way,40.7521252,-73.979405,Library Hotel,hotel,,299,Madison Avenue,New York,NY,10017
+265875646,way,40.749967,-73.9809459,Madison Towers Hotel,hotel,,22,East 38th Street,New York,,10016
 265883452,way,40.7518368,-73.9723578,EVEN Hotel Midtown East,hotel,,219,East 44th Street,New York,,10017
 265884383,way,40.7544214,-73.9726566,The Bernic,hotel,,145,East 47th Street,New York,,10017
 265884385,way,40.7558941,-73.9715308,San Carlos,hotel,,150,East 50th Street,New York,,10022
 265884389,way,40.7553137,-73.9729163,Hotel 48LEX,hotel,,517,Lexington Avenue,New York,,10017
 265884390,way,40.7547136,-73.9725799,Residence Inn,hotel,,148,East 48th Street,New York,NY,10017
 265884394,way,40.7548957,-73.9730222,The Lexington,hotel,en:Lexington Hotel (New York City),511,Lexington Avenue,New York,NY,10017
-265884678,way,40.7566578,-73.9714250,Doubletree by Hilton Hotel Metropolitan,hotel,en:569 Lexington Avenue,569,Lexington Avenue,New York,,10022
+265884678,way,40.7566578,-73.971425,Doubletree by Hilton Hotel Metropolitan,hotel,en:569 Lexington Avenue,569,Lexington Avenue,New York,,10022
 265884680,way,40.7563407,-73.9713732,The Kimberly,hotel,,145,East 50th Street,New York,,10022
 265884682,way,40.7565929,-73.9719891,The Benjamin Royal,hotel,en:The Benjamin Royal Sonesta New York,125,East 50th Street,New York,NY,10022
 265943080,way,40.7590649,-73.9693551,"The Carvi Hotel New York, Ascend Hotel Collection",hotel,,152,East 55th Street,New York,NY,10022
 265947358,way,40.7526483,-73.9772748,Grand Central Terminal,attraction,en:Grand Central Terminal,89,East 42nd Street,New York,NY,
-265947371,way,40.7520450,-73.9763361,Grand Hyatt New York,hotel,en:Hyatt Grand Central New York,109,East 42nd Street,New York,NY,10017
+265947371,way,40.752045,-73.9763361,Grand Hyatt New York,hotel,en:Hyatt Grand Central New York,109,East 42nd Street,New York,NY,10017
 266010285,way,40.7554023,-73.9780936,Gotham Hotel,hotel,,16,East 46th Street,,,10017
 266010379,way,40.7585895,-73.9762957,Saint Patrickâs Cathedral,yes,en:St. Patrick's Cathedral (New York City),625,5th Avenue,New York,NY,10022
 266034045,way,40.7585909,-73.9895787,InterContinental New York Times Square,hotel,,300,West 44th Street,New York,NY,10036
@@ -1682,68 +1682,68 @@
 266108508,way,40.7544551,-73.9936148,Hilton Garden Inn,hotel,,326,West 37th Street,New York,NY,10018
 266143301,way,40.7554097,-73.9880764,Equity Point,hostel,,206,West 41st Street,New York,,10018
 266143309,way,40.7556116,-73.9886087,Hampton,hotel,,220,West 41st Street,New York,NY,10018
-266143348,way,40.7550610,-73.9881236,Margaritaville Resort,hotel,,207,West 40th Street,New York,NY,10018
+266143348,way,40.755061,-73.9881236,Margaritaville Resort,hotel,,207,West 40th Street,New York,NY,10018
 266149312,way,40.7596469,-73.9870077,Paramount Hotel,hotel,,235,West 46th Street,,,10036
 266149348,way,40.7605234,-73.9863819,The Gallivant,hotel,,234,West 48th Street,New York,NY,10036
 266151925,way,40.7611761,-73.9859678,Mayfair,hotel,,242,West 49th Street,New York,NY,10019
 266151929,way,40.7606357,-73.9851119,Crowne Plaza Times Square,hotel,,1605,Broadway,New York,NY,10019
 266151934,way,40.7612294,-73.9865051,Hilton Garden Inn,hotel,,790,8th Avenue,New York,NY,10019
 266151938,way,40.7615806,-73.9849656,citizenM,hotel,,218,West 50th Street,New York,NY,10019
-266170533,way,40.7559404,-73.9823490,Algonquin Hotel,hotel,en:Algonquin Hotel,59,West 44th Street,New York,NY,10036
+266170533,way,40.7559404,-73.982349,Algonquin Hotel,hotel,en:Algonquin Hotel,59,West 44th Street,New York,NY,10036
 266170536,way,40.7564973,-73.9853964,Casablanca Hotel,hotel,en:Hotel Metropole (New York City),147,West 43rd Street,New York,NY,10036
 266170538,way,40.7559358,-73.9821093,City Club Hotel,hotel,,55,West 44th Street,New York,NY,10036
 266170539,way,40.7581269,-73.9834365,Broadway @ Times Square Hotel,hotel,,129,West 46th Street,New York,NY,10036
 266170544,way,40.7574472,-73.9838008,Room Mate Grace Hotel,hotel,,125,West 45th Street,New York,NY,10036
 266170545,way,40.7572094,-73.9831989,Hotel St. James,hotel,,109,West 45th Street,New York,NY,
-266170597,way,40.7559294,-73.9802050,Citadines Connect,hotel,,15,West 45th Street,New York,,10036
+266170597,way,40.7559294,-73.980205,Citadines Connect,hotel,,15,West 45th Street,New York,,10036
 266170604,way,40.7597152,-73.9832804,Hard Rock Hotel,hotel,,159,West 48th Street,New York,NY,10019
 266170649,way,40.7599826,-73.9781624,DoubleTree by Hilton,hotel,,25,West 51st Street,New York,NY,10019
 266170752,way,40.7558522,-73.9819336,Iroquois New York Hotel,hotel,,49,West 44th Street,New York,NY,10036
-266170756,way,40.7570790,-73.9847958,Millennium Broadway,hotel,,145,West 44th Street,New York,NY,10036
-266170757,way,40.7571577,-73.9842010,Night Theater District,hotel,,132,West 45th Street,New York,NY,10036
+266170756,way,40.757079,-73.9847958,Millennium Broadway,hotel,,145,West 44th Street,New York,NY,10036
+266170757,way,40.7571577,-73.984201,Night Theater District,hotel,,132,West 45th Street,New York,NY,10036
 266170761,way,40.7554052,-73.9823932,Royalton New York,hotel,,44,West 44th Street,New York,NY,10036
-266170763,way,40.7559258,-73.9816340,Sofitel,hotel,,45,West 44th Street,New York,NY,
-266170764,way,40.7564754,-73.9845980,The Chatwal,hotel,,130,West 44th Street,New York,NY,10036
+266170763,way,40.7559258,-73.981634,Sofitel,hotel,,45,West 44th Street,New York,NY,
+266170764,way,40.7564754,-73.984598,The Chatwal,hotel,,130,West 44th Street,New York,NY,10036
 266170765,way,40.7577808,-73.9837782,The Muse New York,hotel,,130,West 46th Street,New York,NY,10036
 266170769,way,40.7589411,-73.9833872,Hotel Riu Plaza,hotel,,145,West 47th Street,New York,NY,10036
 266170798,way,40.7612693,-73.9825628,The Michelangelo,hotel,en:The Michelangelo,152,West 51st Street,,,
-266170799,way,40.7623843,-73.9814420,Sheraton New York Times Square Hotel,hotel,en:Sheraton New York Times Square Hotel,,,,,
-266170800,way,40.7567920,-73.9841301,AKA Times Square,hotel,,123,West 44th Street,New York,NY,10036
+266170799,way,40.7623843,-73.981442,Sheraton New York Times Square Hotel,hotel,en:Sheraton New York Times Square Hotel,,,,,
+266170800,way,40.756792,-73.9841301,AKA Times Square,hotel,,123,West 44th Street,New York,NY,10036
 266170808,way,40.7598175,-73.9792746,Radio City Music Hall,yes,en:Radio City Music Hall,,,,,
 266199252,way,40.7605217,-73.9597128,Mount Vernon Hotel Museum,museum,en:Mount Vernon Hotel Museum,421,East 61st Street,New York,NY,10065
 266206864,way,40.7621571,-73.9628054,The Palladin,hotel,,,,,,
-266212055,way,40.7605180,-73.9690918,Fitzpatrick,hotel,,687,Lexington Avenue,New York,,10022
+266212055,way,40.760518,-73.9690918,Fitzpatrick,hotel,,687,Lexington Avenue,New York,,10022
 266233368,way,40.7608055,-73.9703536,Lombardy Hotel,hotel,,111,East 56th Street,New York,,10022
 266233402,way,40.7599778,-73.9704153,Concorde Hotel,hotel,,127,East 55th Street,New York,,10022
 266233454,way,40.7607951,-73.9695931,Hotel 57,hotel,en:Allerton Hotel for Women,130,East 57th Street,New York,NY,10022
-266774911,way,40.7561320,-73.9865766,Times Square Ball,attraction,en:Times Square Ball,,,New York,NY,10036
+266774911,way,40.756132,-73.9865766,Times Square Ball,attraction,en:Times Square Ball,,,New York,NY,10036
 266864017,way,40.7665962,-73.9682911,Plaza AthÃ©nÃ©e,hotel,,37,East 64th Street,,,10065
 266887857,way,40.7698384,-73.9642913,Asia Society,museum,en:Asia Society,725,Park Avenue,New York,NY,10021
-266894185,way,40.7712772,-73.9671460,Frick Collection,museum,en:Frick Collection,1,East 70th Street,New York,NY,10021
+266894185,way,40.7712772,-73.967146,Frick Collection,museum,en:Frick Collection,1,East 70th Street,New York,NY,10021
 266898264,way,40.7743867,-73.9629902,The Carlyle,hotel,en:Carlyle Hotel,35,East 76th Street,New York,NY,10021
 266899058,way,40.7743191,-73.9640256,The Surrey,hotel,,20,East 76th Street,New York,NY,10021
 266899063,way,40.7753156,-73.9632594,The Mark,hotel,,25,East 77th Street,New York,NY,10075
 266926168,way,40.7842886,-73.9577609,"CooperâHewitt, Smithsonian Design Museum",museum,en:Andrew Carnegie Mansion,2,East 91st Street,New York,NY,
 266934250,way,40.7799803,-73.9602334,Institute for the Study of the Ancient World,museum,,15,East 85th Street,New York,NY,10028
 266934254,way,40.7812191,-73.9602374,Neue Galerie New York,museum,en:Neue Galerie New York,1048,5th Avenue,New York,NY,10028
-266940107,way,40.7854051,-73.9571860,The Jewish Museum,museum,en:Jewish Museum (Manhattan),1109,5th Avenue,New York,NY,10128
+266940107,way,40.7854051,-73.957186,The Jewish Museum,museum,en:Jewish Museum (Manhattan),1109,5th Avenue,New York,NY,10128
 267035000,way,40.7645746,-73.9784686,Le Meridien,hotel,,120,West 57th Street,New York,NY,10019
 269201903,way,40.7702126,-73.9897357,Fairfield Inn & Suites,hotel,,538,West 58th Street,New York,NY,10019
 269223975,way,40.7745156,-73.9831391,The Phillips Club,hotel,,155,West 66th Street,New York,NY,10023
 269248862,way,40.7762636,-73.9776196,La Quinta Inn,hotel,,31,West 71st Street,,NY,10023
-269293207,way,40.7780075,-73.9751520,The San Remo,yes,en:The San Remo,145-146,Central Park West,New York,NY,10023
+269293207,way,40.7780075,-73.975152,The San Remo,yes,en:The San Remo,145-146,Central Park West,New York,NY,10023
 269313812,way,40.7835056,-73.9784625,The Lucerne,hotel,,201,West 79th Street,New York,NY,10024
 270898203,way,40.7848313,-73.9816428,Imperial Court Hotel,hotel,,307,West 79th Street,New York,NY,10024
 270901657,way,40.7858798,-73.9773343,Children's Museum of Manhattan,museum,,212,West 83rd Street,New York,NY,10024
 271184934,way,40.7986679,-73.9665306,Hostelling International New York City,hostel,en:Association Residence Nursing Home,891,Amsterdam Avenue,New York,NY,10025-4403
 271192236,way,40.7981712,-73.9610846,Jazz on the Park,hostel,,36,West 106th Street,New York,NY,10025
-271205008,way,40.8029290,-73.9690037,Nicholas Roerich Museum,museum,,319,West 107th Street,,,10025
-271220752,way,40.7925060,-73.9519079,Museum of the City of New York,museum,en:Museum of the City of New York,1220,5th Avenue,New York,NY,10029
+271205008,way,40.802929,-73.9690037,Nicholas Roerich Museum,museum,,319,West 107th Street,,,10025
+271220752,way,40.792506,-73.9519079,Museum of the City of New York,museum,en:Museum of the City of New York,1220,5th Avenue,New York,NY,10029
 271274003,way,40.7931062,-73.9513946,El Museo Del Barrio,museum,en:El Museo del Barrio,1230,5th Avenue,New York,NY,10029
-271592477,way,40.7949253,-73.9343690,National Museum of Catholic Art and History,museum,,443,East 115th Street,,NY,10029
+271592477,way,40.7949253,-73.934369,National Museum of Catholic Art and History,museum,,443,East 115th Street,,NY,10029
 271800354,way,40.8091429,-73.9514277,Aloft Hotel,hotel,,2296,Frederick Douglass Boulevard,New York,,
 271827575,way,40.8166419,-73.9414779,Abyssinian Baptist Church,attraction,,132,Odell M Clarke Place,,,10030
-271885447,way,40.8213600,-73.9473012,Hamilton Grange National Memorial,museum,,414,West 141st Street,New York,NY,10031
+271885447,way,40.82136,-73.9473012,Hamilton Grange National Memorial,museum,,414,West 141st Street,New York,NY,10031
 271922197,way,40.8134537,-73.9630506,General Grant National Memorial,museum,en:Grant's Tomb,501,Riverside Drive,New York,NY,10024
 275014150,way,40.8344678,-73.9385796,Morris-Jumel Mansion,museum,en:MorrisâJumel Mansion,,,,NY,
 275085314,way,40.8485678,-73.9312826,Hotel Moca,hotel,,505,West 181st Street,New York,NY,10033
@@ -1751,7 +1751,7 @@
 277956176,way,40.7551889,-73.9856621,Hilton Garden Inn,hotel,,136,West 42nd Street,New York,NY,10036
 277956177,way,40.7517323,-73.9910643,Renaissance,hotel,,218,West 35th Street,,,
 278033597,way,40.7092071,-74.0136681,The Washington New York City,hotel,en:W New York Downtown Hotel and Residences,8,Albany Street,New York,,10006
-278033604,way,40.7114560,-74.0127418,9/11 Memorial & Museum,museum,en:National September 11 Memorial & Museum,180,Greenwich Street,New York,NY,10007
+278033604,way,40.711456,-74.0127418,9/11 Memorial & Museum,museum,en:National September 11 Memorial & Museum,180,Greenwich Street,New York,NY,10007
 278033626,way,40.7094285,-74.0143429,Marriott Downtown,hotel,,85,West Street,New York,,10006
 278039445,way,40.7111301,-74.0102166,Millennium,hotel,en:Millennium Downtown New York Hotel,55,Church Street,New York,NY,10007
 278042243,way,40.7090773,-74.0092207,Holiday Inn,hotel,,51,Nassau Street,,,10038
@@ -1765,13 +1765,13 @@
 278076359,way,40.7055891,-74.0072303,Holiday Inn Express,hotel,,126,Water Street,New York,NY,10005
 278084866,way,40.7089011,-74.0020315,Hampton Inn Manhattan-Seaport-Financial District,hotel,,320,Pearl Street,New York,NY,10038
 278245531,way,40.7141343,-73.9937844,Hotel Mimosa,hotel,,79,Division Street,New York,NY,10002
-278346578,way,40.7616120,-73.9775451,MoMA,museum,en:Museum of Modern Art,11,West 53rd Street,New York,NY,10019
+278346578,way,40.761612,-73.9775451,MoMA,museum,en:Museum of Modern Art,11,West 53rd Street,New York,NY,10019
 278353405,way,40.7627645,-74.0015078,Circle Line,attraction,en:Circle Line Sightseeing Cruises,,West 42nd Street,New York,NY,10036
 278366155,way,40.7970718,-73.9514566,Dana Discovery Center,information,,34,Central Park North,,,
 278396320,way,40.6903324,-74.0131401,Commanding Officer's Quarters,museum,,1,Barry Road,,,10004
-278396356,way,40.6915620,-74.0136630,,museum,,125,Carder Road,,,10004
+278396356,way,40.691562,-74.013663,,museum,,125,Carder Road,,,10004
 278396391,way,40.6893912,-74.0146672,NYC Audubon,information,,17,Evans Road,,,10004
-278396395,way,40.6896420,-74.0146490,,museum,,18,Evans Road,,,10004
+278396395,way,40.689642,-74.014649,,museum,,18,Evans Road,,,10004
 278396439,way,40.6891597,-74.0170718,The HoloCenter,gallery,,403,Comfort Road,,,10004
 279786562,way,40.7522709,-73.9951083,Fairfield Inn & Suites New York Midtown Manhattan/Penn Station,hotel,,325,West 33rd Street,New York,NY,10001
 281324351,way,40.7633646,-73.9858176,Romer Hell's Kitchen,hotel,,851,8th Avenue,New York,NY,10019
@@ -1781,9 +1781,9 @@
 284868519,way,40.7761126,-73.9430711,Gracie Mansion,yes,en:Gracie Mansion,181,East End Avenue,,NY,10028
 284880674,way,40.7603348,-73.9511335,Blackwell House,attraction,en:Blackwell House,500,Main Street,,,10044
 285900684,way,40.8618353,-73.9330332,,viewpoint,,4565,Broadway,,,10040
-288431450,way,40.7602096,-73.9881900,Riu Plaza Hotel,hotel,,305,West 46th Street,New York,NY,10036
+288431450,way,40.7602096,-73.98819,Riu Plaza Hotel,hotel,,305,West 46th Street,New York,NY,10036
 288448678,way,40.7588128,-73.9901114,TownePlace Suites,hotel,,,,New York,NY,10036
-288749896,way,40.7396330,-74.0089385,Whitney Museum of American Art,museum,en:Whitney Museum,99,Gansevoort Street,New York,NY,10014
+288749896,way,40.739633,-74.0089385,Whitney Museum of American Art,museum,en:Whitney Museum,99,Gansevoort Street,New York,NY,10014
 290821393,way,40.7501683,-73.9739838,The Westin New York,hotel,,212,East 42nd Street,New York,,10017
 292151070,way,40.7641558,-73.9949568,Comfort Inn,hotel,,548,West 48th Street,New York,NY,10036
 292706409,way,40.7073582,-74.0065011,Four Points by Sheraton,hotel,,6,Platt Street,New York,NY,10038
@@ -1798,47 +1798,47 @@
 293183674,way,40.7563387,-73.9821893,Cassa Hotel,hotel,en:Cassa Hotel & Residences,70,West 45th Street,New York,,10036
 296038615,way,40.8041111,-73.9435894,Harlem Fire Watchtower,viewpoint,en:Harlem Fire Watchtower,,,,,
 301471961,way,40.7509774,-73.9721678,Hampton Inn,hotel,,231,East 43rd Street,New York,NY,10017
-303772389,way,40.7058990,-74.0049488,Fairfield Inn New York Manhattan/Financial District,hotel,,161,Front Street,New York,NY,10038
+303772389,way,40.705899,-74.0049488,Fairfield Inn New York Manhattan/Financial District,hotel,,161,Front Street,New York,NY,10038
 317111780,way,40.7230518,-73.9920178,"PUBLIC, an Ian Schrager hotel",hotel,,215,Chrystie Street,New York,NY,10002
 317731926,way,40.7495022,-73.9696029,Peace Form One,artwork,,,,,,
-319797240,way,40.7576360,-73.9547001,Roosevelt Island Visitor Center Kiosk,information,,,,,,
-320486454,way,40.7365760,-73.9999789,The Greenwich Lane,apartment,,,,,,
+319797240,way,40.757636,-73.9547001,Roosevelt Island Visitor Center Kiosk,information,,,,,,
+320486454,way,40.736576,-73.9999789,The Greenwich Lane,apartment,,,,,,
 320487241,way,40.7244314,-74.0082488,Arlo Soho,hotel,,231,Hudson Street,New York,NY,10013
 320783773,way,40.7021074,-74.0132539,New Amsterdam Pavilion,information,,,,New York,NY,10004
 321995346,way,40.7263864,-74.0087252,,hotel,,525,Greenwich Street,New York,,10013
 328277779,way,40.6951135,-74.0002183,Picnic Peninsula,picnic_site,,,,,,
 338163684,way,40.8317621,-73.9515915,,picnic_site,,,,,,
-338163757,way,40.8319300,-73.9515128,,picnic_site,,,,,,
+338163757,way,40.83193,-73.9515128,,picnic_site,,,,,,
 338163775,way,40.8327975,-73.9509536,,picnic_site,,,,,,
-338164023,way,40.8328370,-73.9508846,,picnic_site,,,,,,
+338164023,way,40.832837,-73.9508846,,picnic_site,,,,,,
 338165929,way,40.8499695,-73.9467954,,picnic_site,,,,,,
 338165931,way,40.8499151,-73.9467566,,picnic_site,,,,,,
 338165932,way,40.8498579,-73.9467206,,picnic_site,,,,,,
 354587586,way,40.7677015,-73.9716988,Central Park Zoo,zoo,en:Central Park Zoo,,,,,
-369868758,way,40.7072220,-74.0063284,Courtyard New York Downtown Financial District,hotel,,215,Pearl Street,New York,NY,10038
+369868758,way,40.707222,-74.0063284,Courtyard New York Downtown Financial District,hotel,,215,Pearl Street,New York,NY,10038
 369962304,way,40.7093399,-74.0126549,The Cloud One New York-Downtown,hotel,,133,Greenwich Street,New York,NY,10006
 375157262,way,40.7056913,-73.9963566,Brooklyn Bridge,attraction,en:Brooklyn Bridge,,,,,
 375340301,way,40.7057717,-74.0051013,AC Hotel,hotel,,151,Maiden Lane,New York,NY,10038
 387380393,way,40.7965413,-73.9528509,Nutter's Battery,attraction,en:Nutter's Battery,,,,,
 387386578,way,40.7946779,-73.9591729,Glen Span Arch,attraction,,,,,,
-388436810,way,40.7810986,-73.9742110,American Museum of Natural History,museum,en:American Museum of Natural History,180,Central Park West,New York,NY,10024
+388436810,way,40.7810986,-73.974211,American Museum of Natural History,museum,en:American Museum of Natural History,180,Central Park West,New York,NY,10024
 423013045,way,40.6925273,-74.0151206,Visitor Center,information,,,,,,
-433053921,way,40.6892529,-74.0445300,,artwork,,,,,,
-433887299,way,40.7361660,-73.9966428,Walker Hotel,hotel,,52,West 13th Street,,,10011
-458501298,way,40.7543894,-73.9857740,LUMA Hotel Times Square,hotel,,120,West 41st Street,New York,,10036
+433053921,way,40.6892529,-74.04453,,artwork,,,,,,
+433887299,way,40.736166,-73.9966428,Walker Hotel,hotel,,52,West 13th Street,,,10011
+458501298,way,40.7543894,-73.985774,LUMA Hotel Times Square,hotel,,120,West 41st Street,New York,,10036
 541143884,way,40.7465657,-73.9889432,Virgin Hotel,hotel,,1227,Broadway,,,10001
-541954976,way,40.7482630,-73.9749873,,picnic_site,,,,,,
+541954976,way,40.748263,-73.9749873,,picnic_site,,,,,,
 546663191,way,40.7669275,-73.9738307,Gapstow Bridge,attraction,,,,,,
 570751928,way,40.7516792,-73.9599896,,information,,,,,,
 570807392,way,40.6899741,-74.0208818,Amazen' Maze,attraction,,,,,,
 570807544,way,40.6902255,-74.0212396,Flywire Zipline,attraction,,,,,,
 570809412,way,40.6902124,-74.0213043,,attraction,,,,,,
-576057799,way,40.7127919,-74.0164800,,artwork,,,,,,
-580516390,way,40.7757593,-73.9717680,Bow Bridge,attraction,en:Bow Bridge (Central Park),,,,,
+576057799,way,40.7127919,-74.01648,,artwork,,,,,,
+580516390,way,40.7757593,-73.971768,Bow Bridge,attraction,en:Bow Bridge (Central Park),,,,,
 585788256,way,40.7699426,-73.9752476,Central Park Carousel,attraction,en:Central Park Carousel,,,,,
 586476446,way,40.7562117,-73.9884505,Madame Tussauds New York,museum,en:Madame Tussauds New York,234,West 42nd Street,,NY,10036
-591988949,way,40.7564660,-73.9885078,Ripley's Believe It or Not!,attraction,,234,West 42nd Street,,NY,10036
-608955193,way,40.8034980,-73.9630519,The Peace Fountain,artwork,,,,,,
+591988949,way,40.756466,-73.9885078,Ripley's Believe It or Not!,attraction,,234,West 42nd Street,,NY,10036
+608955193,way,40.803498,-73.9630519,The Peace Fountain,artwork,,,,,,
 636505579,way,40.7152825,-73.9937916,Canal Loft Hotel,hotel,,94,Canal Street,New York,NY,10002
 641349898,way,40.7202745,-74.0160588,Sherman Zwicker,attraction,en:Sherman Zwicker,,,,,
 664903764,way,40.8172335,-73.9586965,Lenfest Center for the Arts,gallery,,615,West 130th Street;West 129th Street,New York,NY,10027
@@ -1851,10 +1851,10 @@
 759709669,way,40.7511217,-73.9663312,Trophy of Civil Rights,artwork,,,,,,
 785585477,way,40.7538357,-73.9926598,DoubleTree,hotel,,525,8th Avenue,New York,NY,10018
 787486346,way,40.7407255,-73.9850445,SpringHill Suites,hotel,,111,East 24th Street,New York,NY,10010
-788269399,way,40.7456777,-73.9890760,The Ritz-Carlton,hotel,,25,West 28th Street,New York,NY,10001
+788269399,way,40.7456777,-73.989076,The Ritz-Carlton,hotel,,25,West 28th Street,New York,NY,10001
 828911214,way,40.7030515,-74.0122707,Hampton,hotel,,32,Pearl Street,New York,NY,10004
 833335529,way,40.7420048,-74.0106097,Little Island,attraction,en:Little Island at Pier 55,,,,,
-838658894,way,40.7530894,-73.9816670,,artwork,,,,,,
+838658894,way,40.7530894,-73.981667,,artwork,,,,,,
 869766821,way,40.7159645,-73.9968286,Hotel 50 Bowery,hotel,,50,Bowery,,,10013
 888758560,way,40.6908211,-74.0463272,Statue of Liberty Museum,museum,en:Statue of Liberty Museum,,,New York,NY,10004
 890862705,way,40.7113458,-73.9928785,Lower East Side Skatepark,attraction,,,,,,
@@ -1864,13 +1864,13 @@
 958635828,way,40.7743162,-73.9708332,Bethesda Fountain,attraction,en:Bethesda Terrace and Fountain,,,,,
 958998481,way,40.7724161,-73.9695426,Mother Goose,artwork,,,,,,
 958998482,way,40.7724745,-73.9697494,Snow Babies,artwork,,,,,,
-958999496,way,40.7757450,-73.9752161,John Lennon's Imagine,artwork,,,,,,
+958999496,way,40.775745,-73.9752161,John Lennon's Imagine,artwork,,,,,,
 959930314,way,40.7412404,-73.9882016,Roscoe Conkling,artwork,en:Statue of Roscoe Conkling,,,,,
-959930315,way,40.7415001,-73.9888370,William Henry Seward Monument,artwork,en:Statue of William H. Seward (New York City),,,,,
+959930315,way,40.7415001,-73.988837,William Henry Seward Monument,artwork,en:Statue of William H. Seward (New York City),,,,,
 959930318,way,40.7427844,-73.9870708,Chester Alan Arthur,artwork,en:Statue of Chester A. Arthur,,,,,
 959930319,way,40.7427637,-73.9876634,Admiral David Glasgow Farragut,artwork,en:Statue of David Farragut (New York City),,,,,
 965427808,way,40.6890005,-74.0208977,,picnic_site,,,,,,
-972016213,way,40.7730246,-73.9518360,,artwork,,,,,,
+972016213,way,40.7730246,-73.951836,,artwork,,,,,,
 988716842,way,40.7648102,-73.9730615,William Tecumseh Sherman,artwork,en:William Tecumseh Sherman (Saint-Gaudens),,,,,
 1021569486,way,40.7573579,-74.0004028,Aloft,hotel,,450,11th Avenue,New York,NY,10018
 1050341484,way,40.7055282,-74.0073531,Hotel Indigo,hotel,,120,Water Street,New York,NY,10005
@@ -1879,29 +1879,29 @@
 1074688554,way,40.7180418,-73.9906377,The Allen Hotel,hotel,,88,Allen Street,New York,NY,10002
 1076997167,way,40.7531602,-73.9984935,Pendry Manhattan West,hotel,,438,West 33rd Street,New York,NY,10001
 1078009882,way,40.7568252,-73.9709729,,artwork,,,,,,
-1079416265,way,40.8047350,-73.9318386,Crack Is Wack,artwork,en:Crack Is Wack,,,,,
+1079416265,way,40.804735,-73.9318386,Crack Is Wack,artwork,en:Crack Is Wack,,,,,
 1112132914,way,40.7359249,-73.9902996,Independence Flagstaff,artwork,en:Independence Flagstaff,,,,,
-1112562194,way,40.8133860,-73.9627655,Rolling Benches,artwork,,,,,,
+1112562194,way,40.813386,-73.9627655,Rolling Benches,artwork,,,,,,
 1112562195,way,40.8135269,-73.9632577,Rolling Benches,artwork,,,,,,
-1121218991,way,40.7957970,-73.9556927,Huddlestone Arch,attraction,,,,,,
+1121218991,way,40.795797,-73.9556927,Huddlestone Arch,attraction,,,,,,
 1121915656,way,40.7596145,-73.9830123,McGraw-Hill Waterfall Tunnel,attraction,,,,,,
 1121915658,way,40.7594529,-73.9831291,McGraw-Hill Waterfall Tunnel,attraction,,,,,,
 1128358851,way,40.7077559,-74.0132949,,hotel,,50,Trinity Place,New York,NY,10006
 1149260763,way,40.7443101,-73.9927376,Renaissance New York Chelsea Hotel,hotel,,112,West 25th Steet,New York,NY,10001
 1190058224,way,40.7044755,-74.0134424,Asia,artwork,en:Four Continents (French),,,,,
-1190058228,way,40.7044777,-74.0136770,America,artwork,en:Four Continents (French),,,,,
+1190058228,way,40.7044777,-74.013677,America,artwork,en:Four Continents (French),,,,,
 1190058230,way,40.7044791,-74.0138141,Europe,artwork,en:Four Continents (French),,,,,
 1190058239,way,40.7044817,-74.0140439,Africa,artwork,en:Four Continents (French),,,,,
 1201726572,way,40.6937822,-74.0033255,,picnic_site,,,,,,
 1207800375,way,40.7600442,-73.9827025,McGraw-Hill Waterfall Tunnel,attraction,,,,,,
 1207800376,way,40.7598306,-73.9828563,McGraw-Hill Waterfall Tunnel,attraction,,,,,,
-1207800614,way,40.7595447,-73.9830630,McGraw-Hill Waterfall Tunnel,attraction,,,,,,
+1207800614,way,40.7595447,-73.983063,McGraw-Hill Waterfall Tunnel,attraction,,,,,,
 1208498066,way,40.8479345,-73.9315639,Radio Hotel,hotel,,2420,Amsterdam Avenue,,,10033
 1209893804,way,40.8061984,-73.9675244,Samuel J. Tilden Statue,artwork,,,,,,
-1213862024,way,40.7391438,-74.0110090,,artwork,en:Day's End (David Hammons),,,,,
+1213862024,way,40.7391438,-74.011009,,artwork,en:Day's End (David Hammons),,,,,
 1233699772,way,40.7194554,-73.9991571,Museum of Chinese in America,museum,,215,Centre Street,,,10013
 1234781195,way,40.7155659,-74.0104748,Warren Street Hotel,hotel,,86,Warren Street,New York,NY,10007
-1238653621,way,40.7182419,-74.0012140,Best Western Plus Soho Hotel,hotel,,88,Walker Street,New York,NY,10013
+1238653621,way,40.7182419,-74.001214,Best Western Plus Soho Hotel,hotel,,88,Walker Street,New York,NY,10013
 1239474582,way,40.7173755,-73.9992923,,information,,,,,,
 1261808966,way,40.8399914,-73.9365756,,artwork,,,,,,
 1261808967,way,40.8389673,-73.9370229,,artwork,,,,,,
@@ -1913,20 +1913,20 @@
 1272381004,way,40.8228703,-73.9515054,,artwork,,,,,,
 1272381005,way,40.8230959,-73.9514156,,artwork,,,,,,
 1288557659,way,40.7956673,-73.9441152,,artwork,,,,,,
-1315783397,way,40.7584850,-73.9852838,Times Square,artwork,en:Times Square (Neuhaus),,,,,
+1315783397,way,40.758485,-73.9852838,Times Square,artwork,en:Times Square (Neuhaus),,,,,
 1317983503,way,40.7593769,-73.9863656,SpringHill Suites,hotel,,223,West 46th Street,New York,NY,
-1349122395,way,40.7175972,-74.0029320,Anat Egbi,gallery,,372,Broadway,,,10013
+1349122395,way,40.7175972,-74.002932,Anat Egbi,gallery,,372,Broadway,,,10013
 1353803146,way,40.8227007,-73.9497102,,artwork,,,,,,
 1341944,relation,40.7767769,-73.9761539,The Dakota,attraction,en:The Dakota,1,West 72nd Street,New York,NY,10023
-2100751,relation,40.7616120,-73.9775451,MoMA,attraction,,,,,,
+2100751,relation,40.761612,-73.9775451,MoMA,attraction,,,,,,
 2154552,relation,40.7585447,-73.9761753,Saint Patrickâs Cathedral,attraction,,,,,,
 2399300,relation,40.7642941,-73.9804701,Wellington Hotel,hotel,,871,Seventh Avenue,New York,NY,10019
 3343754,relation,40.7324978,-73.9986586,Washington Square Hotel,hotel,,103,Waverly Place,New York,,10011
 3365139,relation,40.7383044,-74.0093302,The Jane,hotel,en:The Jane,113,Jane Street,New York,NY,10014
-3606825,relation,40.7792860,-73.9742650,New-York Historical Society,museum,en:New-York Historical Society,170,Central Park West,New York,NY,10024
+3606825,relation,40.779286,-73.974265,New-York Historical Society,museum,en:New-York Historical Society,170,Central Park West,New York,NY,10024
 3623014,relation,40.7985254,-73.9600459,Astor on the Park,hotel,,465,Central Park West,New York,NY,10025
 3623587,relation,40.7982744,-73.9518663,Park View Hotel,hotel,,55,Central Park North,,,
-3624833,relation,40.8037670,-73.9617468,Cathedral of Saint John the Divine,attraction,en:Cathedral of St. John the Divine,1047,Amsterdam Avenue,New York,NY,10025
+3624833,relation,40.803767,-73.9617468,Cathedral of Saint John the Divine,attraction,en:Cathedral of St. John the Divine,1047,Amsterdam Avenue,New York,NY,10025
 3698894,relation,40.7793968,-73.9634178,The Metropolitan Museum of Art,museum,en:Metropolitan Museum of Art,1000,5th Avenue,New York,NY,
 6424088,relation,40.8648228,-73.9317918,The Cloisters,attraction,en:The Cloisters,99,Margaret Corbin Drive,New York,NY,10040
 7141751,relation,40.7479527,-74.0039539,The High Line,attraction,en:High Line,,,New York,NY,
