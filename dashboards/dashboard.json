@@ -1,0 +1,379 @@
+{
+  "title": "New dashboard",
+  "version": "2.4",
+  "settings": {
+    "pagenumber": 2,
+    "editable": true,
+    "fullscreenEnabled": false,
+    "parameters": {
+      "neodash_startlocation": "hotel",
+      "neodash_endlocation": "art",
+      "neodash_startId": "3365139",
+      "neodash_endId": "357620718",
+      "neodash_undefined": "The Standard, East Village",
+      "neodash_startId2": "Invisible Man: A Memorial to Ralph Ellison",
+      "neodash_endId2": "Casa Cipriani New York",
+      "neodash_crash_date": "01/31/2025",
+      "neodash_crash_date_display": "01/31/2025",
+      "neodash_en": "The Jane"
+    },
+    "theme": "light"
+  },
+  "pages": [
+    {
+      "title": "New page",
+      "reports": [
+        {
+          "id": "71332d84-1c58-48b2-b90f-3bf6fd185084",
+          "title": "Search Start Location",
+          "query": "RETURN true;",
+          "width": 6,
+          "height": 4,
+          "x": 0,
+          "y": 0,
+          "type": "select",
+          "selection": {},
+          "settings": {
+            "type": "Free Text",
+            "entityType": "startlocation",
+            "parameterName": "neodash_startlocation"
+          },
+          "schema": []
+        },
+        {
+          "id": "c81eada2-561a-4fc9-96e5-e89f056668a4",
+          "title": "Search End Location",
+          "query": "RETURN true;",
+          "width": 6,
+          "height": 4,
+          "x": 6,
+          "y": 0,
+          "type": "select",
+          "selection": {},
+          "settings": {
+            "type": "Free Text",
+            "entityType": "endlocation",
+            "parameterName": "neodash_endlocation"
+          },
+          "schema": []
+        },
+        {
+          "id": "7fe8399e-8e72-45dd-b098-18eb99b7ad87",
+          "title": "Graph View",
+          "query": "MATCH (first:POI {osmid:$neodash_startId})-[:NEAREST_INTERSECTION]->(start:Intersection) \nMATCH (last:POI {osmid:$neodash_endId})-[:NEAREST_INTERSECTION]->(end:Intersection) \n  CALL apoc.algo.dijkstra(start, end, 'ROAD_SEGMENT', 'length')YIELD path, weight\nreturn path,weight,first,last\n\n\n",
+          "width": 6,
+          "height": 4,
+          "x": 6,
+          "y": 8,
+          "type": "map",
+          "selection": {
+            "Intersection": "(label)",
+            "POI": "name"
+          },
+          "settings": {
+            "fullscreenEnabled": true
+          },
+          "schema": [
+            [
+              "Intersection",
+              "ref",
+              "location",
+              "highway",
+              "street_count",
+              "osmid"
+            ],
+            [
+              "POI",
+              "tourism_type",
+              "osmid",
+              "address_street",
+              "name",
+              "address_state",
+              "location",
+              "wikipedia",
+              "address_zip",
+              "address_city",
+              "address_number"
+            ]
+          ]
+        },
+        {
+          "id": "d919851b-a631-40cb-9772-f8f594ccc760",
+          "title": "Select Start",
+          "query": "MATCH (p:POI)\nWHERE p.tourism_type CONTAINS $neodash_startlocation AND p.wikipedia IS NOT NULL\nSET p.wikipedia = REPLACE(REPLACE(p.wikipedia, 'en:', ''), '_', ' ')\nRETURN p.name AS name, p.osmid AS __ID, p.wikipedia AS __EN\n\n",
+          "width": 6,
+          "height": 4,
+          "x": 0,
+          "y": 4,
+          "type": "table",
+          "selection": {},
+          "settings": {
+            "actionsRules": [
+              {
+                "condition": "Click",
+                "field": "name",
+                "value": "__ID",
+                "customization": "set variable",
+                "customizationValue": "startId"
+              },
+              {
+                "condition": "Click",
+                "field": "name",
+                "value": "__EN",
+                "customization": "set variable",
+                "customizationValue": "en"
+              }
+            ]
+          }
+        },
+        {
+          "id": "4f3b7511-df0e-40a4-86b9-d4f7d538f319",
+          "title": "Select End",
+          "query": "MATCH (p:POI)\nWHERE p.tourism_type CONTAINS $neodash_endlocation\nRETURN p.name AS name, p.osmid AS __ID\n\n\n",
+          "width": 6,
+          "height": 4,
+          "x": 6,
+          "y": 4,
+          "type": "table",
+          "selection": {},
+          "settings": {
+            "actionsRules": [
+              {
+                "condition": "Click",
+                "field": "name",
+                "value": "__ID",
+                "customization": "set variable",
+                "customizationValue": "endId"
+              }
+            ]
+          }
+        },
+        {
+          "id": "a82e95c0-5d8d-443a-bd2a-ade3c98f24c4",
+          "title": "",
+          "query": "MATCH (first:POI {osmid:$neodash_startId})-[:NEAREST_INTERSECTION]->(start:Intersection) \nMATCH (last:POI {osmid:$neodash_endId})-[:NEAREST_INTERSECTION]->(end:Intersection) \nCALL gds.shortestPath.dijkstra.stream('Intersections', {\n    sourceNode: start,\n    targetNode: end,\n    relationshipWeightProperty: 'traveltime'\n})\nYIELD  sourceNode, targetNode, costs, path\nRETURN *;\n\n\n",
+          "width": 6,
+          "height": 4,
+          "x": 0,
+          "y": 8,
+          "type": "map",
+          "selection": {
+            "Intersection": "(no label)",
+            "POI": "name"
+          },
+          "settings": {
+            "fullscreenEnabled": true
+          },
+          "schema": [
+            [
+              "Intersection",
+              "ref",
+              "osmid",
+              "location",
+              "highway",
+              "street_count"
+            ],
+            [
+              "POI",
+              "tourism_type",
+              "osmid",
+              "address_street",
+              "name",
+              "address_state",
+              "location",
+              "wikipedia",
+              "address_zip",
+              "address_city",
+              "address_number"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "New page",
+      "reports": [
+        {
+          "id": "0844fdbf-c46b-4c79-adbe-7d242a2b48f0",
+          "title": "",
+          "query": "MATCH (c:Crash) \nWHERE c.date = $neodash_crash_date\nreturn c\n\n\n\n\n\n",
+          "width": 6,
+          "height": 4,
+          "x": 7,
+          "y": 0,
+          "type": "map",
+          "selection": {
+            "Crash": "(label)"
+          },
+          "settings": {
+            "actionsRules": [
+              {
+                "condition": "Click",
+                "field": "",
+                "value": "",
+                "customization": "set variable",
+                "customizationValue": ""
+              }
+            ]
+          },
+          "schema": [
+            [
+              "Crash",
+              "date",
+              "zip",
+              "vehicle_type_code_1",
+              "collision_id",
+              "contributing_factor_1",
+              "street",
+              "location",
+              "time",
+              "cross_street",
+              "contributing_factor_2",
+              "vehicle_type_code_2",
+              "off_street"
+            ]
+          ]
+        },
+        {
+          "id": "b8c86e12-db4d-4127-af4d-4962480bdeee",
+          "title": "",
+          "query": "MATCH (first:POI {osmid:$neodash_startId})-[:NEAREST_INTERSECTION]->(start:Intersection),\n      (last:POI {osmid:$neodash_endId})-[:NEAREST_INTERSECTION]->(end:Intersection),\n      (:Crash {date: $neodash_crash_date})-[:NEAREST_INTERSECTION]->(ci:Intersection)\nWITH first, last, start, end, ci\nMATCH p = shortestPath((start)-[:ROAD_SEGMENT*]-(end))\nWHERE NONE (i IN nodes(p) WHERE i = ci)  // Exclude paths that pass through crash intersections\nRETURN first, last, p LIMIT 1;\n",
+          "width": 6,
+          "height": 4,
+          "x": 1,
+          "y": 4,
+          "type": "map",
+          "selection": {
+            "POI": "name",
+            "Intersection": "(label)"
+          },
+          "settings": {
+            "fullscreenEnabled": true
+          },
+          "schema": [
+            [
+              "POI",
+              "tourism_type",
+              "osmid",
+              "address_street",
+              "name",
+              "address_state",
+              "location",
+              "address_zip",
+              "address_city",
+              "address_number",
+              "wikipedia"
+            ],
+            [
+              "Intersection",
+              "ref",
+              "osmid",
+              "location",
+              "highway",
+              "street_count"
+            ]
+          ]
+        },
+        {
+          "id": "2c3ad069-1522-47bb-bb25-7e9e181e8835",
+          "title": "Date",
+          "query": "MATCH (n:`Crash`) \nWHERE toLower(toString(n.`date`)) CONTAINS toLower($input) \nRETURN DISTINCT n.`date` as value,  n.`date` as display ORDER BY size(toString(value)) ASC LIMIT 5",
+          "width": 6,
+          "height": 4,
+          "x": 1,
+          "y": 0,
+          "type": "select",
+          "selection": {},
+          "settings": {
+            "type": "Node Property",
+            "entityType": "Crash",
+            "propertyType": "date",
+            "propertyTypeDisplay": "date",
+            "parameterName": "neodash_crash_date"
+          },
+          "schema": []
+        },
+        {
+          "id": "cf251c8d-e4b4-44e2-89bb-9c47a4152183",
+          "title": "",
+          "query": "MATCH (first:POI {osmid:$neodash_startId})-[:NEAREST_INTERSECTION]->(start:Intersection),\n      (last:POI {osmid:$neodash_endId})-[:NEAREST_INTERSECTION]->(end:Intersection),\n      (c:Crash {date: $neodash_crash_date})\nWITH first, last, start, end, c\nCALL apoc.algo.dijkstraWithDefaultWeight(start, end, 'ROAD_SEGMENT', 'weight', 1, {avoidNodes: [c]}) YIELD path, weight\nRETURN path, weight;\n",
+          "width": 6,
+          "height": 4,
+          "x": 7,
+          "y": 5,
+          "type": "map",
+          "selection": {},
+          "settings": {},
+          "schema": []
+        }
+      ]
+    },
+    {
+      "title": "New page",
+      "reports": [
+        {
+          "id": "47211d9e-58f7-4eab-9eed-cbae3c9c9d2a",
+          "title": "",
+          "query": "https://en.wikipedia.org/wiki/$neodash_en\n\n\n\n",
+          "width": 6,
+          "height": 4,
+          "x": 0,
+          "y": 0,
+          "type": "iframe",
+          "selection": {},
+          "settings": {
+            "actionsRules": [
+              {
+                "condition": "Click",
+                "field": "",
+                "value": "",
+                "customization": "set variable",
+                "customizationValue": ""
+              }
+            ]
+          },
+          "schema": []
+        },
+        {
+          "id": "f7e4b106-6d32-456d-9c47-5bb5c66ac80a",
+          "title": "",
+          "query": "\n\n\n",
+          "width": 6,
+          "height": 4,
+          "x": 6,
+          "y": 0,
+          "type": "table",
+          "selection": {},
+          "settings": {}
+        },
+        {
+          "id": "af9383ce-a8e5-43c6-a89a-64859c88392f",
+          "title": "",
+          "query": "RETURN true;",
+          "width": 6,
+          "height": 4,
+          "x": 12,
+          "y": 0,
+          "type": "select",
+          "selection": {},
+          "settings": {
+            "type": "Node Property"
+          },
+          "schema": []
+        }
+      ]
+    }
+  ],
+  "parameters": {},
+  "extensions": {
+    "active": true,
+    "activeReducers": [],
+    "advanced-charts": {
+      "active": true
+    },
+    "actions": {
+      "active": true
+    }
+  },
+  "uuid": "0be681ff-e7cb-4e4c-b5ed-ad0319495ad0"
+}
